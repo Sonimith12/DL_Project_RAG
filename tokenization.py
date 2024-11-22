@@ -52,7 +52,7 @@ data_collator = DataCollatorForSeq2Seq(
 )
 
 # Load BART model and apply LoRA (use AutoModelForSeq2SeqLM for sequence-to-sequence tasks)
-model = AutoModelForSeq2SeqLM.from_pretrained("facebook/bart-large", device_map="cpu")  # Force CPU usage
+model = AutoModelForSeq2SeqLM.from_pretrained("facebook/bart-large")  # Force CPU usage
 lora_config = LoraConfig(
     task_type="SEQ2SEQ_LM", r=16, lora_alpha=32, lora_dropout=0.1
 )
