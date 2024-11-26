@@ -69,7 +69,7 @@ training_args = TrainingArguments(
     evaluation_strategy="no",  # No evaluation during training
     logging_dir="./logs",
     learning_rate=5e-5,
-    no_cuda=True,  # Disable CUDA, force CPU
+ # Disable CUDA, force CPU
 )
 
 # Trainer
