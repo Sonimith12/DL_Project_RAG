@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "llm_model": "gemini-1.5-flash",
+        "results_number": 10
+    },
+    "qa_pairs": [
+        {
+            "question": "What is this drug typically prescribed for?",
+            "answer": "Duloxetine is a medication commonly prescribed for depression, anxiety, major depressive disorder, pain, and fibromyalgia.  Other medications used to treat pain include Ultram, often prescribed for pain, fibromyalgia, and rheumatoid arthritis.  For conditions like plaque psoriasis and psoriatic arthritis, Otezla and apremilast are frequently prescribed."
+        }
+    ]
+}
