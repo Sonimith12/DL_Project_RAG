@@ -1,0 +1,407 @@
+{
+    "metadata": {
+        "instruction": "Imagine you are a simple user asking these questions. Rank the answers for each question from best to worst. Provide the ranking as a list for each question, for example {3,1,2} if the second answer is the best, the third is second, and the first is third.When it says The context does not contain enough information to answer this question. give 4 as un rank even if there is 2 answer with this sentence"
+    },
+    "questions": [
+        {
+            "question": "What is Stribild used for?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "HIV Infection",
+                "answer_3": "HIV Infection"
+            }
+        },
+        {
+            "question": "Is Stribild effective for treating HIV?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Stribild shows effectiveness in treating HIV infection, resulting in decreased viral load and increased CD4 count in multiple patients within varying timeframes.  Some patients reported becoming undetectable.  However, some patients experienced side effects such as diarrhea and vivid dreams.",
+                "answer_2": "Based on the provided reviews, Stribild shows effectiveness in treating HIV infection.  Multiple reviews report significant decreases in viral load and increases in CD4 counts within short periods of treatment (e.g., one month, three weeks),  with some individuals achieving undetectable viral loads.  However, some users also experienced side effects such as diarrhea and vivid dreams.",
+                "answer_3": "Based on the provided reviews, Stribild shows effectiveness in treating HIV infection, with many users reporting undetectable viral loads and increased CD4 counts after varying treatment durations.  Some users also reported no side effects."
+            }
+        },
+        {
+            "question": "Are there any side effects of Stribild?",
+            "answers": {
+                "answer_1": "Yes.  Reported side effects include:  severe diarrhea, vivid and wild dreams, neuropathy (similar to Reynaud's syndrome), reversible kidney stress (decreased potassium and phosphate, elevated creatinine).  Some users reported no side effects.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Stribild treat other conditions related to HIV?",
+            "answers": {
+                "answer_1": "The provided text only describes Stribild's use in treating HIV infection.  It does not mention any other conditions it treats.",
+                "answer_2": "The provided text focuses solely on Stribild's use in treating HIV infection and does not offer information about its potential to treat other HIV-related conditions.",
+                "answer_3": "The provided text only describes Stribild's use in treating HIV infection.  It does not mention any other conditions it treats."
+            }
+        },
+        {
+            "question": "How does Stribild compare to other HIV medications?",
+            "answers": {
+                "answer_1": "The provided text focuses solely on Stribild and its effects.  Therefore, it does not offer a comparison to other HIV medications.",
+                "answer_2": "The provided text focuses on patient experiences with Stribild and does not offer a comparison to other HIV medications.",
+                "answer_3": "One review mentions switching from Atripla to Stribild due to side effects experienced with Atripla (horrendous dreams and pains, inability to sleep).  Another review mentions a four-year battle to control the virus with different HIV medicines before starting Stribild."
+            }
+        },
+        {
+            "question": "How long does Stribild take to suppress the virus?",
+            "answers": {
+                "answer_1": "One month, two months, three weeks, six weeks, and ten days are all mentioned as time periods in which Stribild showed effects on viral load.  One review mentions undetectable viral load after one month, but a CD4 count of only 200. Another review stated undetectability after a month with no side effects.  Other reviews show improvement in viral load and CD4 counts in varying timeframes.",
+                "answer_2": "Stribild showed virus suppression in as little as one month for some users.  Others saw results after two months, and some experienced a reduction in viral load within 10 days of treatment.  One user was undetectable after one month, but their CD4 count was still increasing.",
+                "answer_3": "Based on the provided reviews, Stribild showed viral suppression in as little as one month.  Other users reported viral suppression after three weeks, and another after ten days of treatment.  One user experienced undetectable viral load after three months."
+            }
+        },
+        {
+            "question": "Can Stribild be safely taken with other HIV treatments?",
+            "answers": {
+                "answer_1": "The provided text does not contain information about whether Stribild can be safely taken with other HIV treatments.",
+                "answer_2": "The provided text does not contain information about whether Stribild can be safely taken with other HIV treatments.",
+                "answer_3": "The provided text does not contain information about whether Stribild can be safely taken with other HIV treatments.  One review mentions a patient switched from Atipla to Stribild, but this doesn't address safe combination use."
+            }
+        },
+        {
+            "question": "Is Stribild suitable for long-term use?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text includes reviews of Stribild use ranging from one month to over three years.  Some individuals reported long-term success with undetectable viral loads and improved CD4 counts.  Others experienced side effects, such as diarrhea and vivid dreams, that persisted over time. One review mentions long-term use (4 years) resulting in  a battle to get the virus under control. Therefore, the provided text does not definitively answer whether Stribild is suitable for long-term use.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Are there patient success stories with Stribild?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What precautions should I take while using Stribild?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "To minimize side effects, eat 350 calories within 2 hours of each dose."
+            }
+        },
+        {
+            "question": "What is Sulfamethoxazole/Trimethoprim used for?",
+            "answers": {
+                "answer_1": "Sulfamethoxazole/Trimethoprim is used for bacterial skin infections, urinary tract infections, infection prophylaxis, and bacterial infections.",
+                "answer_2": "Sulfamethoxazole/Trimethoprim is used for acne, urinary tract infections, bacterial infections, and infection prophylaxis.",
+                "answer_3": "Urinary Tract Infection and Prostatitis"
+            }
+        },
+        {
+            "question": "Is Sulfamethoxazole/Trimethoprim effective for treating bacterial infections?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Sulfamethoxazole/Trimethoprim shows varied effectiveness for treating bacterial infections.  Some users reported it was effective for treating bacterial skin infections, sinus infections, throat infections, earaches, and urinary tract infections. Others reported it was only somewhat effective or ineffective.",
+                "answer_2": "Based on the provided reviews, Sulfamethoxazole/Trimethoprim shows effectiveness in treating bacterial infections including sinus infections, throat infections, earaches, skin infections (including those caused by alleged spider bites), and urinary tract infections.  However, some users reported the medication was ineffective for their urinary tract infection.  The effectiveness varied between individuals.",
+                "answer_3": "The provided reviews show varied results. Some users reported improvement in bacterial infections (sinus, throat, ear, skin infections, and urinary tract infections), with some noting quick symptom reduction and infection clearing within 24 hours. Others reported the drug was ineffective or caused significant side effects such as headaches, nausea, fatigue, skin rash, irritability, depression, lowered sex drive, yeast infections, and weight gain, outweighing any benefit.  One review reported no relief after seven days of treatment for a urinary tract infection."
+            }
+        },
+        {
+            "question": "Are there any side effects of Sulfamethoxazole/Trimethoprim?",
+            "answers": {
+                "answer_1": "Yes, there are several reported side effects: dizziness, sore [body part unspecified], loss of appetite, headache, flu symptoms, flushing, skin rash, irritability, depression, lowered sex drive, nausea, tingling in hands, stomach pain, sore throat, red and dry eyes, leg and arm cramps, queasy feeling, bad gas, general blah feeling, fatigue, upset stomach, burning, frequent urgency, and allergic reactions including shortness of breath, heavy chest, and rapid pulse.",
+                "answer_2": "Yes, there are several reported side effects: dizziness, soreness, loss of appetite, headache, skin rash, irritability, depression, lowered sex drive, joint pain, blurred vision, back pain, chills, fever, nausea, cough, sore throat, insomnia, sweats, stomach sickness, leg and arm cramps, migraines, throbbing eyeballs, chest pain, neck pain, upper and lower back pain, stomach and ovary pain, leg pain (especially in the knees),  a red rash,  tingling in the hands, red and dry eyes, lowered blood sugar, aches and pains, and constipation.",
+                "answer_3": "Yes, there are many reported side effects.  These include: dizziness, soreness, loss of appetite, headache, extreme exhaustion, extreme irritability, inability to concentrate, nausea, itching, skin peeling, vaginal spotting, body aches, severe headaches, a sore mouth, swollen lip, chills, shakes, anxiety, insomnia, constipation, muscle spasms, cramps, skin rash, depression, lowered sex drive, migraines, vomiting,  lowered blood sugar, aches and pains, and fatigue.  Some users reported that the side effects continued even after stopping the medication. One review mentioned possible mild pericarditis and pain when breathing."
+            }
+        },
+        {
+            "question": "Can Sulfamethoxazole/Trimethoprim treat other infections beyond bacterial skin infections?",
+            "answers": {
+                "answer_1": "Yes.  The provided text mentions its use for bacterial infections, sinus infections, throat infections, earaches, and urinary tract infections.",
+                "answer_2": "Yes.  The provided text indicates its use for bacterial infections, sinus infections, throat infections, and earaches in addition to bacterial skin infections.",
+                "answer_3": "Yes.  The provided text mentions its use for bacterial infections and urinary tract infections in addition to bacterial skin infections."
+            }
+        },
+        {
+            "question": "How long does Sulfamethoxazole/Trimethoprim take to show results?",
+            "answers": {
+                "answer_1": "Treatment times vary depending on the condition being treated.  For prostatitis, it takes 4-6 weeks. For acne, changes are seen in about a week. For bronchitis, one person felt better within a day and completely well in 3-4 days, while another experienced a negative reaction.  For bacterial skin infections, one person reported the infection clearing up slowly on the fifth day.",
+                "answer_2": "For prostatitis, it takes 4-6 weeks. For acne, it can take about a week, a few weeks, or 7 days, depending on the individual.  For urinary tract infections, it can work within hours of the first dose, or take a couple of days to show results; in some cases, symptom relief lasted only two days.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Sulfamethoxazole/Trimethoprim be safely taken with other antibiotics?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Is Sulfamethoxazole/Trimethoprim suitable for long-term use?",
+            "answers": {
+                "answer_1": "The provided text does not contain information regarding the suitability of Sulfamethoxazole/Trimethoprim for long-term use.",
+                "answer_2": "Based on the provided reviews,  long-term use of Sulfamethoxazole/Trimethoprim for acne is not recommended by at least one user due to potential negative side effects.  Another user experienced a return of acne symptoms after discontinuing the drug.  The provided text does not offer a conclusive statement on the suitability of long-term use for other conditions.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Are there patient success stories with Sulfamethoxazole/Trimethoprim?",
+            "answers": {
+                "answer_1": "Yes.  Several reviews describe successful treatment of urinary tract infections, bacterial infections, bacterial skin infections, and acne.  One review mentions improvement in sinus infection, throat infection, and earache. Another notes a quick reduction of symptoms.  A third states the medication worked, although with side effects.",
+                "answer_2": "Yes.  There are reviews reporting success treating acne and urinary tract infections. One patient reported their acne cleared up in about 7 days and was \"absolutely flawless\". Another reported that their acne significantly improved after a week of treatment.  A third review describes a quick reduction of urinary tract infection symptoms.",
+                "answer_3": "Yes.  Several reviews describe successful treatment of urinary tract infections with quick symptom reduction,  one stating it worked \"like magic\" with no side effects, and another reporting the infection cleared \"pretty fast\". One patient reported success after a single high dose, although they experienced side effects later. Another patient found it effective for a urinary tract infection, experiencing only fatigue as a side effect."
+            }
+        },
+        {
+            "question": "What precautions should I take while using Sulfamethoxazole/Trimethoprim?",
+            "answers": {
+                "answer_1": "Drink a very large amount of water to avoid concentrated medication and unbearable side effects.  Be aware that side effects may include headache, dizziness, flu symptoms, flushing, upset stomach, skin rash, irritability, depression, lowered sex drive,  dizziness, soreness, loss of appetite, nausea, vomiting, stomach pain, and diarrhea.  These may persist after stopping the medication.",
+                "answer_2": "Based on the provided reviews, consider these precautions:  Drink plenty of water, take the medication with food, and monitor your diet.  Be aware of potential side effects such as insomnia, sweats, headaches, stomach sickness, nausea, diarrhea, dizziness, flu symptoms, flushing, leg and arm cramps, body aches, and joint pain.  A known allergy to sulfa drugs is a serious contraindication.  Consider the possibility of delayed effectiveness; some users reported that it took several weeks to see results.",
+                "answer_3": "Based on the provided reviews, consider taking the medication with food, drinking plenty of water (2 liters or more in some cases), and monitoring your diet."
+            }
+        },
+        {
+            "question": "What is Otezla used for?",
+            "answers": {
+                "answer_1": "Otezla is used for plaque psoriasis and psoriatic arthritis.",
+                "answer_2": "Otezla is used for plaque psoriasis and psoriatic arthritis.",
+                "answer_3": "Otezla is used for Psoriatic Arthritis and Plaque Psoriasis."
+            }
+        },
+        {
+            "question": "Is Otezla effective for treating plaque psoriasis?",
+            "answers": {
+                "answer_1": "The provided reviews show varied effectiveness of Otezla for treating plaque psoriasis.  Some users reported almost total clearing of plaques within weeks, while others experienced little to no improvement, even after several months.  Some individuals found their psoriasis returned after initial clearing.",
+                "answer_2": "The provided reviews show varied results. Some users reported almost complete clearing of psoriasis plaques,  significant improvement, or a reduction in inflammation. Others experienced no improvement or even worsening of their condition.  Several users noted that Otezla worked well initially, but then its effectiveness decreased over time.",
+                "answer_3": "Based on the provided reviews, Otezla shows varying degrees of effectiveness for treating plaque psoriasis.  Some users reported significant improvement, with skin clearing ranging from 75% to 99%. Others experienced only partial clearing or found that the drug's effectiveness waned over time.  One user reported no improvement."
+            }
+        },
+        {
+            "question": "Are there any side effects of Otezla?",
+            "answers": {
+                "answer_1": "Yes, reported side effects of Otezla include nausea, diarrhea, headache, vomiting, upper stomach pain, chest pain, joint pain, back pain, tremors, appetite loss, fatigue, anxiety, indigestion, loose stools, and mood changes (including anger).  Some users reported no side effects or only mild side effects such as a slight headache.  The severity and presence of side effects varied greatly among users.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Otezla treat other conditions beyond plaque psoriasis?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The provided text focuses solely on Otezla's use in treating plaque psoriasis and does not offer information on whether it treats other conditions."
+            }
+        },
+        {
+            "question": "How does Otezla compare to other psoriasis treatments?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, some patients found Otezla to be more effective than topical creams, lotions, and shampoos, as well as superior to other treatments such as Enbrel and Humira.  One patient considered Otezla a safer option than injectable treatments.  However, other patients reported that Otezla was not effective for them, and some found it less effective than laser treatments.",
+                "answer_2": "Some reviews describe Otezla as having better results than various topical creams and pills, and as a safer alternative to injectable options.  One review mentions that Otezla worked when other treatments, including creams, lotions, shampoos, and 12-15 monthly scalp and leg injections, failed. Another review states that Otezla was effective after other topicals and laser treatments had limited success.  Conversely, some users found Otezla ineffective, experiencing a return of psoriasis symptoms when steroid creams were stopped.  In one case, Otezla appeared to worsen the condition.",
+                "answer_3": "Some users reported that Otezla was more effective than topical creams, other drugs, and UV light treatments.  Others found Otezla to be successful after trying Enbrel and Humira.  One user found that Otezla stopped working after initial success, and laser treatments became more helpful.  Another user stated that Otezla combined with light therapy was the only thing that worked, while another preferred Otezla to biologics due to less severe side effects."
+            }
+        },
+        {
+            "question": "How long does Otezla take to improve symptoms?",
+            "answers": {
+                "answer_1": "The provided reviews show varying results.  One user saw improvement in three weeks, another reported mostly clear skin after three months, while a third saw initial results within 4 weeks (scalp and ears).  Conversely, one user saw no improvement after 7 months, and another's psoriasis returned after 3 months of initial improvement.  One review mentioned that if Otezla doesn't work within 16 weeks, it typically won't work.",
+                "answer_2": "Some users saw results within two weeks, while others reported improvement after a month.  One user stated that if it doesn't work within 16 weeks, it likely won't work.  Another user saw improvement at 7 months, with almost complete clearing at 9 months.  There are also accounts where the medication did not show any improvement.",
+                "answer_3": "Otezla showed improvement within two weeks for one person, within four months for another, and within five months for a third.  One person saw results after five days, but another experienced no improvement after seven months.  One review mentioned astonishing initial results, but psoriasis patches returned after three months. Another user saw their symptoms return after five months."
+            }
+        },
+        {
+            "question": "Can Otezla be safely taken with other psoriasis treatments?",
+            "answers": {
+                "answer_1": "The provided text mentions Otezla being used alongside steroid creams, prescribed creams, lotions, and shampoos;  Methotrexate; light therapy; and Enbrel.  One review mentions the use of Otezla after failing Enbrel and Humira.",
+                "answer_2": "The provided text mentions Otezla being used concurrently with laser treatments, steroid creams (clobetasol and hydrocortisone),  topical medications,  UVB treatments,  and methotrexate.",
+                "answer_3": "The provided text mentions Otezla being used in conjunction with topical steroids, laser treatments, and Methotrexate.  One review mentions the use of Otezla and clobetasol or OTC hydrocortisone creams and moisturizers. Another review mentions the use of Otezla with UVB treatments."
+            }
+        },
+        {
+            "question": "Is Otezla suitable for long-term use?",
+            "answers": {
+                "answer_1": "The provided text offers conflicting information regarding the long-term suitability of Otezla. Some users experienced long-term benefits, while others reported that the drug stopped working after several months.  One user stated they were done with Otezla after fourteen months due to worsening side effects.",
+                "answer_2": "The provided text includes reviews describing Otezla use for up to 18 months.  One review mentions the drug helped clear skin for 7 months, with arthritis almost gone. Another reports satisfaction after 18 months of use.  However, other reviews describe discontinuation due to side effects or lack of efficacy.  Therefore, the suitability of Otezla for long-term use is not definitively answered within the given context.",
+                "answer_3": "The provided text offers conflicting information regarding the suitability of Otezla for long-term use.  Some users experienced positive results for several months, while others reported that its effectiveness diminished after a few months.  One user stopped using Otezla after four weeks due to upcoming surgery.  Another noted that Otezla stopped working for them after five months.  A different user stated that their doctor indicated that if Otezla doesn't work within 16 weeks, it likely won't work.  A separate user reported positive results for seven months."
+            }
+        },
+        {
+            "question": "Are there patient success stories with Otezla?",
+            "answers": {
+                "answer_1": "Yes.  Several reviews describe successful outcomes with Otezla for both plaque psoriasis and psoriatic arthritis.  Some patients experienced significant improvement in skin clearing and pain reduction.  In some cases,  improvement was seen within weeks.  One patient reported almost complete clearing of plaques on their hands in three weeks, while another experienced a 98% clearing of psoriasis and near resolution of arthritis after seven months.  However, other patients reported that the drug did not work for them.",
+                "answer_2": "Yes.  Several reviews describe significant improvements in psoriasis symptoms after using Otezla, including near-complete clearing of plaques, reduced pain, and improved quality of life.  Weight loss was also reported as a positive side effect in one case. One patient experienced almost total clearing of plaques on their hands after three weeks of treatment, while another reported 95% clearing after 10 months.  A third patient saw their skin become 98% clear after seven months, with their arthritis also almost gone.",
+                "answer_3": "Yes.  Many patients reported significant improvements in their psoriasis and psoriatic arthritis symptoms after using Otezla.  Some experienced complete or near-complete clearing of their skin lesions and a reduction or elimination of joint pain.  However, the duration of effectiveness varied among individuals."
+            }
+        },
+        {
+            "question": "What precautions should I take while using Otezla?",
+            "answers": {
+                "answer_1": "Based on the provided reviews,  you should be aware that Otezla may cause side effects such as nausea, diarrhea, headaches, migraines, stomach pain, indigestion, loose stools, weight loss, anxiety, panic attacks, tremors, and fatigue.  Some users reported that taking Otezla with food helped with nausea.  It's also important to note that  gradually increasing and decreasing the dosage is necessary to avoid potential adverse reactions like those experienced in the ER.  If headaches occur, taking Tylenol may help. Staying hydrated may help manage diarrhea.",
+                "answer_2": "Based on the provided reviews,  consider taking Otezla with food to minimize stomach upset.  If headaches occur, taking Tylenol may help manage them. Staying hydrated may also help mitigate side effects.  Be aware that side effects such as nausea, diarrhea, headaches, stomach discomfort, brain fog, and mood changes have been reported.  Some individuals experienced these side effects more severely at higher doses.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What medications are commonly used to treat chronic pain?",
+            "answers": {
+                "answer_1": "Methadone, Percocet, Buprenorphine, Morphine, Cymbalta, Roxicodone, Roxicet, Aspirin, Naproxen, and Ibuprofen.",
+                "answer_2": "Morphine, Methadone, Tramadol, Acetaminophen/oxycodone, Fentanyl, Hydromorphone, Hydrocodone, Ryzolt, and Oxycodone.",
+                "answer_3": "Acetaminophen/oxycodone, Percocet, Oxycodone, Roxicodone, and Duloxetine."
+            }
+        },
+        {
+            "question": "Are there alternative treatments for chronic pain?",
+            "answers": {
+                "answer_1": "The provided text mentions acupuncture and specific stretching as alternative treatments for chronic pain.",
+                "answer_2": "The provided text mentions nerve pills and antidepressants as alternative treatments for chronic pain.",
+                "answer_3": "Yes.  Exercise, meditation, acupuncture, and hypnotherapy are mentioned."
+            }
+        },
+        {
+            "question": "What medications are commonly used to treat muscle spasms?",
+            "answers": {
+                "answer_1": "Soma, Diazepam, Flexeril, Norgesic Forte, Carisoprodol, Valium, and Cyclobenzaprine.",
+                "answer_2": "Baclofen, Tizanidine, Norflex, Robaxin-750, Diazepam, and Methocarbamol.",
+                "answer_3": "Flexeril, Cyclobenzaprine, Valium, Soma, Methocarbamol, Carisoprodol, and Norflex."
+            }
+        },
+        {
+            "question": "Are there alternative treatments for muscle spasms?",
+            "answers": {
+                "answer_1": "Yes, the provided text mentions several alternative treatments for muscle spasms: Flexeril, Diazepam, Amrix, and Aspirin/carisoprodol.",
+                "answer_2": "Massage is mentioned as a helpful, albeit temporary, treatment for muscle spasms.",
+                "answer_3": "Yes, the following are mentioned as alternative treatments for muscle spasms:  Flexeril, Robaxin, Zanaflex, Skelexin, Parafon Forte, Cyclobenzaprine, Valium, and Norflex."
+            }
+        },
+        {
+            "question": "What medications are commonly used to treat HIV?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "Emtricitabine/rilpivirine/tenofovir, Efavirenz/emtricitabine/tenofovir, Cobicistat/elvitegravir/emtricitabine/tenofovir, and Cobicistat/elvitegravir/emtricitabine/tenofovir alafenamide are all used to treat HIV infection.",
+                "answer_3": "Cobicistat / elvitegravir / emtricitabine / tenofovir, Efavirenz / emtricitabine / tenofovir, Isentress, Dolutegravir, Abacavir / dolutegravir / lamivudine, Stribild, Cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide, Truvada, and  Tivicay."
+            }
+        },
+        {
+            "question": "Are there alternative treatments for HIV?",
+            "answers": {
+                "answer_1": "Yes.  The provided text mentions Isentress, Stribild, and several combinations of Cobicistat, elvitegravir, emtricitabine, tenofovir, and tenofovir alafenamide, as well as Efavirenz / emtricitabine / tenofovir as treatments for HIV infection.",
+                "answer_2": "Yes, the provided text mentions several alternative HIV treatments:  Efavirenz/emtricitabine/tenofovir, emtricitabine/rilpivirine/tenofovir, Atripla, Cobicistat/elvitegravir/emtricitabine/tenofovir, and Abacavir/dolutegravir/lamivudine.",
+                "answer_3": "Yes, the provided text mentions several alternative HIV treatments: Isentress, Cobicistat / elvitegravir / emtricitabine / tenofovir, Efavirenz / emtricitabine / tenofovir, Dolutegravir, Emtricitabine / rilpivirine / tenofovir, Atripla, Stribild, and Genvoya."
+            }
+        },
+        {
+            "question": "What medications are commonly used to treat bacterial skin infections?",
+            "answers": {
+                "answer_1": "Polysporin First Aid Antibiotic Ointment, Bacitracin/neomycin/polymyxin b, Bactrim DS, Sulfamethoxazole/trimethoprim, and Bactrim are mentioned as treatments for bacterial skin infections.",
+                "answer_2": "Polysporin, Bactrim, Bacitracin/neomycin/polymyxin b, Sulfamethoxazole/trimethoprim, and Zyvox.",
+                "answer_3": "Zyvox, Amoxicillin/clavulanate, and Clindamycin."
+            }
+        },
+        {
+            "question": "Are there alternative treatments for bacterial skin infections?",
+            "answers": {
+                "answer_1": "Yes, the provided text mentions several alternative treatments for bacterial skin infections:  Polysporin First Aid Antibiotic Ointment, Bacitracin / neomycin / polymyxin b, Keflex, and Clindesse cream.  Dial soap is also mentioned in conjunction with Bactrim.",
+                "answer_2": "Yes.  Augmentin and Flagyl are mentioned as alternative treatments for bacterial skin infections.  Polysporin First Aid Antibiotic Ointment, Bacitracin / neomycin / polymyxin b, and Dial soap are also mentioned in relation to bacterial skin infections.",
+                "answer_3": "Yes,  Zyvox, Flagyl, Lincocin (with gentamicin), and Clindamycin are mentioned as treatments for bacterial infections, some specifically for skin infections.  Aloe vera/hydrocortisone/iodoquinol is listed for dermatitis."
+            }
+        },
+        {
+            "question": "What medications are commonly used to treat plaque psoriasis?",
+            "answers": {
+                "answer_1": "Cosentyx, Dovonex, Adalimumab, Taltz, Clobetasol, and Humira.",
+                "answer_2": "The following medications are mentioned in the context as treatments for plaque psoriasis: Brodalumab, Cosentyx, Siliq, Humira, Stelara, Otezla, Enbrel, Clobetasol, hydrocortisone, Dovonex, Secukinumab, Cordran Tape, Taltz, and Apremilast.",
+                "answer_3": "Methotrexate, Mometasone, Betamethasone/calcipotriene, Cordran Tape, Cosentyx, Taclonex, and Otezla."
+            }
+        },
+        {
+            "question": "Are there alternative treatments for plaque psoriasis?",
+            "answers": {
+                "answer_1": "Yes, the following treatments are mentioned:  Cosentyx, Taltz, Secukinumab, Adalimumab, Dovonex,  Otezla, and Humira.",
+                "answer_2": "Yes, the provided text mentions several alternative treatments for plaque psoriasis:  pills, ointments,  tar baths, tar ointments, various steroids, phototherapy, methotrexate, clobetasol, OTC hydrocortisone creams, moisturizers, laser treatments,  Stelara, Humira, Siliq, Enbrel,  and  topicals.",
+                "answer_3": "Yes, the following treatments are mentioned for plaque psoriasis:  Enbrel, Humira, Otezla, Stelara, various topicals, clobetasol, OTC hydrocortisone creams, moisturizers, and laser treatments."
+            }
+        },
+        {
+            "question": "What is Imitrex commonly used for?",
+            "answers": {
+                "answer_1": "Migraine.",
+                "answer_2": "Migraine and cluster headaches.",
+                "answer_3": "Migraine"
+            }
+        },
+        {
+            "question": "How effective is Imitrex in treating migraines?",
+            "answers": {
+                "answer_1": "Many reviewers report Imitrex as highly effective in treating migraines, describing it as \"the only thing that works,\" \"the MOST effective ever,\" and \"magic migraine medicine.\"  Some users find it eliminates migraines completely, while others report it significantly shortens or lessens migraine pain.  However, some users note that its effectiveness decreases with long-term use, leading to side effects and rebound headaches.  The optimal frequency of use appears to be once or twice a month to avoid negative consequences.",
+                "answer_2": "Many users report Imitrex as highly effective in treating migraines, often describing it as \"the best,\" \"most effective ever,\" and \"life changing.\"  Some users found it completely stopped migraine pain, while others reported it significantly reduced pain and duration, even when taken after the pain started.  The effectiveness appears to be enhanced when taken at the first sign of a migraine or during the aura phase.  For some, it eliminated migraines completely; for others, it was more helpful in reducing the severity and duration of the pain.  One user noted that while other drugs intensified headaches, Imitrex provided relief.",
+                "answer_3": "Many reviewers found Imitrex to be very effective, describing it as \"life changing,\" \"saved my life,\" \"the MOST effective ever,\" and a \"miracle drug.\"  Some reported it worked most or almost all of the time, while others noted effectiveness depended on taking it at the migraine's onset.  One user stated it was 95% effective but sometimes required a second dose.  Another experienced a reduction in headache frequency over time.  Effectiveness was also reported to vary depending on the method of administration (tablet vs. injection)."
+            }
+        },
+        {
+            "question": "Can Imitrex cause side effects when used frequently?",
+            "answers": {
+                "answer_1": "Yes.  Long-term use has been associated with hair thinning, full body muscle pain and weakness, and possibly stroke.  Other reported side effects from frequent or long-term use include rebound headaches.",
+                "answer_2": "Yes.  One review mentions rebound headaches and another describes long-term use leading to hair thinning, muscle pain and weakness, and a possible stroke.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What are alternative medications to Imitrex for migraines?",
+            "answers": {
+                "answer_1": "The provided text mentions Fioricet/Fiorinal and Topamax as alternative medications for migraines.",
+                "answer_2": "The context mentions Fioricet/Fiorinal as an alternative medication for migraines.  Sumatriptan is also mentioned, but it's unclear if it is an alternative or a similar medication.  NSAIDs are mentioned as being less effective than Imitrex.",
+                "answer_3": "Relpax, Amerge, Maxalt, Zomig, Frova, and Axert are mentioned as alternatives to Imitrex for migraines.  Fioricet/Fiorinal is also mentioned as an effective medication, although tolerance can develop."
+            }
+        },
+        {
+            "question": "Does Imitrex provide quick relief for migraines?",
+            "answers": {
+                "answer_1": "Yes, several reviews indicate Imitrex provides quick migraine relief.  Some users reported relief within 20 minutes, while others experienced relief within an hour.  One user even stated that their migraine was gone within 35-40 minutes.",
+                "answer_2": "Yes, several reviews indicate Imitrex provides quick migraine relief, with some users reporting pain cessation within 35-40 minutes, and others within an hour or less.  Some users report effectiveness only if taken at the very onset of the migraine.",
+                "answer_3": "Yes, many reviews describe Imitrex providing quick migraine relief.  Some users report relief within 20 minutes, others within 35-40 minutes.  One review mentions that the injection provides faster relief than the tablet form."
+            }
+        },
+        {
+            "question": "What should I know before taking Imitrex?",
+            "answers": {
+                "answer_1": "Based on user reviews,  Imitrex may cause side effects including sleepiness, grogginess, stomach cramps, a burning sensation in the nose, a sore throat,  hair thinning, full body muscle pain and weakness,  night sweats, odd dreams, fatigue, dizziness,  pressure in the head, neck, chest, shoulders, and arms, tingling in the face, dry burning eyes, skin sensitivity to hot/cold, taste sensitivity to spicy/sour, lack of appetite, sweating, thirst, and mild muscle soreness.  Some users experienced a worsening of headaches or rebound headaches, particularly with long-term use or when taken with sodium naproxen.  Taking Imitrex with food may reduce stomach cramping.  The effectiveness and side effects may vary depending on whether it's taken on an empty stomach or not.  The injectable form may be preferable for some users due to faster results and a lower required dosage.  It is important to consider that some users found the drug to be very expensive.",
+                "answer_2": "Based on user reviews, Imitrex may cause side effects such as: sleep sweats, odd dreams, pressure in the head, neck, chest, shoulders, arms, tingling in the face, dry burning eyes, skin sensitivity to hot/cold, taste sensitivity to spicy/sour, lack of appetite, sweat, thirst, diuretic effects, mild muscle soreness, stomach cramps, a burning sensation in the nose, and a sore throat.  Some users experienced fatigue, dizziness, anxiety, increased heart beat, and a strange feeling in their chest.  In some cases, debilitating muscle aches occurred a day or so after taking the medication.  The severity of side effects may be reduced by taking the medication with food.  Effectiveness and side effects may vary depending on the specific formulation (e.g., generic vs. brand name).",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Is Suvorexant a reliable treatment for insomnia?",
+            "answers": {
+                "answer_1": "The provided reviews on Suvorexant for insomnia show varying results. Some users reported significant improvement in sleep quality and resolution of headaches, while others experienced no effect or negative side effects such as brain fog, worsened depression and anxiety, and nightmares.  Therefore, the reliability of Suvorexant as a treatment for insomnia is unclear based on the provided information.",
+                "answer_2": "The provided reviews on Suvorexant for insomnia are mixed. Some users reported significant improvement in sleep quality and duration, while others experienced no benefit or negative side effects such as brain fog, headaches, worsening depression and anxiety, and  no sleep.  Some found it helpful after other medications failed, while others found it inferior to other treatments.  The effectiveness seems to vary among individuals, and dosage may play a role.",
+                "answer_3": "The provided reviews on Suvorexant for insomnia are mixed. Some users reported significant improvement in sleep quality and duration, while others experienced no effect or negative side effects.  Therefore, based on the provided information, the reliability of Suvorexant as a treatment for insomnia is unclear."
+            }
+        },
+        {
+            "question": "How long does it take for Suvorexant to start working?",
+            "answers": {
+                "answer_1": "Several hours, or it may not work at all.  One review mentions working after 10 days of use. Another user reported effects after one night, while another user slept for four hours the first night and six hours the second night.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The provided reviews suggest varying times for Suvorexant to take effect.  Some users reported effects within a few hours, others noted it taking several hours, and one user stated it took approximately one hour to take effect.  One review mentioned that the drug may need one or two weeks to become fully effective."
+            }
+        },
+        {
+            "question": "What are common experiences of patients using Suvorexant?",
+            "answers": {
+                "answer_1": "Patients reported a wide range of experiences with Suvorexant. Some found it ineffective, with no noticeable effects even at higher doses (20mg). Others experienced significant side effects including daytime drowsiness (\"brain fog\"), vivid and disturbing dreams,  leg spasms, and sleepwalking.  Conversely, some patients reported significant improvement in sleep quality and resolution of headaches, describing it as life-changing.  One patient described initial ineffectiveness at a lower dose, but effectiveness at a higher dose (20mg).",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "Patients reported widely varying experiences with Suvorexant.  Some experienced significant improvement in sleep, including falling asleep easily, staying asleep all night, and waking up refreshed. Others reported that the drug didn't work at all, or only worked for a short time.  Side effects included feeling groggy or tired the next day, experiencing brain fog, unusual dreams, and impaired cognitive function (e.g., difficulty focusing, confusing everyday objects).  The effectiveness of Suvorexant seemed to vary depending on the underlying cause of insomnia; it was reported to be less effective for those whose insomnia stemmed from lifestyle factors.  Some users found a specific dosage (20mg) to be more effective, while others reported success with lower dosages (5mg, 10mg, or a fraction of 20mg)."
+            }
+        },
+        {
+            "question": "Does Suvorexant help with long-term insomnia?",
+            "answers": {
+                "answer_1": "Some users reported long-term success with Suvorexant for insomnia, while others reported it was ineffective.  One user with 15 years of insomnia reported significant improvement in sleep and headache relief.  Conversely, another user with 10 years of chronic insomnia reported it did not work and worsened their condition.",
+                "answer_2": "Some users reported success with Suvorexant for insomnia lasting 10 years and 15 years.  Others found it ineffective for chronic insomnia lasting 10 years.  One user noted that the drug may not work if insomnia is caused by lifestyle factors, not neurological hyperarousal.",
+                "answer_3": "Some reviews suggest Suvorexant helped with long-term insomnia, resulting in consistently good sleep after 10 days of use and even resolving long-standing sleep issues (over 15 years).  Other reviews indicate it was ineffective for insomnia."
+            }
+        },
+        {
+            "question": "Are there any risks associated with using Suvorexant?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "Based on the provided reviews, potential risks associated with Suvorexant include: nightmares, visions, a strange wake/sleep condition, feeling frozen and scared,  brain fog, headaches, stomach cramps, dizziness, grogginess,  worsening of depression and anxiety, and a hangover-like feeling the next day.  Some users reported it did not work at all."
+            }
+        }
+    ]
+}

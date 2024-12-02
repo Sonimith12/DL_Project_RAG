@@ -1,0 +1,407 @@
+{
+    "metadata": {
+        "instruction": "Imagine you are a simple user asking these questions. Rank the answers for each question from best to worst. Provide the ranking as a list for each question, for example {3,1,2} if the second answer is the best, the third is second, and the first is third.When it says The context does not contain enough information to answer this question. give 4 as un rank even if there is 2 answer with this sentence"
+    },
+    "questions": [
+        {
+            "question": "Is Ethinyl Estradiol/Norethindrone effective for birth control?",
+            "answers": {
+                "answer_1": "Yes.  Multiple reviews indicate it prevented unwanted pregnancy.",
+                "answer_2": "Based on the provided reviews, Ethinyl estradiol/norethindrone is reported as effective for birth control.  Several users reported it prevented pregnancy.",
+                "answer_3": "Yes, across multiple reviews, it is reported as effective in preventing pregnancy."
+            }
+        },
+        {
+            "question": "Can Ethinyl Estradiol/Norethindrone cause hormonal imbalances?",
+            "answers": {
+                "answer_1": "The provided reviews report various side effects, some of which could be indicative of hormonal imbalances.  These include: weight gain, acne, depression, mood swings, breast tenderness,  increased or decreased sex drive, changes in period length and intensity (including amenorrhea), hot flushes, and nausea.  However, many users reported no side effects or only positive effects.",
+                "answer_2": "Based on the provided reviews, some users experienced mood swings,  anxiety, depression, and changes in libido.  Others reported heavier periods.  However, some users found the medication did not cause any hormonal imbalances.",
+                "answer_3": "Based on the provided reviews, some users experienced mood swings, depression, anxiety, and paranoia while taking Ethinyl Estradiol/Norethindrone.  Others reported no hormonal imbalances."
+            }
+        },
+        {
+            "question": "What should I know before starting Ethinyl Estradiol/Norethindrone?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, some people experienced side effects such as nausea, stomach aches, breakthrough bleeding, mood changes, appetite changes,  facial breakouts, swelling, chest heaviness, palpitations, shortness of breath, dizziness, anxiety, fatigue, hot flushes, breast tenderness, and weight gain.  Others reported positive experiences, including significantly reduced bleeding and cramping, clearer skin, and no side effects.  Some experienced initial side effects that subsided after a few months.  Severe cramps and prolonged bleeding were also reported by one user.  Individual reactions vary.",
+                "answer_2": "Based on user reviews, some people experienced nausea, fatigue, breakthrough bleeding, acne, extreme mood swings, anxiety, and a low sex drive.  Others reported no side effects, light periods, or only mild side effects such as slight nausea and headaches that subsided.  Some individuals found their periods became very light or nonexistent.  Increased appetite was also reported.  For some, the side effects lessened after the initial few months.  It is important to note that experiences varied widely.",
+                "answer_3": "Based on user reviews,  Ethinyl Estradiol/Norethindrone may cause several side effects. These include nausea, low blood pressure (especially if started at 6 PM), acne, weight loss or gain, mood changes, appetite changes, swelling in feet, chest heaviness, palpitations, shortness of breath, depression, panic attacks, anxiety, increased or decreased sex drive, headaches, back pain,  cramps, lightheadedness, and vaginal infections. Some users reported no side effects.  The severity and presence of side effects varied greatly among users.  Periods may become lighter, shorter, heavier, or irregular.  Some users experienced early onset of menstruation."
+            }
+        },
+        {
+            "question": "Can Ethinyl Estradiol/Norethindrone regulate menstrual cycles?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Ethinyl Estradiol/Norethindrone can have varying effects on menstrual cycles. Some users reported experiencing shorter, lighter, and more regular periods, while others experienced prolonged periods or amenorrhea (absence of periods).  Some users noted that their periods became more predictable and consistent.",
+                "answer_2": "Yes, several reviews describe Ethinyl Estradiol/Norethindrone regulating menstrual cycles, resulting in lighter periods, shorter periods, periods occurring on a predictable schedule, and even the absence of periods in some cases.  Some users experienced a period of adjustment before regulation occurred.",
+                "answer_3": "Yes, several reviews indicate that Ethinyl Estradiol/Norethindrone can regulate menstrual cycles, resulting in lighter, shorter periods, and more predictable period timing.  Some users reported their periods disappearing altogether."
+            }
+        },
+        {
+            "question": "What is Clindamycin used for?",
+            "answers": {
+                "answer_1": "Clindamycin is used for bacterial infections, skin or soft tissue infections,  tooth infections, mouth infections (not tooth), a bacterial infection in the foot,  bacterial vaginitis, and bone infections.",
+                "answer_2": "Bacterial infection, Surgical Prophylaxis, Bacterial Vaginitis",
+                "answer_3": "Clindamycin is used for bacterial infection, bacterial vaginitis, and sinusitis."
+            }
+        },
+        {
+            "question": "Is Clindamycin effective for bacterial infections?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Clindamycin appears effective for various bacterial infections, including those affecting the mouth, foot, sinuses, and tonsils.  However, some users reported that effectiveness wasn't immediately apparent.",
+                "answer_2": "Some reviews indicate Clindamycin was effective in treating bacterial infections, resulting in symptom improvement or resolution within days.  Other reviews describe the drug as effective but with unpleasant side effects. One review mentions the drug was ineffective for a mouth infection.",
+                "answer_3": "The provided reviews show varied effectiveness. Some users reported Clindamycin worked excellently, resolving bacterial infections within days and significantly reducing swelling. Others reported significant improvement in bacterial vaginitis.  However, other users experienced no improvement or reported negative side effects despite the infection resolving.  Therefore, effectiveness varies."
+            }
+        },
+        {
+            "question": "What are the common side effects of Clindamycin?",
+            "answers": {
+                "answer_1": "Common side effects of Clindamycin reported include: heartburn, nausea, diarrhea, fatigue, dizziness, abdominal pain, back pain, stomach issues, flu-like symptoms, chills,  a metallic taste in the mouth,  an upset stomach, and constipation (from Zofran, a medication suggested to mitigate other side effects).  Some users reported worsening of pre-existing injuries or conditions.",
+                "answer_2": "Common side effects of Clindamycin reported include: heartburn, chest pains (feeling like an anxiety attack), back pain, stomach issues, flu-like symptoms (chills, feeling hot), difficulty breathing,  itchy eyelashes, bloating, nausea, abdominal pain, diarrhea,  unnatural taste in mouth, fatigue, and intestinal pain.  Some users reported that these side effects were lessened or avoided by eating before taking the medication, drinking plenty of water, and taking probiotics.",
+                "answer_3": "Common side effects of Clindamycin include diarrhea, abdominal pain, an unnatural taste in the mouth, headache, red and irritated eyes, heartburn, back pain, stomach issues, flu-like symptoms (chills, fever), itching, rash, swollen and peeling skin, constipation (from Zofran), and bloating.  Some users reported that pre-existing injuries flared up."
+            }
+        },
+        {
+            "question": "Can Clindamycin be used for dental infections?",
+            "answers": {
+                "answer_1": "Yes.  Clindamycin is mentioned in the context as being used for tooth infections and mouth infections.",
+                "answer_2": "Yes.  Clindamycin is mentioned as a treatment for tooth infections in multiple reviews.",
+                "answer_3": "Yes, several reviews mention using Clindamycin for tooth infections."
+            }
+        },
+        {
+            "question": "What precautions should be taken while on Clindamycin?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, the following precautions are mentioned for taking Clindamycin:\n\n*   Avoid acidic or spicy foods.\n*   Do not lie down for at least 30 minutes after taking the medication (some suggest up to an hour).\n*   Take a probiotic daily, but not within 2 hours of taking the antibiotic.\n*   Drink plenty of water.\n  Take the medication with a full glass of water (16 oz).",
+                "answer_2": "To minimize side effects, consider taking a probiotic concurrently with Clindamycin.  Taking the medication with food, a full glass of water (16.9 fl oz), and remaining upright for at least an hour afterward may also help.  Adjusting the dosage may be necessary; consult a doctor if side effects are severe.  Zofran may help with stomach issues, though it can cause constipation.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What is Benzaclin used for?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "Acne",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How effective is Benzaclin in treating acne?",
+            "answers": {
+                "answer_1": "The effectiveness of Benzaclin for acne varies. Some users reported immediate and significant improvement, with acne ceasing to be a concern. Others experienced clearing of acne but only for a limited time (two months).  Some individuals found it highly effective for several years before it stopped working.  A few users reported it only worked on certain types of acne (e.g., whiteheads, red bumps) while others experienced no improvement or even worsening of acne, sometimes with allergic reactions.  Several users found it effective as a spot treatment.",
+                "answer_2": "The effectiveness of Benzaclin in treating acne varies greatly depending on the individual.  Some users reported immediate and dramatic improvements in their acne, with clear skin within days or weeks. Others experienced significant improvement over several months, but eventually saw the effectiveness decrease or acne return to previous levels.  Some individuals experienced no improvement or even worsening of acne.  One user noted that Benzaclin worked well in conjunction with other products, while another reported negative effects when used with certain other products.  A few users experienced an allergic reaction or excessive dryness.",
+                "answer_3": "Benzaclin effectiveness varies. Some users reported significant improvements in acne, with clearer skin and fewer blemishes, sometimes after several months of use.  Others experienced only temporary improvement or no improvement at all.  Some individuals experienced an allergic reaction."
+            }
+        },
+        {
+            "question": "Can Benzaclin cause skin irritation as a side effect?",
+            "answers": {
+                "answer_1": "Yes, several reviews mention skin irritation as a side effect of Benzaclin.  These include allergic reactions, bumpy red rashes, burning, redness, itching, peeling, and severely burnt skin.  One review notes that the product is very drying.",
+                "answer_2": "Yes.  Several reviews mention skin irritation as a side effect, including allergic reactions, redness, dryness, and burning.",
+                "answer_3": "Yes, several reviews mention Benzaclin causing skin irritation, including allergic reactions, bumpy red rashes, burning, redness, itching, and dry, itchy skin.  One review mentions peeling and skin that feels paper-thin."
+            }
+        },
+        {
+            "question": "How long does it take for Benzaclin to show results?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "Some users reported seeing results in a few months, while others saw immediate results.  One user noted that it took three years before acne worsened again. Another user reported seeing results after four days.  One user saw initial improvement in two months, but then the acne returned.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What should I avoid while using Benzaclin?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text mentions that misuse of Benzamycin, such as using too much, can lead to severely burnt skin and redness.",
+                "answer_3": "The provided text does not specify what to avoid while using Benzaclin, but it mentions that improper use can lead to severely burnt skin and redness."
+            }
+        },
+        {
+            "question": "Does Acetaminophen/Caffeine/Dihydrocodeine provide quick relief for pain?",
+            "answers": {
+                "answer_1": "The provided text does not specify whether Acetaminophen/Caffeine/Dihydrocodeine provides quick pain relief.  One review mentions effectiveness for severe pain allowing the user to go to work, but doesn't specify speed of onset. Another review states the drug is excellent and never disappoints, but doesn't address speed of effect.",
+                "answer_2": "The provided text does not specify whether Acetaminophen/Caffeine/Dihydrocodeine provides quick pain relief.  While some reviews describe it as helpful and effective,  none comment directly on the speed of its pain-relieving effects.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What should I do if I experience side effects from Contrave?",
+            "answers": {
+                "answer_1": "The provided text offers various individual experiences with Contrave side effects, but doesn't offer advice on what to do if you experience them.  Some users continued taking the medication despite side effects, while others stopped.",
+                "answer_2": "The provided reviews mention stopping the medication and consulting a doctor.  Some individuals stopped taking Contrave after experiencing side effects.  One individual consulted their primary care physician and cardiologist, while another sought help from an allergist and other specialists in addition to going to the ER.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Ethinyl Estradiol/Norethindrone help with acne management?",
+            "answers": {
+                "answer_1": "The provided reviews show varied results. Some users reported improvement in acne, while others experienced worsening acne or no change.  One user reported completely cleared skin, another reported slight improvement, while several others experienced significant breakouts.  Therefore, the effectiveness of Ethinyl Estradiol/Norethindrone for acne management is inconsistent.",
+                "answer_2": "Reviews on Ethinyl Estradiol/Norethindrone for acne treatment are mixed. Some users reported a slight improvement or no change, while others experienced a significant worsening of acne, including painful cystic acne that did not respond to other treatments.  One user reported their acne improved after stopping the medication.",
+                "answer_3": "Some individuals reported improvement in acne, while others experienced worsening acne or no change.  One person noted improvement after seven months of use. Another found their acne returned after stopping the medication.  A further review stated that the medication helped slightly with cystic acne."
+            }
+        },
+        {
+            "question": "Is Clindamycin suitable for children with bacterial infections?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What are the lifestyle changes that complement Benzaclin for acne treatment?",
+            "answers": {
+                "answer_1": "The provided text mentions that one user maintains a healthy diet to complement their use of Benzaclin.",
+                "answer_2": "The provided text mentions maintaining a healthy diet as a complementary factor to Benzaclin's effectiveness in one review.",
+                "answer_3": "The provided text does not specify lifestyle changes that complement Benzaclin for acne treatment, beyond one user mentioning that despite a busy schedule and unhealthy diet, they did not experience breakouts while using Benzaclin."
+            }
+        },
+        {
+            "question": "Can Acetaminophen/Caffeine/Dihydrocodeine treat headaches effectively?",
+            "answers": {
+                "answer_1": "The provided text focuses on the effectiveness of Acetaminophen/Butalbital/Caffeine for headaches, not Acetaminophen/Caffeine/Dihydrocodeine.  Therefore, the context does not contain enough information to answer this question.",
+                "answer_2": "Yes.  One review indicates it helped ease chronic headache/migraine pain with minimal side effects.",
+                "answer_3": "The provided text does not contain information on Acetaminophen/Caffeine/Dihydrocodeine's effectiveness in treating headaches."
+            }
+        },
+        {
+            "question": "Is Contrave safe for long-term use in weight management?",
+            "answers": {
+                "answer_1": "The provided text offers reviews on Contrave's effectiveness for weight loss, mentioning both positive and negative experiences with its long-term use, but does not definitively state whether it is safe for long-term use.  One user noted they couldn't stay on the medication forever due to cost and intended to discontinue use after one more month. Another user stated they had been using Contrave for six months and it was becoming less potent.  Several others described successful weight loss over periods of several months.",
+                "answer_2": "The provided text offers individual experiences with Contrave, some reporting long-term use (up to 5 months), with varying results and side effects.  There is no information in the provided text to definitively assess its long-term safety for weight management.",
+                "answer_3": "The provided text includes reviews describing both positive and negative long-term experiences with Contrave for weight loss.  Some users reported significant weight loss and improved well-being over several months, even up to 18 months. However, others experienced side effects such as nausea, insomnia, constipation, anxiety, headaches, dizziness, and in one case, a seizure. One review mentions a doctor suggesting Contrave for two years, while others detail usage lasting months.  The long-term safety of Contrave is not explicitly stated in the provided reviews."
+            }
+        },
+        {
+            "question": "Does Ethinyl Estradiol/Norethindrone interact with other medications?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text mentions that one user was taking an antidepressant while using Ethinyl estradiol/norethindrone.  Another review mentions switching from Aygestin and Ethinyl Estradiol to Microgestin.  However, there is no information on whether these are interactions or simply concurrent medications.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How does Clindamycin compare to other antibiotics for bacterial infections?",
+            "answers": {
+                "answer_1": "The provided text only includes reviews of Clindamycin; it does not offer a comparison to other antibiotics.",
+                "answer_2": "One review mentions that the user will \"go with the alternative\" to clindamycin,  but doesn't specify what that alternative is.  Another review suggests that clindamycin caused more unpleasant side effects than other antibiotics the user had taken previously. A final review states that clindamycin is \"the worst antibiotic ever,\" implying a comparison to other antibiotics, but doesn't provide specifics on what those other antibiotics might be.",
+                "answer_3": "The provided text compares clindamycin to penicillin.  One review mentions an allergy to penicillin and subsequent prescription of clindamycin for a gum infection. Another review notes that the user experienced fewer side effects with clindamycin than with penicillin (nausea, twitching, constant hunger pains)."
+            }
+        },
+        {
+            "question": "Are there any risks of using Benzaclin for sensitive skin?",
+            "answers": {
+                "answer_1": "Yes,  a bad allergic reaction, including bumpy red rashes, has been reported.  Severe burning and redness of the skin have also been reported, although this may have been due to improper use.  Dryness, redness, and flakiness have also been experienced by some users.",
+                "answer_2": "Yes, one review reports a bad allergic reaction and bumpy red rashes after three days of use in a person with sensitive skin.",
+                "answer_3": "Yes,  one review mentions a bad allergic reaction, including bumpy red rashes, after three days of use.  Another review describes the product as very drying."
+            }
+        },
+        {
+            "question": "Does Acetaminophen/Caffeine/Dihydrocodeine cause drowsiness?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text does not state whether Acetaminophen/Caffeine/Dihydrocodeine causes drowsiness.  One review mentions constipation as a side effect, but not drowsiness. Another review mentions the medication helped with pain and had \"not many side effects,\" but doesn't specify drowsiness as being present or absent.",
+                "answer_3": "The provided text does not specify whether Acetaminophen/Caffeine/Dihydrocodeine causes drowsiness."
+            }
+        },
+        {
+            "question": "What are the best practices for using Contrave effectively?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, some users reported success with Contrave when combined with  daily exercise (30 minutes to all day),  a healthier diet (including calorie counting and/or eliminating bread and sweets), and/or  4000 steps per day.  One review mentions a \"scale down program\" that includes daily weigh-ins and progress tracking as helpful for motivation.",
+                "answer_2": "Based on the provided reviews, some users found success by starting with a low dose and gradually increasing it.  Others suggest staying away from high-fat and deep-fried foods.  Drinking plenty of water throughout the day was also mentioned as helpful.  Finally, incorporating regular exercise and a healthy diet, such as a low-carb diet with protein and fiber, are recommended alongside Contrave.  Eliminating caffeine may also reduce nausea.",
+                "answer_3": "Based on the provided reviews, some users found success with Contrave by combining it with:\n\n*   Daily weighing and monitoring of progress.\n*   A healthy diet.\n*   Regular exercise.  \n*   Taking the medication 12 hours apart and not on an empty stomach.\n\nSome users experienced nausea, which was reduced by taking only one pill in the morning and one in the afternoon.  Others noted that headaches were a side effect."
+            }
+        },
+        {
+            "question": "Can Ethinyl Estradiol/Norethindrone cause changes in mood or energy levels?",
+            "answers": {
+                "answer_1": "Yes.  Reported effects include mood swings, depression, anxiety, irritability, increased sleepiness, and decreased sex drive.  Some users reported no mood changes.",
+                "answer_2": "Yes, several reviews report changes in mood, including mood swings, irritability, mild depression, anxiety, weepiness, and increased depression.  Some users also experienced decreased energy or fatigue.  One review mentions feeling more energetic after stopping the medication.",
+                "answer_3": "Yes.  Reviews describe mood swings, depression, increased irritability, and changes in energy levels (including increased sleepiness) as potential side effects.  Some users reported no mood changes or energy level changes."
+            }
+        },
+        {
+            "question": "Is Clindamycin effective for skin infections?",
+            "answers": {
+                "answer_1": "Yes.  Reviews indicate Clindamycin was effective for cellulitis of the face and a piercing infection.  One review reported that the drug cleared up symptoms within 24 hours.",
+                "answer_2": "Clindamycin was effective in treating a piercing infection, cellulitis of the face, and a bacterial infection in some cases.  In other cases, it was ineffective for bacterial vaginitis.  One review reported pseudomembranous colitis as a side effect while the MRSA infection became dormant.",
+                "answer_3": "Based on the provided reviews, Clindamycin shows varied effectiveness for skin infections.  Some users reported significant improvement in skin or soft tissue infections, including cellulitis and piercing infections, with symptoms clearing up within 24 hours.  Others experienced a reduction in swelling and pain within days. However, several users also experienced negative side effects, such as diarrhea, nausea, and allergic reactions. One user even reported pseudomembranous colitis."
+            }
+        },
+        {
+            "question": "What is the typical dosage of Benzaclin for acne treatment?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Acetaminophen/Caffeine/Dihydrocodeine be taken with other painkillers?",
+            "answers": {
+                "answer_1": "The provided text mentions that Acetaminophen/Caffeine/Dihydrocodeine is used in conjunction with ibuprofen in one review.",
+                "answer_2": "The provided text does not contain information about whether Acetaminophen/Caffeine/Dihydrocodeine can be taken with other painkillers.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How does Contrave compare to other medications for obesity?",
+            "answers": {
+                "answer_1": "The provided text only contains reviews of Contrave and does not offer a comparison to other medications for obesity.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The provided text focuses solely on Contrave and its effects; it does not offer a comparison to other obesity medications."
+            }
+        },
+        {
+            "question": "Are there patient success stories with Ethinyl Estradiol/Norethindrone?",
+            "answers": {
+                "answer_1": "Yes.  Many users report positive experiences, including no issues, great results,  minimal side effects, significantly reduced period length and cramping, and  light periods.  Some users have been on the medication for extended periods (up to three years) with positive outcomes.",
+                "answer_2": "Yes.  Many users reported positive experiences, including no negative symptoms,  resolved acne,  improved IBS symptoms, and increased breast size. Some users also reported feeling better emotionally.  Several reviewers described the drug as \"great,\" \"life-changing,\" and \"the best BC I've tried.\"",
+                "answer_3": "Yes.  Many reviews describe positive experiences, including: no side effects, short or skipped periods, cleared acne, improved IBS symptoms, and increased breast fullness. Some users noted initial side effects like nausea, fatigue, breakthrough bleeding, mood swings, breast tenderness, headaches, bloating, and decreased libido, but these subsided for many after the first few months.  One user reported weight gain and increased appetite."
+            }
+        },
+        {
+            "question": "Can Clindamycin cause gastrointestinal issues?",
+            "answers": {
+                "answer_1": "Yes, several reviews report gastrointestinal issues such as diarrhea, nausea,  bloating, gas,  pain on the left side below the breast, urgent bowel movements, heartburn, and  chest pain.  One review mentions that only peeled white boiled potatoes were tolerable due to the severity of the gastrointestinal issues.",
+                "answer_2": "Yes, Clindamycin has been reported to cause a range of gastrointestinal issues including: diarrhea (sometimes severe and prolonged), nausea, bloating, gas,  pain (described as extreme, intestinal pain, and/or heartburn), and upset stomach.  Some individuals reported that their symptoms improved with probiotics or yogurt.",
+                "answer_3": "Yes, several reviews mention gastrointestinal side effects such as bloating, gas, heartburn, nausea, stomach pain, and diarrhea.  Some reviewers experienced extreme intestinal pain and urgent bowel movements.  One review mentions that the drug messed up their gut.  Another suggests that taking probiotics may help avoid some gastrointestinal issues."
+            }
+        },
+        {
+            "question": "Is Benzaclin effective for severe acne cases?",
+            "answers": {
+                "answer_1": "The provided reviews offer mixed results. Some users reported Benzaclin was effective for their acne, even after trying other treatments. Others found it ineffective for their severe acne, with one user's acne worsening after initial improvement.  Another user reported that it cleared up their acne, but only temporarily.",
+                "answer_2": "The provided text offers conflicting information.  Some reviews describe Benzaclin as effective for acne, even clearing severe cases. Others report it was ineffective for their severe acne or that it only worked for a short period.  Therefore, the effectiveness of Benzaclin for severe acne is unclear based on the provided information.",
+                "answer_3": "The provided reviews show varied results. Some users reported Benzaclin was highly effective for their acne, even severe acne that was painful and impacted daily life.  Others found it initially effective, but the results diminished over time. One user experienced a worsening of their acne after using Benzaclin for an extended period. Another experienced an allergic reaction."
+            }
+        },
+        {
+            "question": "Does Acetaminophen/Caffeine/Dihydrocodeine interact with alcohol?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What should I discuss with my doctor before starting Contrave?",
+            "answers": {
+                "answer_1": "The provided text focuses on users' experiences with Contrave and does not offer guidance on what to discuss with a doctor before starting the medication.  Therefore, the context does not contain enough information to answer this question.",
+                "answer_2": "Based on the provided reviews, you should discuss potential side effects with your doctor before starting Contrave.  These include nausea, headaches, dizziness, heart flutters, anxiety, dry mouth, constipation,  rapid heartbeat,  vision problems,  wheezing in the ears,  muscle spasms, and changes in blood pressure.  Additionally,  discuss your other medications and medical conditions (such as PCOS, diabetes, high blood pressure, hypothyroidism, high cholesterol and high triglycerides) as well as any concerns about the cost of the medication.",
+                "answer_3": "Based on the provided reviews, potential side effects to discuss with your doctor before starting Contrave include nausea, headaches, constipation, sleep cycle disruption, depression, stomach upset, and dizziness.  The reviews also mention concerns about alcohol intake and caffeine consumption impacting the medication's effects."
+            }
+        },
+        {
+            "question": "Can Ethinyl Estradiol/Norethindrone reduce symptoms of polycystic ovary syndrome (PCOS)?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, some individuals reported that Ethinyl Estradiol/Norethindrone reduced PCOS symptoms such as ovarian pain, PMS symptoms, and irregular periods.  Others experienced no change or worsening of symptoms including mood swings, anxiety, nausea, weight gain, and acne.",
+                "answer_2": "Based on the provided reviews, some individuals reported that Ethinyl Estradiol/Norethindrone reduced PCOS symptoms such as ovarian pain, PMS symptoms, and irregular periods.  Others experienced no change in symptoms or even worsening of symptoms.",
+                "answer_3": "Some reviews report that Ethinyl Estradiol/Norethindrone reduced ovarian pain, PMS symptoms, and regulated periods.  Other reviews describe negative experiences, including mood swings, weight gain, anxiety, nightmares, and no effect on PCOS symptoms.  One review reported that the drug helped balance hormone levels, while another stated that it did not clear acne or regulate painful periods."
+            }
+        },
+        {
+            "question": "How long should I use Clindamycin for bacterial infections?",
+            "answers": {
+                "answer_1": "The provided text mentions treatment durations ranging from 5 days to 21 days.  Other durations mentioned are 10 days.",
+                "answer_2": "The provided text mentions treatment durations of 5 days, 10 days, 21 days, and 3 weeks.",
+                "answer_3": "The provided text mentions treatment durations of 5 days and 10 days.  One review mentions a course of treatment that was half of a 10-day course, implying a duration of 5 days."
+            }
+        },
+        {
+            "question": "What are the first signs of Benzaclin working effectively on acne?",
+            "answers": {
+                "answer_1": "Some users reported seeing results within a few days, with a significant clearing of acne and smoother skin texture. Others noticed improvement after a few months.  One user reported immediate results.",
+                "answer_2": "Some users reported seeing results within a week, others after four days, and some noticed improvement after a few months.  One user reported that tiny bumps were mostly gone and skin texture was smoother after a little over a week. Another user's face cleared up dramatically at least four days after starting use.  One user said it took a few months to notice results.  Another user noted that it started clearing their skin but the improvement only lasted two months.",
+                "answer_3": "Some users reported seeing improvements within a week, with a reduction in acne bumps and smoother skin texture. Others noted that it took a few months to see noticeable results, while one user saw immediate results.  Another user experienced a reduction in acne within 3-4 weeks."
+            }
+        },
+        {
+            "question": "What is Eszopiclone used for?",
+            "answers": {
+                "answer_1": "Insomnia",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How effective is Eszopiclone in treating insomnia?",
+            "answers": {
+                "answer_1": "The effectiveness of eszopiclone for insomnia varies greatly among individuals. Some users report it as an excellent sleep aid with minimal side effects,  while others find it ineffective, resulting in continued insomnia or even increased anxiety.  Some users experienced a bitter taste and others reported that it worked well for several years but only on an empty stomach.  Tolerance development has also been mentioned as a factor affecting its long-term effectiveness.",
+                "answer_2": "User reviews on Eszopiclone's effectiveness for insomnia are mixed.  Some users reported it as highly effective, providing deep, restful sleep and allowing them to wake refreshed, even after several years of use. Others found it effective for short-term use, but experienced decreased effectiveness over time or a need to switch medications to maintain efficacy.  A few users reported no effect from the medication.  One user noted sleepwalking as a side effect.  Another user found it effective when taken on an empty stomach and that alcohol interfered with its effectiveness.",
+                "answer_3": "Reviews on Eszopiclone's effectiveness for insomnia vary. Some users report it as very effective, providing deep, restful sleep and allowing them to wake up refreshed.  Others found it to be less effective, providing only a few hours of sleep or being ineffective altogether.  One user reported that its effectiveness decreased after several months of use.  Another user found that magnesium helped them sleep soundly without needing Eszopiclone."
+            }
+        },
+        {
+            "question": "Can Eszopiclone cause dependency when used long-term?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, some users reported needing to switch to other medications because they developed a tolerance to eszopiclone after long-term use.  One user specifically mentioned gaining a tolerance and needing Valium to compensate for the lack of effectiveness of eszopiclone.  Another user noted that after years of use, the medication stopped working.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "One review mentions needing to switch medications after developing a tolerance to Eszopiclone over 10 years of on-and-off use.  Another review states that a doctor advised against long-term use."
+            }
+        },
+        {
+            "question": "What are the common side effects of Eszopiclone?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, common side effects of Eszopiclone include:  a bad taste in the mouth, increased anxiety, insomnia, unusual stomach sensations, skin rash, brain fog, memory problems, digestive issues (severe stomach pain, nausea, loss of appetite, constipation), sleepwalking, and  a metallic taste.  Some users reported no side effects.",
+                "answer_2": "Common side effects of Eszopiclone include: skin rash, infection, brain fog, memory problems, digestive system issues (severe stomach pain, nausea, loss of appetite, constipation),  adrenaline surges resulting in fatigue and adrenaline swings, anxiety, insomnia, unusual stomach sensations, metallic taste in the mouth, and uncontrolled shaking, racing heartbeat, sweating, and finger twitching.  Some users reported no side effects.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How does Eszopiclone compare to other sleep aids?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, some users found eszopiclone (Lunesta) to be more effective than Ambien, resulting in longer sleep durations.  One user reported that a generic version of eszopiclone was ineffective compared to the brand-name drug.  Another user preferred eszopiclone to Ambien, citing a lack of hangover effect with eszopiclone.  One review mentioned using eszopiclone in conjunction with Remeron and Klonopin, but did not directly compare its effectiveness to those medications.  Finally, one user found that magnesium supplementation eliminated their need for eszopiclone.",
+                "answer_2": "Based on the provided reviews, some users found Eszopiclone (Lunesta) to be the most effective sleep medication they had tried, compared to other unspecified sleep medications.  Others found it to be better than Ambien and Trazodone.  One user stated that after trying many sleeping medications, Lunesta worked best for the longest period.  However, another user reported that Eszopiclone was ineffective for them, while Ambien and Trazodone did not work as well for another person with severe insomnia.",
+                "answer_3": "Based on the provided reviews, some users found Eszopiclone (Lunesta) to be more effective and less prone to memory loss than Ambien (Zolpidem).  Others found it less effective than Ambien, or reported that its effectiveness decreased over time, requiring a switch back to Ambien or other medications like Temazepam or Zolpidem XR.  Some users preferred Eszopiclone to Benadryl and Melatonin.  One user reported that ionized magnesium powder eliminated their need for Eszopiclone."
+            }
+        },
+        {
+            "question": "What is Trintellix used for?",
+            "answers": {
+                "answer_1": "Trintellix is used for depression and major depressive disorder.",
+                "answer_2": "Depression; Major Depressive Disorder",
+                "answer_3": "Major Depressive Disorder"
+            }
+        },
+        {
+            "question": "Is Trintellix effective for managing depression?",
+            "answers": {
+                "answer_1": "Reviews on Trintellix for depression are mixed. Some users report significant improvement in their depression, with better sleep, appetite, mood, and reduced anxiety. Others found it ineffective, worsening their depression, or causing increased aggression and mood swings.  Weight gain was a common side effect, although one user reported weight loss.",
+                "answer_2": "The provided reviews on Trintellix for depression show varying results. Some users reported significant improvement in mood, energy levels, and ability to enjoy activities, while others experienced no improvement or even negative effects such as increased aggression, sadness, and mood swings.  Several users found Trintellix to be the most effective antidepressant they had tried, while others reported that it did not work for them.  One user experienced severe side effects after increasing their dosage.",
+                "answer_3": "The provided reviews offer mixed results. Some users reported significant improvements in their depression, describing Trintellix as a \"miracle\" and stating it helped them cope with long-term depression and improved their quality of life.  Others found it ineffective, experiencing no improvement in their depression or anxiety symptoms, even after several months.  Some users noted initial improvement followed by negative side effects such as feeling \"flat\" or experiencing chronic pain.  Therefore, the effectiveness of Trintellix for managing depression varies among users."
+            }
+        },
+        {
+            "question": "What are the possible side effects of Trintellix?",
+            "answers": {
+                "answer_1": "Headaches, constipation, high blood pressure, night terrors, dizziness, nausea, itchy skin, gas, muscle aches, feeling flat, chronic flu-like symptoms, feeling \"zoned out\".  Elevated blood pressure and severe ringing in the ears have also been reported, though this may have been related to another medication in one case.",
+                "answer_2": "Possible side effects of Trintellix include: headaches, constipation, high blood pressure, night terrors, dizziness, nausea, diarrhea, upset stomach, dizziness, head rushes, increased mood swings, suicidal thoughts, feeling out of it, increased hunger, increased anger, laziness, tiredness, weight gain (16 pounds in under 3 months), elevated liver enzymes, itchy skin, and ringing in the ears.  Irritability, anger, and volatility are also reported.  Some users reported that their depression worsened.",
+                "answer_3": "Possible side effects of Trintellix include: headaches, constipation, high blood pressure, night terrors, dizziness, nausea, stomach upset/pain, inability to sleep, increased hunger, itchy skin, elevated blood pressure, ringing in the ears, vomiting, upset stomach, dizziness, head rushes, increased mood swings, suicidal thoughts, trouble sleeping, jitteriness, itching, trouble passing stool, lightheadedness, gas, and muscle aches.  Anger, tinnitus, anxiety, panic attacks, and tremors have also been reported."
+            }
+        },
+        {
+            "question": "Can Trintellix help with anxiety symptoms as well?",
+            "answers": {
+                "answer_1": "Some reviews indicate Trintellix helped reduce anxiety symptoms, while others report it did not help with anxiety or even worsened anxiety symptoms.  Some users found it helpful in combination with other anxiety medications.",
+                "answer_2": "Based on the provided reviews, Trintellix may help with anxiety symptoms.  Some users reported a reduction in anxiety symptoms, while others experienced increased anxiety or no change.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How long does it take for Trintellix to show improvements in mood?",
+            "answers": {
+                "answer_1": "Improvements in mood were reported after 2 days, 2 weeks, 4 weeks, and 5 months.  One review mentioned feeling a change after the second day of use but continued improvement through week 4. Another review reported positive effects within two weeks but only after increasing the dosage.  A further review noted significant improvement after 5 months of use.  One user reported positive effects after one month of use.",
+                "answer_2": "Improvements in mood were reported by some users as early as day 2, while others reported improvements after 2 weeks or 4 weeks.  One user reported feeling a change after the second day of treatment and continued improvement for four weeks. Another user stated that the effects started to be felt by two weeks.  One user stated that improvements started to become noticeable by the fifth week.",
+                "answer_3": "Based on the provided reviews, improvements in mood from Trintellix were reported at various times:  as early as day 4, within 3 weeks, and after a month. One review mentioned no improvement after almost two months. Another reported positive changes after a month, but with nausea persisting for about 10 days.  There is also a review that states that improvements were noticed in every aspect of life after a month of use."
+            }
+        },
+        {
+            "question": "What is Lamotrigine prescribed for?",
+            "answers": {
+                "answer_1": "Lamotrigine is prescribed for depression, anxiety, and seizure prevention.",
+                "answer_2": "Bipolar Disorder",
+                "answer_3": "Lamotrigine is prescribed for Bipolar Disorder, Depression, Schizoaffective Disorder, Seizure Prevention, and Epilepsy.  It has also been used for other unspecified reasons."
+            }
+        }
+    ]
+}

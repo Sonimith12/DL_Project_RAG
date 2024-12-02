@@ -1,0 +1,407 @@
+{
+    "metadata": {
+        "instruction": "Imagine you are a simple user asking these questions. Rank the answers for each question from best to worst. Provide the ranking as a list for each question, for example {3,1,2} if the second answer is the best, the third is second, and the first is third.When it says The context does not contain enough information to answer this question. give 4 as un rank even if there is 2 answer with this sentence"
+    },
+    "questions": [
+        {
+            "question": "Are there withdrawal symptoms when stopping Ultram ER?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Soma help with chronic back pain?",
+            "answers": {
+                "answer_1": "Yes, several reviews describe Soma as helpful for chronic back pain, often in conjunction with other conditions like fibromyalgia, ruptured discs, degenerative disc disease, and neuropathy.  Some users reported it provided more relief than other medications they had tried.",
+                "answer_2": "Yes, multiple reviews describe Soma as helpful for chronic back pain,  including pain associated with muscle spasms, herniated discs, protruding discs, bulging discs, and degenerative disc disease.  Some users report Soma provides more relief than other narcotics or muscle relaxants they have tried.  One review mentions Soma as a co-analgesic for chronic pain.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How should Stribild be stored to maintain effectiveness?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Are there foods or drinks to avoid with Sulfamethoxazole/Trimethoprim?",
+            "answers": {
+                "answer_1": "One review suggests avoiding sugar, caffeine, and sweeteners.  Another mentions that eating yogurt helped alleviate some side effects.",
+                "answer_2": "The provided text does not specify foods or drinks to avoid while taking Sulfamethoxazole/Trimethoprim, but it does mention that drinking plenty of water can lessen side effects.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How soon can I see results after starting Otezla?",
+            "answers": {
+                "answer_1": "Results varied widely in the provided reviews.  Some users saw improvement within 3 weeks, while others saw no improvement after 7 months. One user reported complete clearance in 3 weeks, another saw a nearly complete (99%) clear up after six weeks, and another reported that after three months their skin was mostly clear.  In contrast, some users experienced worsening of their psoriasis after two months.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "Results were seen within two weeks in one case, and within four months in another.  One review reported almost total clearing of plaques on the hands after three weeks.  Another review mentioned good results after four weeks, while another reported improvement was short-lived after five months."
+            }
+        },
+        {
+            "question": "Can Ultram ER cause sleep disturbances?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Does Soma work well for post-surgery muscle pain?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Soma is reported to help with muscle pain resulting from back surgery and nerve damage.  One review mentions Soma being more helpful than narcotics for post-surgery muscle spasms. Another review describes using Soma for pain from a fractured back and fusion surgery.  However, another review notes that a doctor stopped prescribing Soma resulting in increased pain.",
+                "answer_2": "The provided text mentions Soma's effectiveness for muscle spasms related to fibromyalgia and back problems, including back surgery and a fractured back.  Some users report it helps manage pain and spasms, allowing them to perform daily tasks. Others found it to be the only muscle relaxant that worked for them.  However, there is no specific mention of its effectiveness for *post-surgery* muscle pain in general.",
+                "answer_3": "The provided text mentions Soma's effectiveness for muscle spasms related to fibromyalgia, back pain (including herniated, protruding, bulging, and degenerative disc disease), and a fractured back.  One review mentions its use following back fusion surgery, but does not specifically state it helped post-surgery muscle pain."
+            }
+        },
+        {
+            "question": "Are there patient success stories with Stribild for HIV?",
+            "answers": {
+                "answer_1": "Yes.  Many patients report positive outcomes, including undetectable viral loads and increased CD4 counts, often within a short timeframe (one month or less in some cases).  Some patients report no side effects, while others experience side effects such as diarrhea, vivid dreams, and nausea.",
+                "answer_2": "Yes.  Multiple patients report significant improvements in CD4 count and viral load after using Stribild, often within a month.  Some patients report becoming undetectable.  Several patients also reported minimal to no side effects.",
+                "answer_3": "Yes.  Many patients report undetectable viral loads and increased CD4 counts after using Stribild, often within a month of starting treatment.  Some patients also report significant improvements in overall health, including increased muscle mass, decreased body fat, and height increase.  Several patients report no side effects or only minor side effects."
+            }
+        },
+        {
+            "question": "Does Sulfamethoxazole/Trimethoprim require a specific dosage schedule?",
+            "answers": {
+                "answer_1": "The provided text mentions several dosage schedules:  two pills a day for three days; two pills a day for a two week prescription; and a five-day course of the antibiotic.  One review suggests taking the medication with food to mitigate side effects.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The provided text mentions several dosage schedules:  \"2 a day for 3 days\", and \"High dose of 3 strong pills once only\".  One review mentions a single dose worked, but also indicates side effects. Another review mentions taking it for 6 days, and yet another review mentioned a 10 day course."
+            }
+        },
+        {
+            "question": "What makes Otezla different from other psoriasis treatments?",
+            "answers": {
+                "answer_1": "Some reviews suggest Otezla is a safer option than injectable treatments.  One review mentions that Otezla's side effects seemed less severe than those of biologics.  Another review states that Otezla was chosen after failing Enbrel and Humira, suggesting it belongs to a different class of medication.",
+                "answer_2": "Based on the provided reviews, some patients found Otezla to be more effective than various topical creams, lotions, shampoos, and other pills they had previously tried.  One patient considered Otezla a safer option than injectable treatments.  Another patient noted that Otezla worked quickly and effectively where other treatments, including UV light therapy, had failed.",
+                "answer_3": "Based on the provided reviews, some patients found Otezla to be more effective than previous treatments like topical medications,  UV light therapy,  Methotrexate, Enbrel, and Humira.  One patient noted Otezla as a less immunosuppressive option compared to biologics."
+            }
+        },
+        {
+            "question": "Is Ultram ER effective for migraine pain relief?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Soma be taken long-term for muscle spasms?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, some individuals have taken Soma for muscle spasms for six years or more.  Others have used it for one year.",
+                "answer_2": "Yes.  Some individuals have reported using Soma for muscle spasms for over six years and even close to 35 years.",
+                "answer_3": "Some individuals have taken Soma for muscle spasms for several years, including one person for four years, another for over three years, and others for six years.  However, there are also reports of doctors discontinuing Soma prescriptions."
+            }
+        },
+        {
+            "question": "What are the typical outcomes for patients using Stribild?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "Patients using Stribild have reported a range of outcomes.  Some experienced no side effects, while others reported side effects including severe diarrhea, vivid dreams, neuropathy (similar to Reynaud's syndrome), and reversible kidney stress (decreased potassium and phosphate, elevated creatinine).  In terms of viral load and CD4 count, some patients achieved undetectable viral loads and increased CD4 counts (ranging from 72 to 1000), sometimes within a short period (one month).  Others saw significant reductions in viral load and increases in CD4 count over longer periods.  One patient mentioned nausea as a side effect.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Does Sulfamethoxazole/Trimethoprim help with acne treatment?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Sulfamethoxazole/Trimethoprim (also known as Bactrim) shows effectiveness in treating acne for many users.  Some experienced clearing within a week, while others noted improvement over several weeks or months.  However, some users also reported side effects such as insomnia, sweats, headaches, stomach sickness, nausea, and decreased appetite.  For some, the effectiveness decreased over time requiring a change in treatment.",
+                "answer_2": "Based on the provided reviews, Sulfamethoxazole/Trimethoprim (also referred to as Bactrim) appears to help some individuals with acne treatment.  Some users reported significant improvement in their acne, while others experienced only minor improvements or noted that the drug's effectiveness decreased over time.  Several users mentioned using it in conjunction with other acne treatments.  Some experienced side effects.",
+                "answer_3": "Based on the provided reviews, Sulfamethoxazole/Trimethoprim (also known as Bactrim) shows effectiveness in treating acne for many individuals.  Some users reported significant improvement in acne within a week or two, while others experienced clearer skin after several weeks.  However, some users experienced side effects such as insomnia, sweats, headaches, stomach sickness, and nausea.  The effectiveness and the presence/severity of side effects varied among individuals."
+            }
+        },
+        {
+            "question": "Can Otezla be prescribed for conditions other than psoriasis?",
+            "answers": {
+                "answer_1": "The provided text mentions Otezla's use for plaque psoriasis and psoriatic arthritis.",
+                "answer_2": "Yes, the provided text mentions Otezla being used for Psoriatic Arthritis.",
+                "answer_3": "Based on the provided text, Otezla is mentioned in relation to Plaque Psoriasis and Psoriatic Arthritis."
+            }
+        },
+        {
+            "question": "How does Ultram ER compare to other painkillers for chronic pain?",
+            "answers": {
+                "answer_1": "One review states that Ultram ER worked wonderfully for chronic pain, unlike Norco and immediate-release Tramadol, which were ineffective.  Another review mentions that Ultram (not specifying ER or IR) is a better pain reliever than hydrocodone or oxycodone because it doesn't cause drowsiness.",
+                "answer_2": "Based on the provided reviews, Ultram ER is compared to Norco and Tramadol.  One review states that Ultram ER worked wonderfully, unlike Norco and Tramadol IR which were ineffective. Another review mentions that Ultram is preferable to hydrocodone or oxycodone because it doesn't cause drowsiness.  A third review states that withdrawal from Ultram can be as difficult as withdrawal from Vicodin.",
+                "answer_3": "For chronic pain, the user in Context 5 found Ultram ER to be superior to Norco and immediate-release Tramadol, which were ineffective."
+            }
+        },
+        {
+            "question": "Does Soma interact with other medications like NSAIDs?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What should I do if I experience side effects from Stribild?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How do I know if Sulfamethoxazole/Trimethoprim is working for my infection?",
+            "answers": {
+                "answer_1": "Based on the provided reviews,  a reduction in symptoms such as sinus infection, throat infection, earache, rash, urinary tract infection symptoms, and bacterial skin infection symptoms may indicate that the medication is working. However, some individuals reported that symptoms returned after stopping the medication.  Some users experienced  no improvement in their symptoms despite taking the medication.",
+                "answer_2": "Based on the provided reviews, improvements in symptoms such as sinus infection, throat infection, earache, and rash may indicate that Sulfamethoxazole/Trimethoprim is working.  However, some users reported no relief or worsening symptoms even after several days of treatment.  Therefore,  improvement in the specific symptoms of your infection would be an indication of effectiveness.",
+                "answer_3": "Based on the provided reviews, some users reported a quick reduction of symptoms or improvement in symptoms such as sinus infection, throat infection, earache, and rash.  Others reported that the medication did not work for them, or that they experienced worsening symptoms or new side effects.  Therefore, determining if it's working depends on your own experience and symptom reduction."
+            }
+        },
+        {
+            "question": "Is Otezla safe for use during pregnancy?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Are there special precautions when using Ultram ER with other pain medications?",
+            "answers": {
+                "answer_1": "The provided text mentions Ultram ER being used with NSAIDs and arthritis-strength Tylenol in one review, and with muscle relaxants (as needed) in the same review.  Another review mentions using Ultram alongside Lortab, but this was a transition where the patient switched from Lortab to Ultram.",
+                "answer_2": "The provided text mentions that one user takes Ultram in addition to an NSAID, arthritis strength Tylenol, and muscle relaxants.  Another user experienced serotonin syndrome when taking Ultram and Celexa.",
+                "answer_3": "The provided text mentions combining Ultram with Advil or aspirin, noting that they may potentiate each other's effects.  It also mentions taking Ultram in addition to an NSAID, arthritis strength Tylenol, and muscle relaxants.  One review cautions against taking Advil, aspirin, and Ultram together."
+            }
+        },
+        {
+            "question": "Does Soma require a specific diet or hydration routine?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Stribild improve HIV suppression faster than other treatments?",
+            "answers": {
+                "answer_1": "The provided text gives examples of individuals experiencing rapid viral load reduction and CD4 count increases while using Stribild.  However, it does not offer a comparison to other HIV treatments, so it cannot be determined if Stribild's effect is faster.",
+                "answer_2": "The provided text includes several reviews of Stribild showing rapid improvements in CD4 count and viral load within weeks of starting treatment.  However, there is no information on the speed of other HIV treatments for comparison.",
+                "answer_3": "The provided text includes several reviews of Stribild for HIV treatment showing rapid viral load reduction and CD4 count increases within one to three months of starting the medication.  However, there is no information on the speed of HIV suppression with other treatments,  so a comparison cannot be made."
+            }
+        },
+        {
+            "question": "What is the best way to take Sulfamethoxazole/Trimethoprim for bacterial infections?",
+            "answers": {
+                "answer_1": "Taking Sulfamethoxazole/Trimethoprim with food, even crackers, may prevent nausea and other side effects.  Drinking a very large amount of water while taking it may also lessen side effects.",
+                "answer_2": "Based on the provided reviews, some users reported positive results when drinking a large amount of water with the medication.  Others suggest taking it with food.  One review recommended taking it on a full stomach and watching what you eat.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Does Otezla require regular blood tests during treatment?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How quickly does Ultram ER start working after taking it?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "One review mentions that Ultram ER seemed to work great for 2 or 3 days before side effects started.  Another review states that Ultram ER provided pain relief that allowed for continued helicopter piloting for 6 months of as-needed use.  A third review reports that Ultram provided effective pain relief for a week, before the pain worsened.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Soma cause withdrawal symptoms if stopped abruptly?",
+            "answers": {
+                "answer_1": "Yes.  One review describes experiencing migraine headache, extreme sweating, extreme pain, and vomiting for days after abruptly stopping Soma after three years of use at a high dosage.  Another review mentions waking up in severe pain and mild withdrawals after stopping Soma.",
+                "answer_2": "Yes, based on the provided information, abruptly stopping Soma can cause withdrawal symptoms including migraine headache, extreme sweating, extreme pain, and vomiting.  These symptoms can last for days.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Is Stribild effective for drug-resistant HIV strains?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text does not contain information on Stribild's effectiveness against drug-resistant HIV strains.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What are the signs that Sulfamethoxazole/Trimethoprim is not effective?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, signs that Sulfamethoxazole/Trimethoprim is not effective include: infection clearing up slowly, burning and frequent urgency returning after initial improvement, and symptoms (such as urinary tract infection symptoms) persisting or returning after stopping the medication.",
+                "answer_2": "Signs that Sulfamethoxazole/Trimethoprim is not effective include:  no relief of symptoms after 7 days of treatment for a UTI;  acne not clearing up after a week of treatment;  and failure to treat prostatitis.",
+                "answer_3": "The drug was ineffective for prostatitis in one case and for urinary tract infections in multiple cases.  In several instances, users reported continued or worsening symptoms despite taking the medication.  Specifically, users experienced no relief, mild symptoms remaining, and only slow improvement of the infection."
+            }
+        },
+        {
+            "question": "Does Otezla have benefits for joint pain in addition to psoriasis?",
+            "answers": {
+                "answer_1": "Some reviews report Otezla helped alleviate joint pain associated with psoriatic arthritis.  Other reviews indicate Otezla did not improve joint pain and in one case, worsened it.  One review reported that joint pain was gone after using Otezla.",
+                "answer_2": "Some reviews report Otezla helped alleviate joint pain associated with psoriatic arthritis.  However, other reviews indicate that Otezla either did not improve or worsened joint pain.",
+                "answer_3": "Yes, several reviews report that Otezla helped alleviate joint pain associated with psoriatic arthritis.  Some users experienced complete relief of joint pain in their hands and feet.  However, other users reported that Otezla did not improve or even worsened their joint pain."
+            }
+        },
+        {
+            "question": "What is Ultram ER used for?",
+            "answers": {
+                "answer_1": "Pain.",
+                "answer_2": "Pain",
+                "answer_3": "Chronic pain and pain."
+            }
+        },
+        {
+            "question": "Is Ultram ER effective for treating chronic pain?",
+            "answers": {
+                "answer_1": "Yes.  Some users report Ultram ER is effective for chronic upper back pain, and another found it effective after other medications failed.  One user with chronic pain from a motorcycle accident found it effective for back and knee pain.",
+                "answer_2": "The provided text offers mixed results.  Some users reported Ultram ER was effective for chronic upper back pain, allowing them to continue their normal activities. Others experienced relief from chronic pain in their back and knees, or from fibromyalgia and osteoarthritis. However, one user reported that while initially effective, the drug eventually became ineffective and worsened their pain. Another experienced severe side effects that led them to discontinue use.",
+                "answer_3": "Yes, one review indicates that Ultram ER was very effective for chronic pain, especially compared to other treatments the reviewer had tried."
+            }
+        },
+        {
+            "question": "Are there any side effects of Ultram ER?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "Side effects of Ultram ER include:  itching (keeping one awake at night), dizziness, upset stomach, nausea, lethargy, inability to sleep.  In one case, a severe allergic reaction was reported."
+            }
+        },
+        {
+            "question": "Can Ultram ER treat other conditions beyond chronic pain?",
+            "answers": {
+                "answer_1": "The provided text focuses solely on Ultram ER's use for pain,  and does not offer information on whether it treats other conditions.",
+                "answer_2": "The provided text focuses on Ultram ER's use for pain,  specifically chronic pain, lower back pain, and sciatica.  There is no information about its use for other conditions.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How does Ultram ER compare to other painkillers?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Ultram and Ultram ER are compared to Vicodin, Lortab, hydrocodone, and oxycodone.  One review states that Ultram withdrawal is as bad as Vicodin withdrawal. Another review states that Ultram is a better pain reliever than Lortab for shoulder and back pain, and that it doesn't cause drowsiness like hydrocodone or oxycodone.",
+                "answer_2": "One review states Ultram ER is a \"life savor\" for chronic pain, allowing continued functioning,  while another reports an allergic reaction with severe dizziness and nausea.  Another review claims that Ultram works better than Vicodin, Percocet, and naproxen for pain relief.  A separate review indicates Ultram is not a strong NSAID, and is used in addition to other pain medications, including an NSAID, arthritis strength Tylenol, and muscle relaxants.  One user found that combining Ultram with Advil or aspirin increased their potency.  Finally, one review compares Ultram favorably to hydrocodone or oxycodone, stating it controls pain without drowsiness.",
+                "answer_3": "One review states that Ultram ER worked wonderfully for chronic pain, unlike immediate-release Tramadol which did nothing.  Another review mentions that Ultram was more effective than Vicodin, Percocet, and naproxen for pain relief.  A different review found Ultram to be comparable to over-the-counter NSAIDs."
+            }
+        },
+        {
+            "question": "How long does Ultram ER take to show results?",
+            "answers": {
+                "answer_1": "One review reports that Ultram ER worked great for 2 or 3 days before side effects started.  Another review states that Ultram ER worked wonderfully and rarely caused head pain above a 3-4 pain scale after daily use.",
+                "answer_2": "Based on the provided reviews, Ultram ER showed results within 2-3 days for one user, while another user reported effectiveness for 6 months.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Ultram ER be safely taken with other medications?",
+            "answers": {
+                "answer_1": "The provided text mentions one instance where Ultram was taken with Celexa, resulting in serotonin syndrome.  Another review mentions the user was previously taking Lortab.  There is no further information regarding the safe combination of Ultram ER with other medications.",
+                "answer_2": "The provided text indicates that combining Ultram with Celexa may cause serotonin syndrome, and combining Ultram with Prozac and Trazadone can cause serious drug interactions.  One review mentions taking Ultram with an NSAID, arthritis strength Tylenol, and muscle relaxants, but doesn't describe any adverse effects from this combination.  Another review notes a negative reaction to taking Ultram and Trazadone together.",
+                "answer_3": "The provided text mentions several instances of Ultram (and Ultram ER) being taken with other medications, with varying results.  One review notes a dangerous interaction between Ultram, Prozac, and Trazadone. Another review describes negative side effects from taking Ultram with Celexa.  A different review mentions that taking Advil or aspirin with Ultram seemed to increase their potency.  Finally, one review describes taking Ultram with Trazadone resulting in vomiting and a severe headache."
+            }
+        },
+        {
+            "question": "Is Ultram ER suitable for long-term use?",
+            "answers": {
+                "answer_1": "The provided text offers conflicting information.  Some reviews describe long-term use with positive results, while others detail significant side effects after prolonged use or upon cessation.  Therefore, the provided information does not definitively answer whether Ultram ER is suitable for long-term use.",
+                "answer_2": "Some reviews describe long-term use of Ultram ER (6 months, over a year), while others note that they could not stay on a similar medication (Norco) long-term.  One review mentions that withdrawal from Ultram can be difficult.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Are there patient success stories with Ultram ER?",
+            "answers": {
+                "answer_1": "Yes. One patient, a US Army helicopter pilot with chronic upper back pain, reported that Ultram ER 200mg was a \"life saver,\" allowing them to continue flying and controlling their pain.  Another patient found it initially effective for lower back pain and sciatica for 2-3 days before experiencing side effects.",
+                "answer_2": "Yes.  One patient, a US Army helicopter pilot with chronic upper back pain, found Ultram ER to be a \"life savor,\" effectively controlling pain and allowing them to continue flying, although it caused itching and sleeplessness. Another patient with lower back pain and sciatica initially experienced pain relief for a few days before developing an allergic reaction.  A third patient with TMJ found Ultram ER 200mg allowed them to function better than other pain medications.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What precautions should I take while using Ultram ER?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, be aware that Ultram ER may cause dizziness, nausea, and an upset stomach.  In some cases, more severe allergic reactions, including lethargy and sleep disturbances, have been reported.  Additionally, it may cause itching and can interfere with sleep if taken before bed.",
+                "answer_2": "Based on the provided reviews, be aware that Ultram ER may cause itching, sleeplessness, dizziness, upset stomach, nausea, and lethargy.  In some cases, more serious side effects such as serotonin syndrome (which can include shakiness, difficulty walking, breathing problems, and a feeling of impending death), and allergic reactions have been reported.  Withdrawal symptoms, including crawling sensations and aching in the legs, have also been mentioned.  Combining Ultram with certain antidepressants may cause serious drug interactions.",
+                "answer_3": "Based on the provided reviews,  avoid taking Ultram ER before bed as it may cause insomnia.  Also be aware that it may cause itching."
+            }
+        },
+        {
+            "question": "What is Soma used for?",
+            "answers": {
+                "answer_1": "Soma is used in combination with Hydrocodone and Tramadol for pain relief.",
+                "answer_2": "Muscle spasm.",
+                "answer_3": "Soma is used for muscle spasms."
+            }
+        },
+        {
+            "question": "Is Soma effective for treating muscle spasms?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Soma is reported by multiple users as effective for treating muscle spasms, including back spasms, neck muscle spasms, and muscle cramping.  Some users found it superior to other muscle relaxers they had tried.  One user noted relief from muscle pain after household chores. However, one review mentions that doctors are reluctant to prescribe it.",
+                "answer_2": "Yes, many reviews describe Soma as effective for treating muscle spasms.  Some users report it as the best muscle relaxant they've tried, superior to other medications like Flexeril and Zanaflex.  It's described as helping with muscle cramping, tension headaches, and improving sleep.  While some users experience drowsiness, many find it helps them tolerate pain better and improve their overall functionality.",
+                "answer_3": "Based on the provided reviews, Soma is reported by multiple users as effective for treating muscle spasms.  Some users describe it as the only medication that works for them, while others note its effectiveness in conjunction with other pain medications."
+            }
+        },
+        {
+            "question": "Are there any side effects of Soma?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, potential side effects of Soma include drowsiness,  migraine headaches, extreme sweating, extreme pain, vomiting, and effects on eyesight.  One review mentions that withdrawal symptoms can be severe.",
+                "answer_2": "Based on the provided reviews,  side effects may include drowsiness and, in one case,  effects on eyesight.  One review describes severe withdrawal symptoms including migraine, sweating, pain, and vomiting after abruptly stopping the medication.",
+                "answer_3": "One review mentions drowsiness as a side effect."
+            }
+        },
+        {
+            "question": "Can Soma treat other conditions beyond muscle spasms?",
+            "answers": {
+                "answer_1": "Based on the provided text, Soma may also help with chronic migraines, degenerative disk disease, fibromyalgia, arthritis pain, and calming nerves.  The reviews also suggest it may lower blood pressure.",
+                "answer_2": "The provided text focuses solely on Soma's use for muscle spasms and does not offer information on its effectiveness for other conditions.",
+                "answer_3": "Based on the provided reviews, Soma has been reported to help with tension headaches and as a sleep aid in addition to muscle spasms.  One review mentions its use in conjunction with pain medication for fibromyalgia."
+            }
+        },
+        {
+            "question": "How does Soma compare to other muscle relaxants?",
+            "answers": {
+                "answer_1": "Many reviewers stated Soma was more effective than other muscle relaxants they had tried.  Specific alternatives mentioned include Flexeril, Robaxin, Zanaflex, Skelexin, and Parafon Forte.  Some reviewers found Soma to be superior to narcotics for pain relief.  One reviewer noted that Soma caused less tiredness than other muscle relaxants.",
+                "answer_2": "Many reviewers stated that Soma is superior to other muscle relaxants they have tried.  These other relaxants included Flexeril, Robaxin, Zanaflex, Skelexin, and Parafon Forte.  Some reviewers found Soma to be the only muscle relaxant that effectively relieved their muscle spasms.",
+                "answer_3": "Several reviews state Soma is more effective than other muscle relaxants they have tried.  These other relaxants include Flexeril, Robaxin, Zanaflex, Skelexin, Parafon Forte, and Tizanidine.  One review states that Soma is the only muscle relaxant that works for them, having tried many others.  Another review notes Soma works better than Flexeril and Zanaflex."
+            }
+        },
+        {
+            "question": "How long does Soma take to act on muscle spasms?",
+            "answers": {
+                "answer_1": "The context only states that Soma has a \"fast onset\".  No specific timeframe is provided.",
+                "answer_2": "One review states that Soma calms spasms in about 10 to 15 minutes.  Another review mentions a \"fast onset\".",
+                "answer_3": "One review states that Soma calmed spasms in 10 to 15 minutes.  Another review mentions a \"fast onset\"."
+            }
+        },
+        {
+            "question": "Can Soma be taken safely with other pain medications?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Soma has been used in combination with Tramadol and other unspecified pain medications.  One review mentions using Soma with other pain medicines for six years. Another review states that Soma combined with Tramadol made symptoms tolerable.  However, there is also mention of negative experiences when Soma was discontinued, indicating potential challenges with transitioning off the medication, but not specifically related to combining it with other drugs.",
+                "answer_2": "The provided text mentions Soma being taken with other pain medications in several reviews.  These include combinations with:  Flexeril, Tramadol, Vicodin, Amitrip, and opioids.  One review mentions Soma as an \"adjunct therapy\" to pain medications for fibromyalgia.  Another review states that Soma allowed them to tolerate pain better and to not have to alter their pain medication dose.  However, there is no information about the safety of these combinations.",
+                "answer_3": "Some users report taking Soma with other pain medications, such as codeine, Tramadol, Vicodin, and Amitriptyline.  One user mentions taking Soma with pain medication for six years.  However, the provided text does not offer information on the safety of combining Soma with other medications."
+            }
+        },
+        {
+            "question": "Is Soma suitable for long-term use?",
+            "answers": {
+                "answer_1": "One review mentions using Soma for over six years for chronic pain management.  Another review mentions using it for one year for muscle pain relief.  A third review states that a doctor will soon stop prescribing it.",
+                "answer_2": "The provided text includes reviews mentioning Soma use for 35 years, 4 years, and over 6 years.  Other reviews mention long-term use without specifying the duration.  However, there is no information definitively stating whether Soma is *suitable* for long-term use.",
+                "answer_3": "The provided text contains conflicting information regarding the suitability of Soma for long-term use.  Some reviews describe successful long-term use (4 years, 6 years, over 35 years), while others detail significant withdrawal symptoms after cessation of long-term use."
+            }
+        },
+        {
+            "question": "Are there patient success stories with Soma?",
+            "answers": {
+                "answer_1": "Yes.  Many patients report Soma as effective for muscle spasms, resulting in pain relief and improved ability to perform daily tasks such as household chores.  Some patients describe it as the only medication that works for their muscle spasms.  One patient noted a fast onset and long half-life.  Another reported success using Soma after several back surgeries and found it more effective and better tolerated than other medications.",
+                "answer_2": "Yes, there are multiple patient reviews describing Soma as effective in managing muscle spasms and chronic pain.  Several patients reported long-term use with positive results, noting it as the only medication that worked for their muscle spasms and significantly improved their quality of life.  Others described fast onset and long-lasting effects.",
+                "answer_3": "Yes.  Many patients report Soma helps with muscle spasms,  fibromyalgia, neuropathy, osteoarthritis, and allows them to function daily.  Some patients report it as the only thing that works for their muscle pain and allows them to sleep.  One patient reported using it successfully for 35 years and another for 6 years."
+            }
+        },
+        {
+            "question": "What precautions should I take while using Soma?",
+            "answers": {
+                "answer_1": "Avoid drinking alcohol while taking Soma.",
+                "answer_2": "Based on the provided reviews, slowly get off Soma if you have been taking it for an extended period to avoid withdrawal symptoms such as migraine headaches, extreme sweating, extreme pain, and vomiting.",
+                "answer_3": "The provided text mentions that driving while taking Soma is not recommended.  One review mentions that Soma can make the user sleepy."
+            }
+        }
+    ]
+}

@@ -1,0 +1,407 @@
+{
+    "metadata": {
+        "instruction": "Imagine you are a simple user asking these questions. Rank the answers for each question from best to worst. Provide the ranking as a list for each question, for example {3,1,2} if the second answer is the best, the third is second, and the first is third.When it says The context does not contain enough information to answer this question. give 4 as un rank even if there is 2 answer with this sentence"
+    },
+    "questions": [
+        {
+            "question": "Can Suvorexant cause daytime drowsiness?",
+            "answers": {
+                "answer_1": "Yes, several reviews mention daytime drowsiness, brain fog, grogginess, and dizziness as side effects.",
+                "answer_2": "Yes, daytime drowsiness is mentioned as a possible side effect.",
+                "answer_3": "Yes.  Several reviews mention daytime drowsiness, grogginess, and brain fog as side effects."
+            }
+        },
+        {
+            "question": "What is Zenatane used for?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Is Zenatane effective for treating severe acne?",
+            "answers": {
+                "answer_1": "The provided text offers conflicting information. One review describes Zenatane as a \"life saver\" for severe acne, while another describes a severely negative reaction resulting in worsened acne and requiring extensive treatment.  A third review mentions significant improvement in acne after one month of use, despite experiencing negative side effects.",
+                "answer_2": "The provided text offers conflicting results. One review describes a severely negative reaction, while another reports significant improvement and long-term benefits.  A third review details improvements after one month, but also notes significant side effects.",
+                "answer_3": "The provided text offers conflicting information. One review describes Zenatane as a \"life saver\" for severe acne, resulting in significantly clearer skin even after discontinuation.  Another review describes a severely negative reaction, resulting in significantly worsened acne requiring extensive and costly treatment.  A third review reports significant improvement in one month, but also describes intense side effects."
+            }
+        },
+        {
+            "question": "What precautions should be taken while on Zenatane?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, avoid smoking while taking Zenatane.  One review mentions that smoking while on the drug worsened breathing and skin condition.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Zenatane cause skin dryness as a side effect?",
+            "answers": {
+                "answer_1": "Yes, dry lips, eyes, and skin dryness are mentioned as side effects of Zenatane.",
+                "answer_2": "Yes, dry lips, eyes, and nose are mentioned as side effects.",
+                "answer_3": "Yes, dry lips, eyes, and nose have been reported as side effects."
+            }
+        },
+        {
+            "question": "How long does it take for Zenatane to show results?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "One review mentions seeing a great deal of improvement in one month, while another reports being off the drug for almost two years with only occasional small pimples."
+            }
+        },
+        {
+            "question": "Is Zenatane safe for teenagers with acne?",
+            "answers": {
+                "answer_1": "The provided text offers conflicting information regarding the safety of Zenatane for teenagers.  One review describes a severely negative experience resulting in thousands of dollars in surgeries. Another review describes a positive experience with minimal side effects.  A third review mentions a sister who experienced negative consequences from smoking while using the drug.",
+                "answer_2": "The provided text offers conflicting accounts of Zenatane's safety for teenagers with acne. One review describes a severely negative experience leading to depression and extensive treatment, while another reports a positive outcome with manageable side effects, emphasizing the importance of following instructions and avoiding smoking.  A third review details significant side effects in a 35-year-old, though improvement in acne was noted.",
+                "answer_3": "The provided text offers conflicting perspectives. One review describes a positive experience with Zenatane for acne, even mentioning a teenager's successful use. Another review details a severely negative reaction in a teenager.  Therefore,  there is no definitive answer based solely on the provided information."
+            }
+        },
+        {
+            "question": "What is Levonorgestrel used for?",
+            "answers": {
+                "answer_1": "Levonorgestrel is used for birth control and emergency contraception.",
+                "answer_2": "Levonorgestrel is used for emergency contraception and birth control.",
+                "answer_3": "Emergency Contraception and Birth Control"
+            }
+        },
+        {
+            "question": "How effective is Levonorgestrel as emergency contraception?",
+            "answers": {
+                "answer_1": "The effectiveness of levonorgestrel as emergency contraception varies.  Some users reported it was effective, others reported it was ineffective.  Time elapsed between unprotected sex and taking the medication seemed to be a factor in its effectiveness for some individuals.  Side effects were reported in some cases, including nausea, vomiting, cramping, and heavy bleeding.",
+                "answer_2": "Reviews on the effectiveness of Levonorgestrel as emergency contraception vary. Some users reported it was effective, even when taken up to 72 hours after unprotected sex or when used multiple times. Others reported it was ineffective, even when taken within 24 hours and/or when ovulating.  One user stated it is 95% effective if taken within the first 24 hours.",
+                "answer_3": "The provided reviews show varying effectiveness. Some users reported it worked, while one user reported it was ineffective.  One user stated that Plan B (which contains levonorgestrel) is 95% effective if taken within 24 hours. Another user reported 100% effectiveness with the pill across multiple uses.  The effectiveness may also depend on when it is taken relative to ovulation."
+            }
+        },
+        {
+            "question": "What are the time limits for taking Levonorgestrel after unprotected sex?",
+            "answers": {
+                "answer_1": "The reviews mention taking Levonorgestrel within 6 hours, within 24 hours, within the last 24 hours (not recommended), and within 72 hours of unprotected sex.  One review mentions taking it 36 hours after the incident, and another mentions taking it 55 hours after.",
+                "answer_2": "The provided text mentions taking Levonorgestrel within 72 hours (up to 89% effective), less than 24 hours (up to 95% effective), less than an hour, 52 hours, 12 hours, 6 hours, and within 10 hours after unprotected sex.",
+                "answer_3": "The reviews mention taking Levonorgestrel within 24 hours, within 72 hours, 1-2 days after ovulation, 6 hours after unprotected sex, and 3 days after unprotected sex."
+            }
+        },
+        {
+            "question": "Can Levonorgestrel cause irregular periods?",
+            "answers": {
+                "answer_1": "Yes.  Some users reported irregular periods, including no periods, spotting, and periods stopping completely.  Others experienced initially irregular periods that later became regular.",
+                "answer_2": "Yes, several reviews mention irregular bleeding, spotting, or periods that were much lighter or heavier than usual after using levonorgestrel.  Some experienced constant bleeding for months, while others had on-and-off bleeding or spotting between periods.  In some cases, the irregular bleeding eventually resolved.",
+                "answer_3": "Based on the provided reviews, Levonorgestrel, in the form of Mirena IUD, can cause irregular periods, including prolonged, painful periods,  periods after only 10 days,  random periods lasting 7-10 days,  daily bleeding and discharge, and no periods at all.  Some users experienced no change in bleeding frequency or quantity."
+            }
+        },
+        {
+            "question": "Is Levonorgestrel safe for repeated use?",
+            "answers": {
+                "answer_1": "The provided reviews offer conflicting perspectives. Some users reported using levonorgestrel multiple times without pregnancy, while others experienced significant side effects with repeated use.  Therefore, the provided text does not definitively answer whether levonorgestrel is safe for repeated use.",
+                "answer_2": "The provided text offers reviews of Levonorgestrel used for birth control and emergency contraception,  but it does not contain information about its safety for repeated use.",
+                "answer_3": "The provided text includes reviews reporting both positive and negative experiences with repeated use of Levonorgestrel for birth control and emergency contraception.  Some users reported no problems with repeated use, while others experienced severe cramps, fatigue, and even a stroke.  One user reported using it twice in one month for emergency contraception. Another reported it failed twice as emergency contraception. Therefore, the safety of repeated use is not definitively established within the given information."
+            }
+        },
+        {
+            "question": "Does Levonorgestrel work for all women?",
+            "answers": {
+                "answer_1": "The provided reviews suggest varied experiences with Levonorgestrel's effectiveness.  Some users reported success even exceeding the recommended weight or having unprotected sex during fertile days. Others experienced negative side effects, prompting discontinuation.  Therefore, the provided information does not definitively state whether Levonorgestrel works for all women.",
+                "answer_2": "No.  Some women experienced negative side effects such as weight gain, mood swings, decreased sex drive, painful intercourse, acne, and persistent or recurring bleeding.  Others had positive experiences with no negative side effects.  The insertion process was also reported as painful for some.",
+                "answer_3": "No.  Some women report experiencing painful cramps and other negative side effects."
+            }
+        },
+        {
+            "question": "What is Topamax used for?",
+            "answers": {
+                "answer_1": "Migraine prevention.",
+                "answer_2": "Topamax is used for migraine prevention, seizure prevention, and bulimia.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Is Topamax effective for weight management in obesity?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Topamax shows varying degrees of effectiveness for weight management in obesity.  Several reviewers reported significant weight loss, ranging from 10 pounds to 75 pounds.  Others experienced more modest weight loss or plateaued.  Some users also noted side effects such as nausea, changes in taste and smell, anxiety, and memory lapses.",
+                "answer_2": "The provided reviews suggest that Topamax may be effective for weight management in obesity.  Users reported weight loss ranging from 10 pounds to 75 pounds.  Some users noted that the weight loss was easy, while others experienced side effects such as anxiety, thirst, memory lapses, and nausea.  Several users mentioned a reduction in appetite or cravings for junk food.  However, one user reported only modest weight loss, and another experienced a plateau after initial weight loss.",
+                "answer_3": "The provided reviews suggest that Topamax may be effective for weight loss in some individuals with obesity.  Several reviewers reported significant weight loss while taking Topamax, ranging from 10 pounds to 75 pounds over various time periods.  However,  some also experienced side effects such as anxiety, brain fog,  memory lapses, and nausea, and one person reported suicidal thoughts.  One review noted that weight loss success also involved other lifestyle changes such as diet and exercise."
+            }
+        },
+        {
+            "question": "What are the common side effects of using Topamax?",
+            "answers": {
+                "answer_1": "Common side effects of Topamax include:  weight loss, loss of appetite, tingling (often in fingers, toes, hands, or feet), confusion, mood swings, nausea, insomnia, hallucinations, memory problems,  taste changes (carbonated beverages and sweet things tasting bad), dizziness, vomiting, increased eye pressure,  panic attacks,  elevated heartbeat, and  slowed thought process/word confusion.  Some individuals reported these side effects as minor and manageable, while others found them severe.",
+                "answer_2": "Common side effects of Topamax include: loss of appetite, rapid weight loss, mood swings, intense nausea, insomnia, hallucinations, memory problems, confusion, tingling in hands and feet, panic attacks, elevated heartbeat, dizziness, involuntary finger movements, speech difficulty, dizziness to the point of falling, altered taste and smell, feeling spaced out, increased energy,  tremors, anxiety, guilt complex, taste change, extreme mood and behavior changes, vomiting, increased eye pressure, kidney stones, crazy dreams, lethargy, flat affect, robotic feeling, depression, irritability, anger, and excessive hunger.",
+                "answer_3": "Common side effects of Topamax include: tingling in the hands and feet, confusion, dizziness,  changes in taste (carbonated beverages not tasting right, sweet things tasting horrible),  loss of appetite,  feeling lethargic,  extreme mood and behavior changes, vomiting, increased eye pressure,  craziest dreams,  memory loss, exhaustion,  a foggy feeling,  left sided numbness/tingling,  and weight loss.  Some users experienced panic attacks,  elevated heartbeat,  fingers moving on their own and getting stuck,  and difficulty speaking or understanding speech.  In some cases, Topamax worsened seizures."
+            }
+        },
+        {
+            "question": "Can Topamax be used alongside diet and exercise for better results?",
+            "answers": {
+                "answer_1": "Yes.  Several reviews mention using Topamax alongside dietary changes (veggies, fruits, and snacks; eating right) and/or exercise.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "One review mentions using Topamax alongside eating \"right veggies and fruits and snacks\".  Another review mentions using Topamax with yoga and meditation."
+            }
+        },
+        {
+            "question": "How long does it take to see weight changes with Topamax?",
+            "answers": {
+                "answer_1": "Weight changes with Topamax varied among individuals in the provided reviews.  One person lost 13 pounds in approximately two weeks, another lost 16 pounds in less than a month, and a third lost 28.7 pounds in two months.  One review mentioned weight loss of 10 pounds in 5-6 weeks, and another reported losing 75 pounds over several years (since March 2009).  One person noted weight loss of 10 kg (approximately 22 pounds) in one month.  Another lost 26 pounds between May and September.",
+                "answer_2": "Weight loss with Topamax varied across individuals in the provided reviews.  Some saw results within a week, others within 5-6 weeks, and some saw a loss of 15-20 pounds per year. One review reported a significant weight loss in one month, while another showed results after 21 days.  One person noted weight loss over a four-month period.",
+                "answer_3": "Weight loss with Topamax varied in the provided reviews.  One person lost 13 pounds in 14 days, another lost 16 pounds in less than a month, and a third lost 28.7 pounds in two months.  One review mentioned losing 10 pounds in 5-6 weeks, and another showed a 26-pound loss between May and September. One individual lost 30 pounds in three months, while another lost 75 pounds over several years.  One review described a 3-pound loss in one week, and another noted significant weight loss but did not provide specific numbers or a time frame.  Finally, one review mentioned weight loss, but didn't specify the amount or time period."
+            }
+        },
+        {
+            "question": "Are there risks of dependency with Topamax?",
+            "answers": {
+                "answer_1": "The provided text does not contain information about the risk of dependency with Topamax.",
+                "answer_2": "The provided text does not mention the risk of dependency with Topamax.",
+                "answer_3": "The provided text does not contain information about the risk of dependency with Topamax."
+            }
+        },
+        {
+            "question": "Does Imitrex work better than over-the-counter migraine medications?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, some users found Imitrex more effective than Excedrin Migraine, which contains acetaminophen, aspirin, and caffeine.  Other users found Imitrex effective while also using other medications like naproxen and caffeine.",
+                "answer_2": "Some reviews suggest Imitrex is more effective than Excedrin Migraine,  at least when taken after a migraine has started.  One review indicates that Excedrin Migraine is effective when taken at the first sign of a migraine.",
+                "answer_3": "The provided text compares Imitrex to Fioricet/Fiorinal and Relpax.  Some reviewers stated that Imitrex was more effective than other medications they had tried, while others preferred Relpax but switched to Imitrex due to insurance coverage.  No direct comparison to over-the-counter medications is made."
+            }
+        },
+        {
+            "question": "What should I avoid while taking Suvorexant for insomnia?",
+            "answers": {
+                "answer_1": "The provided text does not specify what to avoid while taking Suvorexant.",
+                "answer_2": "The provided text does not offer advice on what to avoid while taking Suvorexant.",
+                "answer_3": "The provided text does not offer advice on what to avoid while taking Suvorexant."
+            }
+        },
+        {
+            "question": "Can Zenatane be combined with other acne treatments?",
+            "answers": {
+                "answer_1": "The provided text does not specify whether Zenatane can be combined with other acne treatments.",
+                "answer_2": "The provided text does not specify whether Zenatane can be combined with other acne treatments.  One review mentions a user's sister smoking while on the medication, resulting in negative consequences, but this does not directly address combining Zenatane with other treatments.",
+                "answer_3": "The provided text does not contain information about combining Zenatane with other acne treatments."
+            }
+        },
+        {
+            "question": "What are the risks of taking Levonorgestrel too frequently?",
+            "answers": {
+                "answer_1": "The provided text does not offer information on the risks of taking Levonorgestrel too frequently.",
+                "answer_2": "The provided text focuses on the experiences of individuals using levonorgestrel for birth control or emergency contraception, and does not offer information on the risks of taking it too frequently.",
+                "answer_3": "The provided text does not contain information about the risks of taking Levonorgestrel too frequently."
+            }
+        },
+        {
+            "question": "Does Topamax improve other obesity-related conditions?",
+            "answers": {
+                "answer_1": "The provided text mentions that one user's psychiatrist diagnosed them with binge eating disorder in addition to ADD, and Topamax helped control the binge eating. Another review mentions that Topamax helped improve depression alongside weight loss.",
+                "answer_2": "The provided text focuses solely on weight loss as a result of taking Topamax.  It does not mention any improvement in other obesity-related conditions.",
+                "answer_3": "Based on the provided reviews, Topamax may also help with binge eating disorder and depression."
+            }
+        },
+        {
+            "question": "Is Imitrex suitable for chronic migraine management?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Imitrex is reported to be effective for chronic migraine management by several users who have experienced chronic migraines for many years.  One user stated it was the only medication that worked for them, another reported using it for 45 years, and a third  had used it successfully since age 9.",
+                "answer_2": "Yes.  Several reviews describe using Imitrex effectively to manage chronic migraines for many years.",
+                "answer_3": "The provided reviews suggest Imitrex is effective for many individuals with chronic migraines,  with some users reporting it as \"life changing\" and the \"most effective\" medication they have ever used for migraines lasting 30 and 45 years respectively.  However, other reviews describe negative experiences.  Therefore, the effectiveness of Imitrex for chronic migraine management varies among individuals."
+            }
+        },
+        {
+            "question": "Are there any foods or drinks that interact with Suvorexant?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Zenatane treat other skin conditions besides acne?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How does Levonorgestrel compare to other emergency contraceptives?",
+            "answers": {
+                "answer_1": "One review states that a cheaper alternative to Plan B was less effective.  Another review indicates that Plan B is more effective than a cheaper alternative.",
+                "answer_2": "One review mentions both Plan B and another pill, stating that Plan B had fewer side effects.  Another review mentions that Levonorgestrel (Plan B) was no longer over the counter.",
+                "answer_3": "One review mentions both Plan B and Levonorgestrel, stating that Plan B had fewer side effects.  Another review mentions Next Choice as an alternative emergency contraceptive that failed in two instances."
+            }
+        },
+        {
+            "question": "What are the long-term outcomes of using Topamax for obesity?",
+            "answers": {
+                "answer_1": "One review mentions maintaining weight loss after reaching their goal, while another describes continued weight loss, albeit at a slower rate, after an initial period.  Another individual notes that they've lost 75 out of 110 pounds needed to lose, and have been able to reduce their dosage as they've lost weight.  A separate review mentions that after initially losing weight, they plateaued but maintained that weight.",
+                "answer_2": "The provided reviews show varying long-term outcomes. One individual maintained their weight loss after using Topamax for several years, while another experienced a plateau after initial weight loss.  Another review mentions that weight loss was maintained on the drug, but this was based on reading other users' experiences rather than a personal long-term outcome.  One person experienced weight loss but also noted continued cognitive side effects (memory lapses).  Another user, after initially losing weight, regained some weight after discontinuing Topamax.",
+                "answer_3": "The provided reviews show varying long-term outcomes.  One individual maintained their weight loss after initially losing a significant amount. Another individual plateaued after an initial weight loss but did not regain weight.  One review mentions that weight loss from Topamax was temporary for them in the past.  Another person reports success in decreasing appetite and losing weight over ten months.  There is not enough information to determine a definitive long-term outcome."
+            }
+        },
+        {
+            "question": "Is Imitrex safe for use during pregnancy?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Does Suvorexant improve sleep quality or just increase sleep duration?",
+            "answers": {
+                "answer_1": "The provided reviews describe both improved sleep quality (e.g., waking up refreshed, no more sleep walking, better sleep than with other medications) and increased sleep duration (e.g., sleeping through the night, sleeping for six hours).",
+                "answer_2": "The provided reviews describe both improved sleep quality and increased sleep duration as effects of Suvorexant.  Some users reported sleeping through the night and waking up refreshed, indicating improved quality. Others noted an increase in the duration of sleep.",
+                "answer_3": "Based on the provided reviews, Suvorexant's effects on sleep vary. Some users report improvements in both sleep duration and quality (e.g.,  \"THE BEST sleep of my life... STAY asleep ALL NIGHT without waking at all. I wake up refreshed\"), while others only experienced an increase in sleep duration (e.g., \"I have gone from 4 hours a night to 5...\").  Some users reported no improvement in either."
+            }
+        },
+        {
+            "question": "What should I monitor while taking Zenatane?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Are there age restrictions for using Levonorgestrel?",
+            "answers": {
+                "answer_1": "The provided text mentions users ranging in age from a teenager in the end of grade 10 to a 37-year-old with two children.  There is no information about age restrictions.",
+                "answer_2": "The provided text mentions users ranging in age from a teenager in the end of 10th grade to 37 years old.  There is no information about age restrictions.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What lifestyle changes complement Topamax for obesity?",
+            "answers": {
+                "answer_1": "Eating right, including veggies, fruits, and snacks, is mentioned as complementing Topamax use.  Additionally, one review mentions combining Topamax with Melatonin to aid in preventing nighttime eating.",
+                "answer_2": "Quitting carbonated beverages and eating right (veggies, fruits, and snacks) are mentioned as complementary lifestyle changes.",
+                "answer_3": "Walking 2-3 miles per day and watching diet are mentioned as complementary lifestyle changes.  Quitting carbonated beverages is also listed as a potentially helpful change.  Eating right, including vegetables, fruits, and snacks, is another."
+            }
+        },
+        {
+            "question": "How often can Imitrex be used safely?",
+            "answers": {
+                "answer_1": "The provided text suggests that Imitrex is most effective when used only once or twice a month to avoid rebound headaches.  However, other reviews describe using it more frequently, even daily as part of a preventative treatment plan.  One review mentions using it for 20+ years.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "One review suggests Imitrex works best when used only once or twice a month to avoid rebound headaches.  Another review mentions using a 1/4 or 1/2 tablet most of the time, with a whole tablet only rarely.  Other reviews do not specify frequency of use."
+            }
+        },
+        {
+            "question": "Are there alternative therapies to Suvorexant for insomnia?",
+            "answers": {
+                "answer_1": "Yes.  Ambien and Lunesta are mentioned as alternatives.",
+                "answer_2": "Yes.  The reviews mention Lunesta, Ambien, Zolpidem,  benzodiazepines, Serequel, and Mirtazapine as alternatives.",
+                "answer_3": "Yes.  Melatonin, Neurontin, Klonopin, Ambien, and Zolpidem are mentioned as alternatives."
+            }
+        },
+        {
+            "question": "Can Zenatane cause mental health side effects?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What are the chances of Levonorgestrel failing as emergency contraception?",
+            "answers": {
+                "answer_1": "The provided text offers conflicting information. Some reviews report successful use of Levonorgestrel even after multiple uses or when taken several hours after unprotected sex.  One review, however, reports a pregnancy after taking the pill within 24 hours of unprotected sex.  Another review mentions a 95% probability of success if taken within 24 hours and an 89% probability if taken within 72 hours.",
+                "answer_2": "The provided reviews show varying effectiveness.  Some users reported success even when taking the pill several hours after unprotected sex or while ovulating. Others reported pregnancy despite taking the pill within 24 hours or even immediately after unprotected sex. One review mentions a 95% probability of success if taken within 24 hours and an 89% probability if taken within 72 hours.  Another review states 100% effectiveness for one user, but this is an isolated case.",
+                "answer_3": "Based on the provided reviews, some users reported that Levonorgestrel failed as emergency contraception.  One review stated it failed twice, another reported pregnancy two days after taking it, and another reported pregnancy despite taking it within 24 hours.  Conversely, other reviews reported that it worked successfully.  One review mentioned a 95% probability of success within 24 hours and an 89% probability within 72 hours."
+            }
+        },
+        {
+            "question": "How does Topamax work to reduce weight in patients with obesity?",
+            "answers": {
+                "answer_1": "The provided text describes patient experiences with Topamax for weight loss,  mentioning reduced appetite, decreased cravings for junk food, and a feeling of fullness.  Some users reported that Topamax helped them stop binge eating.  One user noted that Topamax changed their sense of taste and smell, which helped them quit smoking (a factor potentially influencing weight).",
+                "answer_2": "The provided text describes various individual experiences with Topamax for weight loss, but it does not explain the mechanism by which Topamax reduces weight.  Some users report reduced appetite, altered sense of taste and smell, and feeling full, but these are anecdotal observations, not explanations of the drug's mechanism of action.",
+                "answer_3": "The provided reviews describe Topamax as decreasing appetite, reducing cravings for junk food, and creating a feeling of fullness.  Some reviewers also noted that the medication made them feel sick if they ate, and changed their sense of taste and smell.  In several cases, weight loss was reported in conjunction with Topamax use, alongside diet and exercise."
+            }
+        },
+        {
+            "question": "What is Bupropion/Naltrexone used for?",
+            "answers": {
+                "answer_1": "Bupropion/Naltrexone is used for obesity and weight loss.",
+                "answer_2": "Bupropion/Naltrexone is used for obesity and weight loss.",
+                "answer_3": "Bupropion/Naltrexone is used for obesity and weight loss.  It is also used for opiate dependence (in the case of buprenorphine/naloxone, a similar-sounding drug)."
+            }
+        },
+        {
+            "question": "How effective is Bupropion/Naltrexone for weight loss?",
+            "answers": {
+                "answer_1": "The effectiveness of Bupropion/Naltrexone for weight loss varies.  Some users reported significant weight loss, ranging from 3 pounds in one week to 50 pounds in two months, and even 40 pounds and 4 inches of waist reduction over four months. Others experienced minimal or no weight loss despite a low-calorie diet and exercise.  Some users noted that the drug curbed their appetite and cravings, while others reported that it did not affect their eating habits.",
+                "answer_2": "The effectiveness of Bupropion/Naltrexone for weight loss varies greatly among individuals.  Some users reported significant weight loss, ranging from 6.6 pounds in two weeks to 40 pounds in four months, with additional reductions in waist and hip measurements. Others experienced no weight loss despite dietary and exercise changes.  Side effects, such as nausea, constipation, dry mouth, headaches, irritability, migraines, and mental health impacts, were also reported, with some users experiencing no side effects at all.",
+                "answer_3": "The effectiveness of Bupropion/Naltrexone for weight loss varies.  Some users reported significant weight loss (20 lbs in 3 months,  almost 20 pounds since July, 220 lbs down to 238 lbs in 7 weeks,  3 lbs in one week). Others experienced minimal or no weight loss, or even gained weight back after stopping the medication."
+            }
+        },
+        {
+            "question": "Are there any side effects of Bupropion/Naltrexone for weight management?",
+            "answers": {
+                "answer_1": "Yes, reported side effects include headaches, nausea, dizziness, sleepiness,  agitation, high anxiety, irritability, dry mouth, and constipation.  Some users reported no side effects.",
+                "answer_2": "Yes, reported side effects include: dizziness, headache, sleepiness, dry mouth, constipation, aversion to food, shakes,  anxiety, panic attacks, depression, nausea, irritability, migraines, and decreased sexual pleasure/difficulty climaxing.  Some individuals reported no side effects.",
+                "answer_3": "Yes, reported side effects include: sleep disturbance, ill stomach, chemical taste, slight dizziness, mild to moderate headache, sleepiness, constipation, nausea, lightheadedness, muscle fatigue,  \"zoned out\" feeling, flat affect, muscle tension, severe agitation, high anxiety, irritability, stomach ache, dry mouth, jittery feeling, numbness spreading from the top of the brain to the back of the eyes, panic, and dizziness.  Anxiety, panic attacks, and depression were also reported, but only after reaching a 4-pill-a-day dosage."
+            }
+        },
+        {
+            "question": "How does Bupropion/Naltrexone compare to other weight loss medications?",
+            "answers": {
+                "answer_1": "The provided text only contains reviews of Bupropion/Naltrexone for weight loss and does not offer a comparison to other weight loss medications.",
+                "answer_2": "The provided text focuses solely on Bupropion/Naltrexone and its effects on weight loss, offering no comparison to other weight loss medications.",
+                "answer_3": "The provided text only includes reviews of Bupropion/Naltrexone for weight loss;  no comparisons to other weight loss medications are made."
+            }
+        },
+        {
+            "question": "Can Bupropion/Naltrexone be used for long-term weight loss?",
+            "answers": {
+                "answer_1": "Some reviews describe long-term use, with one person losing 26 pounds over six months and another losing 40 pounds and 4 inches off their waist over four months.  Another review mentions continued use for further weight loss after a 26-pound loss.  However, other reviews detail shorter-term usage.",
+                "answer_2": "The provided text includes reviews describing weight loss over periods of 2 months, 3 months, 4 months, and six months.  One review mentions continued use with a weight loss goal still to be achieved. Another review describes using the medication to lose weight to reduce blood sugar.  There is no information about long-term use beyond these timeframes.",
+                "answer_3": "Some users reported long-term weight loss success (3 months, 4 months, and even longer), while others experienced no weight loss or only temporary weight loss."
+            }
+        },
+        {
+            "question": "What is Onglyza used for?",
+            "answers": {
+                "answer_1": "Diabetes, Type 2",
+                "answer_2": "Diabetes, Type 2",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Is Onglyza effective for managing Type 2 Diabetes?",
+            "answers": {
+                "answer_1": "The provided reviews show differing effectiveness of Onglyza for managing Type 2 diabetes. One review reports no positive results, while another reports a significant decrease in A1C levels from 11.9 to 6.5.",
+                "answer_2": "The provided text offers conflicting information. One review reports Onglyza as ineffective, while another describes it as significantly lowering A1C levels.",
+                "answer_3": "The provided reviews show differing results. One review reports a significant reduction in A1C levels (from 11.9 to 6.5) with no side effects. Another review states that Onglyza showed no positive results and the user experienced increased cravings."
+            }
+        },
+        {
+            "question": "What are common side effects of Onglyza?",
+            "answers": {
+                "answer_1": "Based on the provided text, one user reported increased cravings as a potential side effect of Onglyza.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Does Onglyza help in controlling blood sugar levels consistently?",
+            "answers": {
+                "answer_1": "The provided text offers conflicting information. One review reports a significant decrease in A1C levels (from 11.9 to 6.5) with Onglyza, while another review states that Onglyza showed no positive results in controlling blood sugar.",
+                "answer_2": "The provided reviews on Onglyza show conflicting results. One review reports no positive effect on blood sugar levels, while another reports a significant reduction in A1C levels from 11.9 to 6.5.  Therefore, the provided information does not definitively indicate consistent blood sugar control with Onglyza.",
+                "answer_3": "The provided text offers conflicting information.  One review reports a significant reduction in A1C levels (from 11.9 to 6.5) with Onglyza, while another reports no positive results and increased cravings."
+            }
+        },
+        {
+            "question": "Can Onglyza be used alongside insulin for diabetes management?",
+            "answers": {
+                "answer_1": "One review indicates that a doctor prescribed Onglyza to a patient already using insulin, resulting in a positive outcome.  Another review states that Onglyza's label advises against use with insulin.",
+                "answer_2": "One review indicates a doctor prescribed Onglyza alongside insulin, resulting in a positive outcome. Another review states that Onglyza's label advises against its use with insulin.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What is Losartan prescribed for?",
+            "answers": {
+                "answer_1": "High Blood Pressure",
+                "answer_2": "High blood pressure.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        }
+    ]
+}

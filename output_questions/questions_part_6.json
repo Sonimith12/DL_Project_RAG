@@ -1,0 +1,407 @@
+{
+    "metadata": {
+        "instruction": "Imagine you are a simple user asking these questions. Rank the answers for each question from best to worst. Provide the ranking as a list for each question, for example {3,1,2} if the second answer is the best, the third is second, and the first is third.When it says The context does not contain enough information to answer this question. give 4 as un rank even if there is 2 answer with this sentence"
+    },
+    "questions": [
+        {
+            "question": "Does Temazepam provide effective relief for insomnia?",
+            "answers": {
+                "answer_1": "The effectiveness of Temazepam for insomnia varies. Some users reported significant improvement in sleep duration and quality, with some sleeping 6-8 hours after taking the drug. Others found it less effective, with some experiencing no improvement or only temporary relief.  Some users experienced side effects such as grogginess, while others did not.  In some cases, the effectiveness decreased over time or after increasing the dosage. One user noted that while it was initially effective, they experienced withdrawal symptoms upon stopping use.",
+                "answer_2": "The provided reviews show varied experiences with Temazepam's effectiveness for insomnia. Some users reported significant improvement in falling asleep and staying asleep, feeling refreshed upon waking, and experiencing relief from insomnia symptoms. Others found it less effective, needing multiple doses or experiencing interrupted sleep.  One user reported it stopped working after five years of use.  Therefore, the effectiveness of Temazepam for insomnia appears to vary among individuals.",
+                "answer_3": "The provided reviews show varying effectiveness of Temazepam for insomnia. Some users reported significant improvement in sleep, while others found it ineffective or experienced reduced effectiveness over time.  Some users experienced side effects such as morning grogginess,  withdrawal symptoms,  false awakenings, nightmares, and vivid dreams."
+            }
+        },
+        {
+            "question": "What are the common side effects of Temazepam?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "Morning grogginess is a common side effect, sometimes subsiding after coffee consumption.  Some users experienced grogginess for the first hour after waking, but this subsided after the first week of use.  Withdrawal symptoms, including physical discomfort and heightened anxiety, have also been reported.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Temazepam be used long-term for sleep disorders?",
+            "answers": {
+                "answer_1": "Some individuals have used Temazepam for sleep disorders for extended periods, such as 5 years and 7 years.  However, others report that its effectiveness diminishes over time, and one person stopped using it after a week due to ineffectiveness.  One review mentions using it for 10 years, but only occasionally.",
+                "answer_2": "The provided text includes reviews describing Temazepam use for insomnia ranging from one month to five years. One review mentions that the drug's effectiveness decreased after about two weeks of use, requiring a night off before resuming efficacy. Another review notes that after five years of use, the drug stopped working for the user.  A different review describes a year of use before effectiveness began to decrease.",
+                "answer_3": "The provided text offers conflicting information. Some reviews describe successful long-term use (up to a year), while others report decreased effectiveness over time (3-4 months, 2 weeks) and significant withdrawal symptoms after long-term use.  One review specifically states that the drug is \"only supposed to be prescribed for a week\"."
+            }
+        },
+        {
+            "question": "What should I avoid while taking Temazepam?",
+            "answers": {
+                "answer_1": "The provided text does not offer guidance on what to avoid while taking Temazepam.",
+                "answer_2": "The provided text does not specify what to avoid while taking Temazepam.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What is Contrave used for?",
+            "answers": {
+                "answer_1": "Weight loss and obesity.",
+                "answer_2": "Contrave is used for weight loss and obesity.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Is Contrave effective for weight loss?",
+            "answers": {
+                "answer_1": "Yes, Contrave is shown to be effective for weight loss in the provided reviews.  Users reported weight loss ranging from 5 to 63 pounds over time periods ranging from a week to four months.  Many users coupled Contrave with diet and exercise, while others reported weight loss with minimal or no exercise.",
+                "answer_2": "The provided reviews show varied results. Some users reported significant weight loss (20 lbs in over two months, 7 lbs in a little over a week, 8 lbs in one week, 50 lbs in four months, 60 lbs in six months, 14 lbs in two months), while others experienced minimal weight loss (1-2 lbs in two weeks, 3 lbs in three months, 5 lbs in five weeks,  no weight loss after three weeks despite exercise and a calorie deficit of less than 1400 calories), or even weight gain.  The effectiveness of Contrave appears to depend on individual factors and may be enhanced by diet and exercise.",
+                "answer_3": "Some users reported significant weight loss (20, 23, 31, and 147 lbs), while others experienced minimal weight loss (1-2 lbs) or no weight loss.  Several users noted that weight loss was accompanied by diet and exercise. One user reported gaining weight initially due to increased exercise.  Therefore, the effectiveness of Contrave for weight loss varies among users."
+            }
+        },
+        {
+            "question": "What are the side effects of Contrave?",
+            "answers": {
+                "answer_1": "The reported side effects of Contrave include nausea, vomiting, dizziness, sleepiness, constipation, mild hot flashes, dry mouth, and lightheadedness.  Some users reported weird dreams.",
+                "answer_2": "Side effects reported include nausea, dizziness, headaches, sleepiness, constipation, irritability, insomnia, dry mouth, lightheadedness, and rashes.  Some users reported that side effects subsided after a period of time.  One user experienced crushing headaches and nausea for the first two weeks.  Another user reported feeling \"a little out of it\" and nauseous.  One user experienced a setback with rashes after taking cold medication concurrently with Contrave.",
+                "answer_3": "Side effects reported for Contrave include: dizziness, nausea, sleepiness, chest pain, upper stomach pain, constipation, impacted sleep cycle (more frequent awakenings), jitters, headaches, vomiting, dry mouth, diarrhea, extreme mood swings, shakes, sleeplessness, heart palpitations and pains.  Some users reported no significant side effects."
+            }
+        },
+        {
+            "question": "How does Contrave compare to other obesity medications?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text only contains reviews of Contrave for obesity.  There is no information to compare Contrave to other obesity medications.",
+                "answer_3": "The provided text only contains reviews of Contrave;  no comparisons to other obesity medications are made."
+            }
+        },
+        {
+            "question": "What is the typical dosage of Contrave for weight management?",
+            "answers": {
+                "answer_1": "The provided text mentions several dosages:\n\n* 1 tablet in the morning and afternoon.\n* 2 tablets in the morning and afternoon.\n* 2 tablets in the morning and 1 at night.",
+                "answer_2": "The provided text mentions several dosages:\n\n* One tablet in the morning and afternoon.\n* Two pills twice a day.\n* Two in the morning and one at night.  \n* One tablet twice daily.\n\nSome individuals adjusted their dosage based on their needs and doctor's advice.",
+                "answer_3": "The provided reviews mention several dosages:\n\n* One tablet in the morning and afternoon.\n* Two tablets in the morning and afternoon.\n* Two tablets in the morning and one tablet in the afternoon.\n* Starting with single doses in the morning and evening, progressing to a higher dosage.\n\nSome individuals adjusted their dosage due to side effects or lack of effectiveness."
+            }
+        },
+        {
+            "question": "What is Buprenorphine/Naloxone used for?",
+            "answers": {
+                "answer_1": "Opiate Dependence",
+                "answer_2": "Opiate dependence.",
+                "answer_3": "Opiate Dependence"
+            }
+        },
+        {
+            "question": "Is Buprenorphine/Naloxone effective for opiate dependence?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, many users found Buprenorphine/Naloxone effective for treating opiate dependence.  Some reported significant improvements in their quality of life, ability to work and study, and overcoming addiction. Others noted side effects such as constipation, headaches, and weight gain, but still considered the medication highly effective overall. One review expressed a negative opinion, citing concerns about potential side effects and lack of desired relief.",
+                "answer_2": "Yes, many reviews describe Buprenorphine/Naloxone as helpful for opiate dependence,  effective for withdrawal and maintenance, and life-changing.  Some users report it helped them overcome addiction to various opiates, including oxycodone, morphine, hydrocodone, and fentanyl.  Success is reported by those using it for both short and long-term treatment, and even those who were not initially drug addicts but experienced withdrawal from prescribed opiates.  However, some users experienced side effects like constipation and insomnia.",
+                "answer_3": "The provided reviews offer varying perspectives. Some users found it highly effective for managing withdrawal symptoms and preventing relapse, reporting improved quality of life and a reduction or elimination of cravings. Others experienced less success, noting persistent cravings or insufficient relief. One review even expressed concern about potential negative side effects and brain damage.  Therefore, effectiveness varies among individuals."
+            }
+        },
+        {
+            "question": "What are the risks of using Buprenorphine/Naloxone?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, potential risks of using Buprenorphine/Naloxone include headaches, weight gain, constipation, and damage to the brain, kidneys, and liver.  One review mentions that the naloxone component may cause damage to the kidneys, liver and other organs.  Another review notes that the drug may bind with and create opiate receptors, potentially causing brain damage.",
+                "answer_2": "Based on the provided reviews, potential risks of using Buprenorphine/Naloxone include:  constipation, headaches, weight gain,  kidney damage, liver damage, and damage to other organs.  One review mentions that the medication caused the creation of new opiate receptors and binding to non-opiate receptors, causing brain damage, though this is a single account.",
+                "answer_3": "Based on the provided reviews, potential side effects of Buprenorphine/Naloxone include constipation, sleepiness, and insomnia.  One review mentions that the medication may need to be taken correctly to avoid negative effects."
+            }
+        },
+        {
+            "question": "How does Buprenorphine/Naloxone help with withdrawal symptoms?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Buprenorphine/Naloxone helps with opiate withdrawal symptoms in several ways:\n\n* It alleviates withdrawal symptoms almost entirely, allowing users to feel like a \"new person\" within an hour of taking the medication.\n* It significantly reduces withdrawal symptoms, making them almost non-existent.\n* It helps manage withdrawal symptoms, although cravings may remain.\n* It reduces withdrawal symptoms but may not eliminate them entirely; the severity of remaining symptoms may vary depending on the individual's tolerance and prior opiate use.  Some users experienced significant withdrawal even after stopping the medication.",
+                "answer_2": "Buprenorphine/Naloxone helps to detox in a comfortable and humane way, taking care of most detox symptoms so that the user can function.  It allows for withdrawal without going \"cold turkey\" or tapering off existing medication.  Some users reported feeling 100 times better within 20 minutes of taking it, with withdrawal symptoms subsiding.  It helped control withdrawal symptoms and pain for some, allowing them to feel normal again. For others, it lessened cravings but did not eliminate them.  One user noted that while it helped with withdrawal, they still experienced high cravings.",
+                "answer_3": "Based on the provided reviews, Buprenorphine/Naloxone helps with opiate withdrawal symptoms in several ways:\n\n* It alleviates withdrawal symptoms such as body aches, cold sweats, diarrhea,  back pain,  insomnia, and vomiting.\n* It reduces cravings for opiates.\n* It makes users feel like a \"new person\" and allows them to feel hope.  \n* For some, it eliminates withdrawal symptoms entirely or significantly reduces them within a short period (less than an hour).\n* It helps users feel normal and have energy again.\n\nHowever, some users report continued cravings,  intense withdrawal symptoms, even after prolonged use, and a need for a tapering schedule to avoid withdrawal.  The effectiveness and experience of using this drug vary greatly depending on the individual."
+            }
+        },
+        {
+            "question": "Can Buprenorphine/Naloxone be used for long-term maintenance?",
+            "answers": {
+                "answer_1": "Yes.  Several reviews describe using buprenorphine/naloxone for over four years, two years, and nearly seven years for opiate dependence.",
+                "answer_2": "Yes, some reviews describe using Buprenorphine/Naloxone for long-term maintenance (over 4 years in one case and 21 months in another).  One review suggests that using it for longer than 14 days may lead to lifetime maintenance.",
+                "answer_3": "Yes.  One review mentions using it for seven years, another for one year after 40 years of methadone use, and another for four months."
+            }
+        },
+        {
+            "question": "Does Metronidazole interact with alcohol consumption?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "Yes, multiple reviews indicate a negative interaction between Metronidazole and alcohol consumption, resulting in illness, including nausea and vomiting.  One review mentions a severe reaction.  The severity of the reaction may vary depending on the amount of alcohol consumed.  It is advised to avoid alcohol before, during, and for a period after taking Metronidazole.  Even using products containing alcohol may cause reactions such as rashes and hives.",
+                "answer_3": "Yes, multiple reviews indicate negative interactions between Metronidazole and alcohol consumption, resulting in illness, vomiting, and nausea.  One review mentions feeling ill after consuming only one light beer. Another describes severe illness, including a blackout, vomiting, and illness the following day, after consuming alcohol 72 hours after taking the medication.  A third review emphasizes the importance of avoiding alcohol while on the medication.  A fourth review reports feeling nauseous after drinking beer while taking the drug."
+            }
+        },
+        {
+            "question": "Can Miconazole be used during pregnancy?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text indicates that miconazole was prescribed to pregnant women for vaginal yeast infections, but also mentions that one patient was prescribed miconazole instead of Diflucan because she was late in her pregnancy.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What should I do if Temazepam causes dizziness?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Does Contrave suppress appetite effectively?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Contrave's effectiveness in suppressing appetite is variable.  Some users reported significantly reduced appetite and suppressed cravings, while others experienced no change in appetite or even increased hunger.",
+                "answer_2": "Multiple reviews indicate Contrave effectively suppresses appetite.  Some users report decreased hunger, reduced snacking, and a lessened desire to overeat, particularly of fatty foods.  Others describe feeling full after smaller meals and a significant reduction in cravings, especially for sweets.  However, one user noted that while their appetite was curbed, they still thought about food.",
+                "answer_3": "Contrave's effectiveness in suppressing appetite varies among users. Some users reported a significant reduction in appetite and cravings, while others experienced no appetite suppression or even increased appetite."
+            }
+        },
+        {
+            "question": "How does Buprenorphine/Naloxone compare to methadone for opiate dependence?",
+            "answers": {
+                "answer_1": "One review states that methadone is \"its own evil,\" but that any opiate besides buprenorphine/naloxone is better due to the latter's destructive effects on the brain and kidneys/liver damage caused by naloxone. Another review states that the reviewer used both methadone and buprenorphine/naloxone (Suboxone) for heroin addiction, finding both effective in keeping them off heroin.  However, the reviewer noted that methadone resulted in a lack of sex drive, while buprenorphine/naloxone caused difficulty climaxing for both the reviewer and their partner.  A third review states that buprenorphine/naloxone was 75% as effective as a methadone/oxycodone combination for pain management.",
+                "answer_2": "One review states that methadone made the reviewer feel the opposite of how buprenorphine/naloxone made them feel; buprenorphine/naloxone made the reviewer feel energetic, happy, stable, without urges, and not stoned, while methadone did not.  Another review mentions being on a methadone program for 20 years and relapsing, then switching to buprenorphine/naloxone and finding it better, though they also received counseling.  A third review describes methadone as its \"own evil\" and suggests that any opiate other than buprenorphine/naloxone is better due to buprenorphine/naloxone's potential for brain and organ damage.  A fourth review states that they had a very bad addiction to morphine and methadone before using Suboxone (buprenorphine/naloxone).",
+                "answer_3": "One review states that Suboxone (buprenorphine/naloxone) is preferable to methadone for opiate dependence because methadone has its own negative effects, while another review states that after 40 years of methadone treatment, the user found life to be good again after one year of Suboxone treatment.  A third review reports that methadone treatment made the user feel awful, while Suboxone, though initially difficult, is hoped to provide relief.  Another review mentions both methadone and Suboxone maintenance for heroin addiction, noting that both worked well but that each had different sexual side effects; Suboxone caused difficulty climaxing, while methadone caused lack of sex drive."
+            }
+        },
+        {
+            "question": "Can Metronidazole treat recurring bacterial infections?",
+            "answers": {
+                "answer_1": "The provided text mentions Metronidazole being used to treat bacterial infections on multiple occasions, including a case where a patient experienced recurring diarrhea and used Metronidazole successfully on separate occasions four years apart.  However, there is no information about the drug's effectiveness for *all* recurring bacterial infections.",
+                "answer_2": "One review mentions using a higher dose of Metronidazole (250mg four times daily for 10 days) to treat recurring bacterial vaginosis, although it did not eliminate the infection in that instance.",
+                "answer_3": "The provided text focuses on individual experiences with Metronidazole for various bacterial infections and vaginitis,  but doesn't offer information on whether it can treat *recurring* bacterial infections."
+            }
+        },
+        {
+            "question": "What is the best way to apply Miconazole for yeast infections?",
+            "answers": {
+                "answer_1": "The provided text does not offer guidance on the best way to apply Miconazole for yeast infections.  The reviews only describe negative experiences after application.",
+                "answer_2": "The provided text mentions suppositories and cream as application methods for miconazole.  Some users found suppositories easier to insert than cream.",
+                "answer_3": "The provided text does not offer information on the best way to apply Miconazole for yeast infections.  Several reviews mention applying the cream/suppository at bedtime, but this is not presented as a recommendation."
+            }
+        },
+        {
+            "question": "How long does Temazepam take to induce sleep?",
+            "answers": {
+                "answer_1": "The time it takes for Temazepam to induce sleep varies.  Some users reported falling asleep within 30 minutes, while others experienced delays of up to 10 hours.  Some users reported no effect at all.",
+                "answer_2": "The time it takes for Temazepam to induce sleep varies.  Some users reported falling asleep within 30 minutes, others within an hour. Some users reported it taking several hours or even that it did not help them fall asleep at all. One user reported taking 10 hours to feel sleepy after taking the medication.",
+                "answer_3": "The time it takes for Temazepam to induce sleep varies.  Some users reported falling asleep within 30 minutes, others after 1-2 hours, and some experienced a delay of 10 hours before feeling sleepy.  In some cases, it didn't induce sleep at all.  One user reported that effectiveness decreased after two weeks of continuous use."
+            }
+        },
+        {
+            "question": "Can Contrave help with emotional eating?",
+            "answers": {
+                "answer_1": "Yes, some users reported that Contrave helped them realize they were emotional eaters and reduced their urge to eat between meals.",
+                "answer_2": "Yes, several reviews indicate Contrave helped users recognize and overcome emotional eating.",
+                "answer_3": "Yes, some reviews suggest Contrave may help with emotional eating."
+            }
+        },
+        {
+            "question": "What support programs are available for Buprenorphine/Naloxone users?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The VA has a Suboxone program for veterans.  Counseling is also mentioned as a helpful support.",
+                "answer_3": "The provided text mentions support groups as helpful for recovery."
+            }
+        },
+        {
+            "question": "Does Metronidazole have any impact on gut health?",
+            "answers": {
+                "answer_1": "Metronidazole use has been associated with diarrhea, vomiting, constipation, stomach pains, cramping, nausea, and yeast infections.  Some users reported improvement in gut health after treatment.  Taking the medication with food may mitigate some negative effects.",
+                "answer_2": "Based on the provided reviews, Metronidazole's impact on gut health varies. Some users experienced diarrhea, worsening gut symptoms initially followed by improvement, constipation, bloating, cramping, and nausea. Others reported no gut-related side effects or even improvement in gut symptoms.  One review mentioned that taking the medication with food helped mitigate negative effects.",
+                "answer_3": "Based on the provided reviews, Metronidazole use has been associated with diarrhea,  a slight stomach ache, nausea, and gas.  One review mentions taking probiotics to help mitigate side effects. Another review notes that the medication may cause appetite changes, with one person reporting increased appetite and another reporting appetite loss."
+            }
+        },
+        {
+            "question": "Is Miconazole effective for resistant yeast infections?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text does not contain information on whether Miconazole is effective for resistant yeast infections.",
+                "answer_3": "The provided text offers individual experiences with miconazole for vaginal yeast infections, some positive and many negative, but does not address its effectiveness against resistant yeast infections."
+            }
+        },
+        {
+            "question": "Are there natural alternatives to Temazepam for insomnia?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text mentions melatonin as a supplement taken with Temazepam, but does not offer natural alternatives to Temazepam for insomnia.",
+                "answer_3": "The provided text does not mention natural alternatives to Temazepam for insomnia."
+            }
+        },
+        {
+            "question": "Can Contrave cause mood swings as a side effect?",
+            "answers": {
+                "answer_1": "The provided text mentions irritability and jitters as side effects in one review, but does not specify whether mood swings are a side effect.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What should I do if Buprenorphine/Naloxone is not controlling cravings?",
+            "answers": {
+                "answer_1": "The provided text mentions that some individuals continued to experience cravings despite using Buprenorphine/Naloxone. One individual switched to Methadone. Another found that Buprenorphine/Naloxone worked better for those with lower tolerances or those only using prescription opiates.",
+                "answer_2": "The provided text offers differing experiences.  Some individuals found Buprenorphine/Naloxone helpful in reducing cravings, while others continued to experience intense cravings despite using the drug. One review mentions switching to methadone as an alternative.  Another review suggests that the drug may be more effective for people with lower opiate tolerances.",
+                "answer_3": "The provided text mentions that some individuals experienced high cravings despite using Buprenorphine/Naloxone.  One review suggests watching a YouTube video that may help.  Another review recommends finding a support group and talking with them daily."
+            }
+        },
+        {
+            "question": "How should Metronidazole be stored to maintain its effectiveness?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Miconazole treat other fungal infections besides yeast?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Does Temazepam work for all types of insomnia?",
+            "answers": {
+                "answer_1": "The provided text offers differing experiences with Temazepam's effectiveness for insomnia.  Some users reported significant improvement in sleep duration and quality, while others found it ineffective or experienced negative side effects such as sleepwalking or delayed onset of sleep.  Therefore, the provided information does not indicate whether Temazepam works for all types of insomnia.",
+                "answer_2": "The provided text describes various individual experiences with Temazepam for insomnia, showing it helped some individuals fall asleep and stay asleep, while others experienced only partial effectiveness or needed to take additional doses to maintain sleep throughout the night.  The reviews do not indicate whether Temazepam is effective for all types of insomnia.",
+                "answer_3": "No.  Some users reported it was ineffective for their insomnia.  One user stated it was completely useless, while another reported it did not help them fall asleep.  A third user found it ineffective after initial success and noted that the drug's effectiveness decreased over time.  Another user reported that a 15mg dose did nothing for their insomnia."
+            }
+        },
+        {
+            "question": "What lifestyle changes enhance the effectiveness of Contrave?",
+            "answers": {
+                "answer_1": "Cutting out bread and sweets, walking 4-5 days a week, and exercising daily (at least 45 minutes of walking) are mentioned as lifestyle changes that enhance the effectiveness of Contrave.  Following a healthy diet and exercising are also noted.",
+                "answer_2": "Improved eating habits and regular exercise (such as Zumba, weight training, and walking) enhance the effectiveness of Contrave.  A stationary bike routine is also mentioned.",
+                "answer_3": "Based on the provided reviews,  lifestyle changes that enhance Contrave's effectiveness include:\n\n*   Watching what you eat.\n*   Regular exercise (walking, working out).\n*   Drinking more water.\n*   Counting calories (trying to stay under 1000).\n*   Changing eating habits to \"eat to live instead of living to eat\".\n*   Establishing better eating habits for after stopping Contrave."
+            }
+        },
+        {
+            "question": "Are there withdrawal symptoms when stopping Buprenorphine/Naloxone?",
+            "answers": {
+                "answer_1": "Yes.  Some users reported withdrawal symptoms including leg and arm spasms, lack of energy, tiredness, depression, and lack of interest.  Another user reported constipation and withdrawal.",
+                "answer_2": "Yes, some users reported withdrawal symptoms when stopping Buprenorphine/Naloxone.  These symptoms varied in severity and duration.  Some experienced symptoms such as  constipation,  intense cravings for full opiates, poor sleep, low motivation and energy, skin crawling, and \"jimmy legs\" that lasted for weeks or even months.  Others reported that withdrawal was not severe.",
+                "answer_3": "Yes.  Several reviews describe withdrawal symptoms such as:  sleep disturbances, low motivation and energy, skin crawling, restless legs, back pain, nausea and vomiting, depression, and cravings.  The severity and duration varied among individuals, with some experiencing symptoms for weeks or even months after stopping.  One review stated that withdrawal symptoms were not as severe as those from oxycodone, but still long-lasting. Another reported that even after a year of taking a low dose, withdrawal symptoms were significant upon cessation."
+            }
+        },
+        {
+            "question": "Can Metronidazole be used alongside probiotics?",
+            "answers": {
+                "answer_1": "Some users reported taking probiotics two hours or more after taking Metronidazole.  Another user reported taking probiotics two hours before taking Metronidazole.",
+                "answer_2": "The provided text does not contain information about the use of Metronidazole alongside probiotics.",
+                "answer_3": "Some reviews suggest taking probiotics 2 hours or more after taking Metronidazole.  Another review suggests taking probiotics 2 hours before taking Metronidazole."
+            }
+        },
+        {
+            "question": "What is the duration of treatment with Miconazole?",
+            "answers": {
+                "answer_1": "The provided reviews mention 3-day and 7-day treatments.",
+                "answer_2": "The provided reviews mention 3-day and 7-day treatment durations for Miconazole.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Is Temazepam safe for elderly patients?",
+            "answers": {
+                "answer_1": "The provided text includes a review from a patient over 50 who used Temazepam during opiate detox and found it helpful for insomnia.  Another review mentions a user taking the drug for 10 years, only using it occasionally.  However, there is no information about the safety of Temazepam specifically for elderly patients.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Contrave be combined with exercise for better weight loss results?",
+            "answers": {
+                "answer_1": "Yes, several reviews mention combining Contrave with exercise, such as walking, stationary biking, and general activity, to achieve weight loss.",
+                "answer_2": "Yes, many reviews mention combining Contrave with exercise for weight loss.  Several reviewers report significant weight loss while exercising 2-4 days a week, with varying durations and types of exercise.",
+                "answer_3": "Yes. Several reviews mention combining Contrave with exercise, resulting in weight loss.  Some users reported weight gain initially due to exercise, but continued to lose weight with continued use of Contrave and exercise.  Others experienced significant weight loss with moderate exercise (2-3 times per week) alongside Contrave."
+            }
+        },
+        {
+            "question": "What is the success rate of Buprenorphine/Naloxone in managing opiate dependence?",
+            "answers": {
+                "answer_1": "The provided text includes several anecdotal accounts of successful treatment of opiate dependence using Buprenorphine/Naloxone.  However, it does not provide data on the overall success rate.",
+                "answer_2": "The provided text offers several individual accounts of successful treatment of opiate dependence using Buprenorphine/Naloxone,  resulting in relapse prevention, recovery from addiction, and improved quality of life.  However, no quantitative data on success rate is available.",
+                "answer_3": "The provided text offers individual experiences with Buprenorphine/Naloxone for opiate dependence, ranging from highly positive (\"changes life in a day,\" \"best,\" \"saved my life\") to mixed (\"helped the withdrawals but my cravings are very high\") and negative (\"still waiting to feel good, still waiting to not have cravings\").  One review describes success after 15 days of use, another after two years.  A specific success rate is not given."
+            }
+        },
+        {
+            "question": "What is Acetaminophen/Caffeine/Dihydrocodeine used for?",
+            "answers": {
+                "answer_1": "Pain",
+                "answer_2": "Pain",
+                "answer_3": "Pain"
+            }
+        },
+        {
+            "question": "How effective is Acetaminophen/Caffeine/Dihydrocodeine for pain management?",
+            "answers": {
+                "answer_1": "Acetaminophen/Caffeine/Dihydrocodeine has been described as \"fantastic\" for managing severe back pain with limb numbness, resulting in a 90% reduction in pain and improved ability to work.  Another review stated it provides an \"excellent experience\" and is effective.",
+                "answer_2": "Acetaminophen/Caffeine/Dihydrocodeine has been described as \"fantastic\" for severe back pain,  \"excellent,\" and the first medication to truly help ease chronic headache/migraine pain with few side effects.  One user noted that while it caused constipation, it made their pain 90% better and tolerable.  Another user stated they only take what they need.",
+                "answer_3": "One review described the experience as \"Excellent.\""
+            }
+        },
+        {
+            "question": "Are there any common side effects of Acetaminophen/Caffeine/Dihydrocodeine?",
+            "answers": {
+                "answer_1": "Based on the provided text, constipation is a common side effect of Acetaminophen/caffeine/dihydrocodeine.",
+                "answer_2": "Constipation is mentioned as a side effect.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Acetaminophen/Caffeine/Dihydrocodeine be used for chronic pain?",
+            "answers": {
+                "answer_1": "The provided text mentions Acetaminophen/Caffeine/Dihydrocodeine being used for severe back pain with limb numbness,  but it doesn't specify if it's appropriate for all types of chronic pain.",
+                "answer_2": "The provided text mentions Acetaminophen/Caffeine/Dihydrocodeine being used for pain in contexts where the pain is described as severe back pain with limb numbness and chronic headaches/migraines.",
+                "answer_3": "The provided text mentions Acetaminophen/Caffeine/Dihydrocodeine being used for pain in one review, describing its use for severe back pain with limb numbness for approximately one month.  However, it does not specify whether it is suitable for chronic pain."
+            }
+        },
+        {
+            "question": "What precautions should I take while using Acetaminophen/Caffeine/Dihydrocodeine?",
+            "answers": {
+                "answer_1": "The provided text mentions constipation as a side effect experienced by one user.",
+                "answer_2": "The provided text mentions one side effect: constipation.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What is Contrave prescribed for?",
+            "answers": {
+                "answer_1": "Contrave is prescribed for weight loss and obesity.",
+                "answer_2": "Contrave is prescribed for weight loss and obesity.",
+                "answer_3": "Contrave is prescribed for obesity and weight loss."
+            }
+        },
+        {
+            "question": "How effective is Contrave for obesity management?",
+            "answers": {
+                "answer_1": "Contrave's effectiveness varies.  Some users reported significant weight loss (80.1 pounds in 9 months, 63 pounds in 4.5 months, 53 pounds in over 3 months, 35 pounds in 3 months, 21 pounds in 1 month, and 12 pounds in 3 weeks). Others experienced less weight loss (10 pounds in 2 months and 4 pounds in 4 months).  One user reported no noticeable difference in weight after several weeks, but was still early in their treatment.",
+                "answer_2": "Contrave users reported weight loss ranging from 4 pounds in 4 days to 63 pounds in 4.5 months.  Some users experienced significant appetite suppression and increased energy levels. Others reported weight loss of 10 pounds per month.  However, one user noted slower than anticipated weight loss.  The effectiveness varied among individuals and seemed to depend on other lifestyle changes, such as diet and exercise.  Some users also reported that Contrave helped them establish better eating habits.",
+                "answer_3": "Contrave users reported weight loss ranging from 4 pounds in a week to 63 pounds in 4.5 months.  Some users lost 7 pounds in a week, 9 pounds in a month, 20.8 pounds in three months, and 30 pounds in approximately 10 months (6/9/15-6/9/16, assuming the year is correct).  One user lost 32 pounds in an unspecified timeframe.  Another consistently lost 10 pounds per month.  Weight loss varied depending on individual factors such as diet, exercise, and adherence to the medication regimen.  Several users noted that the effectiveness seemed to lessen over time."
+            }
+        },
+        {
+            "question": "Are there risks of dependency with Contrave?",
+            "answers": {
+                "answer_1": "The provided text does not mention the risk of dependency with Contrave.",
+                "answer_2": "The provided text does not contain information about the risk of dependency with Contrave.",
+                "answer_3": "The provided text does not contain information about the risk of dependency with Contrave."
+            }
+        },
+        {
+            "question": "Can Contrave be combined with exercise and diet for better results?",
+            "answers": {
+                "answer_1": "Yes, many reviews mention combining Contrave with exercise and diet.  Examples include walking, a low-carb diet, calorie counting, and reduced carb intake (bread, sweets, beer, fries, etc.).  Several reviewers reported significant weight loss with this combination.",
+                "answer_2": "Yes, many reviews describe combining Contrave with exercise and diet.  Specific examples include stationary biking, walking, and various dietary approaches such as lower-carb diets and reducing portion sizes.  Reviewers report that this combination leads to weight loss.",
+                "answer_3": "Yes.  One review mentions combining Contrave with heavy exercise, resulting in a 5lb weight gain in the first week due to the exercise. Another review describes weight loss with Contrave while cutting out most carbs. A third review mentions using Contrave alongside reduced carbonated soda intake and plans to incorporate exercise and mindful eating.  A fourth review reports significant weight loss with Contrave while only doing light office-based activity, and cutting out carbs, bread, beer, fries, baked potatoes, white rice, and Thai noodles."
+            }
+        },
+        {
+            "question": "What are the most common side effects of Contrave?",
+            "answers": {
+                "answer_1": "Nausea, dizziness, vomiting, constipation, dry mouth, hot flashes, sleepiness, weird dreams, light-headedness, stomach cramps, jitters, irritability, and twitching are mentioned as side effects.",
+                "answer_2": "Nausea, dizziness, sleepiness, headaches, constipation, irritability, insomnia, gas, stomach pain, jittery feelings, and dry mouth are mentioned as side effects.  Some users also reported lightheadedness.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What is Ethinyl Estradiol/Norethindrone used for?",
+            "answers": {
+                "answer_1": "Birth control.",
+                "answer_2": "Birth control.",
+                "answer_3": "Ethinyl estradiol/norethindrone is used for birth control, abnormal uterine bleeding, and menstrual disorders."
+            }
+        }
+    ]
+}

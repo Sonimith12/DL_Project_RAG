@@ -1,0 +1,399 @@
+{
+    "metadata": {
+        "instruction": "Imagine you are a simple user asking these questions. Rank the answers for each question from best to worst. Provide the ranking as a list for each question, for example {3,1,2} if the second answer is the best, the third is second, and the first is third.When it says The context does not contain enough information to answer this question. give 4 as un rank even if there is 2 answer with this sentence"
+    },
+    "questions": [
+        {
+            "question": "How effective is Lamotrigine in treating bipolar disorder?",
+            "answers": {
+                "answer_1": "Reviews describe Lamotrigine as highly effective, a miracle medication, and essential for managing bipolar disorder, particularly bipolar depression.  Some users report significant improvements in mood, reduction of mood swings, and lessened feelings of helplessness and hopelessness. Others found it effective in conjunction with other treatments like therapy or antipsychotics. However, some users experienced a delayed onset of effectiveness (up to six months), and one user noted it was unsuitable for bipolar type 1, and another found their mood was too suppressed at a higher dosage.  One user experienced a rash.  The effectiveness varied among individuals, with some experiencing almost symptom-free results, while others still experienced mood swings, albeit less intense.",
+                "answer_2": "Reviews on Lamotrigine's effectiveness for bipolar disorder vary.  Some users report significant improvement in managing mood swings, lessening depression intensity, and feeling better than in many years.  Others describe it as a lifesaver, enabling them to function productively and avoid hospitalizations.  However, some users experienced  mood suppression at higher doses,  ineffectiveness after long-term use, or found it less effective than other medications like lithium.  One user noted that it was unsuitable for Bipolar Type 1, according to their doctor.  The time it takes for Lamotrigine to become fully effective also varies, with some experiencing results within a week while others noted a month-long delay.",
+                "answer_3": "Patient experiences with Lamotrigine for bipolar disorder vary widely.  Some report significant improvement in mood stability, reduced symptom severity (including depression and mania), and improved cognitive function.  Others experienced a delay in effectiveness, requiring slow titration to achieve optimal results.  Some individuals found Lamotrigine helpful in conjunction with other medications, while others used it as monotherapy.  Side effects reported include rash, dizziness, diarrhea, headaches, and  mood suppression at higher doses.  One review mentioned that Lamotrigine may be unsuitable for Bipolar Type 1.  A few users reported that Lamotrigine saved their lives or was life-changing.  There is also mention that the effectiveness of doses beyond 100-150mg is debated, with increased side effects possible."
+            }
+        },
+        {
+            "question": "Are there serious risks associated with using Lamotrigine?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, some users experienced worsening seizures, while others reported side effects such as brain fog, multitasking issues, difficulty finding words,  nausea, chills, itching,  sweats, flu-like symptoms, strange dreams and nightmares, drowsiness, and weight gain.  One user noted inconsistent blood levels when switched to a generic version.",
+                "answer_2": "Based on the provided reviews, some users reported serious adverse effects including: worsening seizures, bipolar depressive disorder, severe anxiety disorder, chronic tics, accidental drug overdoses due to forgetfulness, two miscarriages,  extreme fatigue, and  moderate to severe difficulties with cognitive function and memory.  One user experienced  a racing heart and inability to relax or sleep at a higher dosage.",
+                "answer_3": "Based on the provided reviews, potential serious risks associated with Lamotrigine include:\n\n*   A potentially serious rash.\n*   Kidney damage.\n*   Accidental overdose due to forgetfulness.\n*   Suicidal thoughts (worsening of pre-existing conditions).\n*   Pregnancy complications (loss of babies).\n*   Adverse reactions such as a racing heart and inability to relax or sleep."
+            }
+        },
+        {
+            "question": "Can Lamotrigine stabilize mood swings effectively?",
+            "answers": {
+                "answer_1": "Based on the provided reviews, Lamotrigine's effectiveness in stabilizing mood swings varies.  Some users reported significant improvement in managing and lessening the intensity of mood swings, feeling more able to control anger and rationalize feelings. Others found their moods became too suppressed at higher dosages.  Some experienced stable moods for years, while others noted that while it helped, mood swings still occurred, albeit within a more normal range.  One review stated Lamotrigine \"saved their life,\" while another indicated that Lamotrigine did not help with depression or hypersexuality.",
+                "answer_2": "Based on the provided reviews, lamotrigine appears to effectively stabilize mood swings for some individuals with bipolar disorder, borderline personality disorder, anxiety, and depression.  Some users reported significant improvement in mood stability, while others experienced mixed results or negative side effects.",
+                "answer_3": "The provided reviews offer mixed results. Some individuals reported significant improvement in mood stabilization, experiencing lessened intensity of mood swings, better anger control, and increased overall happiness. Others experienced little to no improvement in mood swings, even at higher dosages.  One review even mentioned that increased dosage led to mood suppression."
+            }
+        },
+        {
+            "question": "What precautions should be taken when starting Lamotrigine?",
+            "answers": {
+                "answer_1": "The provided text mentions that dosage should not be skipped or adjusted without a doctor's guidance.  Additionally,  some individuals experienced side effects such as splitting headaches, vomiting, nausea, dry mouth and extreme irritability within two weeks of starting Lamotrigine.",
+                "answer_2": "The provided text mentions that dosage is important and should not be adjusted without consulting a doctor.  One review notes an adverse reaction to a 100mg daily dose, necessitating a reduction to 25mg. Another review mentions  terrible side effects including headaches, vomiting, nausea, dry mouth and extreme irritability after two weeks on the drug.",
+                "answer_3": "Based on the provided reviews,  it is important to monitor for rashes as a possible adverse reaction.  Additionally, some individuals experienced increased anxiety and/or depression at higher dosages (100mg in one case). One person experienced a racing heart and inability to relax or sleep at 100mg, necessitating a dosage reduction.  Another experienced intense diarrhea and headaches when increasing to 200mg.  Finally, gradual increases in dosage (e.g., 25mg every 2 weeks) are mentioned to manage side effects, such as itchiness."
+            }
+        },
+        {
+            "question": "What is Imiquimod used for?",
+            "answers": {
+                "answer_1": "Imiquimod is used for Human Papilloma Virus, Keratosis, and Basal Cell Carcinoma.",
+                "answer_2": "Imiquimod is used for Human Papilloma Virus, Keratosis, Condylomata Acuminata, and Basal Cell Carcinoma.",
+                "answer_3": "Imiquimod is used for Human Papilloma Virus, Basal Cell Carcinoma, and Keratosis."
+            }
+        },
+        {
+            "question": "Can Imiquimod effectively treat human papillomavirus (HPV)?",
+            "answers": {
+                "answer_1": "Some reviews report Imiquimod effectively treated HPV and genital warts, resulting in the disappearance of warts and smoother skin.  Other reviews reported no positive results or worsening of symptoms such as pain, burning, and irritation.  One review stated that the effectiveness was yet to be determined after one week of use.",
+                "answer_2": "The provided reviews offer mixed results regarding Imiquimod's effectiveness in treating HPV. Some users reported significant improvement or complete clearance of warts, while others experienced no positive results, or experienced severe side effects that outweighed any potential benefits.  Therefore, the effectiveness of Imiquimod for HPV treatment is not consistently demonstrated in the provided reviews.",
+                "answer_3": "The provided reviews offer mixed results regarding Imiquimod's effectiveness in treating HPV.  Some users reported significant improvement or complete resolution of warts, while others experienced no positive results or only experienced intense pain and irritation."
+            }
+        },
+        {
+            "question": "What are the common side effects of Imiquimod?",
+            "answers": {
+                "answer_1": "Common side effects of Imiquimod include: painful sinus, swelling of throat and inside mouth, continuous cough, headache, dizziness,  acne-like flare ups, coughing, funny feeling in the throat, swelling, itching, crusting, oozing, tiredness, weakness, flu-like symptoms, swollen lymph nodes, sore throat, and lower back pain.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How long does it take for Imiquimod to clear HPV-related warts?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The time it takes for Imiquimod to clear HPV-related warts varies.  Some users reported complete clearance in one week, while others saw results after two weeks, 2.5 weeks, or six weeks.  One user reported no positive results after two months of use.",
+                "answer_3": "The time it takes for Imiquimod to clear HPV-related warts varies.  One week,  one month, and 2.5 weeks are mentioned as durations in which warts cleared.  In other cases, two months of use resulted in no improvement."
+            }
+        },
+        {
+            "question": "What are the recommended application guidelines for Imiquimod?",
+            "answers": {
+                "answer_1": "The provided text gives examples of application frequencies such as:  \"first two week application and...second two weeks,\" \"3 nights a week,\" and \"religiously (While following instructions),\" but does not state a general recommended application guideline.",
+                "answer_2": "The provided text mentions several application methods and schedules:\n\n*   Three nights a week.\n*   Morning and night for five days a week.\n*   Nights only.\n*   Every other night.\n*   A small amount, about the size of a pinhead, applied only to the wart.\n*   Application for a few days, followed by a few days off.  One user followed a 5 on, 3 off schedule.\n*   Religiously, following instructions (specific instructions not provided).\n*  Three times a week.\n\nSome users also mention taking breaks in treatment due to side effects.",
+                "answer_3": "One review recommends rubbing the cream in completely and washing it off completely in the morning. Another suggests using only what is needed from an opened packet and saving the rest for the next treatment.  A third review recommends applying Vaseline to the skin surrounding the treatment area to protect it from the cream.  One user applied the cream morning and night for five-day stints, but later reduced application to nighttime only."
+            }
+        },
+        {
+            "question": "What is ParaGard used for?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "Birth control"
+            }
+        },
+        {
+            "question": "How effective is ParaGard as a birth control method?",
+            "answers": {
+                "answer_1": "ParaGard's effectiveness is unclear. Some users became pregnant while using it, despite it being correctly positioned.  Others reported successful use for several years.  One user experienced pregnancy after five years of use.",
+                "answer_2": "One review states ParaGard is 99%+ effective.  Another review reports an unexpected pregnancy while using ParaGard that was correctly positioned, and notes that this has happened to thousands of other women.  Several reviews discuss the effectiveness of ParaGard for preventing pregnancy but don't provide specific effectiveness percentages.  One review states the user cannot comment on its effectiveness because they've only used it a short time.",
+                "answer_3": "One review states ParaGard was \"perfect\" in terms of effectiveness, with no pregnancy scares over three years of use.  Another review mentions effectiveness but notes only having used it for a short time.  Several other reviews express satisfaction with ParaGard's effectiveness as birth control, but don't provide specific data on effectiveness."
+            }
+        },
+        {
+            "question": "Does ParaGard have any side effects during use?",
+            "answers": {
+                "answer_1": "Yes.  Reported side effects include: painful cramps (including during exercise), long and heavy periods, nausea, dizziness, headaches, weight gain, severe irritability, mood swings, depression, anxiety attacks, anger issues, severe headaches behind the eyes, extreme fatigue, loss of sex drive, painful sex, hair loss, bald spots, pelvic and lower back pain, copper toxicity, and pregnancy.  Some users reported no side effects.",
+                "answer_2": "Yes, reported side effects of ParaGard include:  painful cramps (sometimes during exercise), long and heavy periods, nausea, dizziness, headaches, weight gain, extreme hip pain, stomach bloating, sharp lower stomach pain, extreme anxiety, depression, sleep disturbances, mood swings, hair loss, acne, and adrenal fatigue.  Some users reported no side effects or only minor ones such as slightly heavier periods or a brief period of moderate cramps after insertion.",
+                "answer_3": "Yes, ParaGard has several reported side effects, including:\n\n* Heavy periods\n* Painful cramps (sometimes during exercise)\n* Long periods\n* Nausea\n* Dizziness\n* Headaches\n* Weight gain\n* Hip pain\n* Bloating\n* Sharp lower stomach pain\n* Anxiety\n* Depression\n* Insomnia\n* Mood swings\n* Hair loss\n* Irritability\n* Mood swings\n* Depression\n* Anxiety attacks\n* Anger issues\n* Severe headaches (behind the eyes)\n* Extreme fatigue\n* Decreased sex drive\n* Painful sex\n* Spotting\n* Sharper cramps\n* Lower back pain\n\n\nSome users reported minimal or no side effects.  The severity and presence of side effects varied widely among users."
+            }
+        },
+        {
+            "question": "Can ParaGard be used as emergency contraception?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What should I know before getting a ParaGard IUD?",
+            "answers": {
+                "answer_1": "Before getting a ParaGard IUD, be aware that insertion experiences vary widely, ranging from minimal discomfort to significant pain.  Some individuals report intense cramping following insertion, lasting for hours or even a full day.  Others experience only light cramping or no cramping at all.  Pain during insertion itself has also been described as ranging from a 2-3 out of 10 to extremely painful.  Ibuprofen and heating pads may help alleviate post-insertion cramping.  Heavier and longer periods are a common side effect, though some individuals experience no change or only slight changes in their menstrual flow.  Spotting is also possible.  Consider choosing a doctor experienced in IUD insertions.  Getting the IUD inserted while on your period may help.",
+                "answer_2": "Before getting a ParaGard IUD, consider that insertion experiences vary widely, ranging from painless to extremely painful, both physically and emotionally.  Some individuals report intense cramping for up to 24 hours after insertion, while others experience only mild cramping or pressure.  Pain medication before insertion may be helpful.  Heavier periods, longer periods, spotting, and intense cramps are common side effects.  The severity of these side effects also varies.  A doctor with experience inserting IUDs is recommended.  Getting the IUD inserted during your period may be helpful.  Rarely, severe reactions like contractions, vomiting, and fainting can occur.  The device may not be 100% effective; pregnancy is still possible.",
+                "answer_3": "Before getting a ParaGard IUD, be aware that insertion can be painful, with experiences ranging from \"worst pain ever\" to \"uncomfortable but bearable\" to painless.  Some find taking pain medication beforehand helpful.  Following insertion, expect cramping and/or spotting, with heavier and/or longer periods than before being common, though the severity varies greatly among individuals.  The intensity and duration of these side effects seem to lessen over time for many users.  A small percentage of users experience severe side effects like contractions, vomiting, and fainting.  Choosing a provider experienced in IUD insertion may lessen the pain of the procedure. Getting the IUD inserted during your period may also reduce pain."
+            }
+        },
+        {
+            "question": "Does Eszopiclone provide long-term relief for chronic insomnia?",
+            "answers": {
+                "answer_1": "The provided text offers mixed experiences with long-term use of eszopiclone for insomnia.  Some users reported using it for several years with effectiveness, while others developed tolerance and required switching medications.",
+                "answer_2": "The provided reviews offer mixed experiences. Some users reported using eszopiclone for several months to years with positive results, while others developed a tolerance and needed to switch medications.  One user specifically mentioned using it for 10 years, albeit intermittently.  Another user stated it worked for 4 years without problems.  However, at least one user reported it was ineffective for them.",
+                "answer_3": "The provided reviews offer conflicting information.  Some users reported using eszopiclone for several years with success, while others noted that their doctors advised against long-term use.  One user mentioned that the drug's effectiveness decreased after several months of use, requiring a change in medication."
+            }
+        },
+        {
+            "question": "What should I do if Trintellix causes nausea?",
+            "answers": {
+                "answer_1": "Some users found that taking Trintellix with food helped alleviate nausea.  Others reported that the nausea subsided after about 10 days.  Taking the medication at night helped some, but caused sleep problems for others.  One user suggested trying different times of day to take it.",
+                "answer_2": "Some users found that taking Trintellix with food helped to reduce nausea.  Others suggested trying different times of day to take the medication.",
+                "answer_3": "Some users found that taking Trintellix with food helped alleviate nausea.  Others found that the nausea subsided after two weeks.  Taking it at night helped some, but caused sleep problems for others.  One user suggests trying different times to take the medication."
+            }
+        },
+        {
+            "question": "Can Lamotrigine be used alongside antidepressants for bipolar disorder?",
+            "answers": {
+                "answer_1": "The provided text mentions using Lamotrigine with an antipsychotic for mania.  One review mentions using Lamotrigine with Seroquel XL.  Another review states that various antidepressants worsened the user's condition before starting Lamotrigine.",
+                "answer_2": "Based on the provided reviews, Lamotrigine has been used in combination with Prozac and with other antidepressants, though one review suggests that combining Lamotrigine with antidepressants may not be effective and that stopping antidepressants improved the effects of Lamotrigine.",
+                "answer_3": "Yes.  Reviews mention Lamotrigine used with Prozac, Zoloft, and Seroquel for bipolar disorder."
+            }
+        },
+        {
+            "question": "Is Imiquimod effective for treating other skin conditions besides HPV?",
+            "answers": {
+                "answer_1": "Yes, the provided text mentions Imiquimod's use in treating keratosis.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Does ParaGard affect menstrual cycles after insertion?",
+            "answers": {
+                "answer_1": "Yes.  Some users reported heavier periods, longer periods,  periods that were unchanged, or spotting.  One user experienced a 43-day gap between periods after insertion. Another user's period length changed from 2 days to 4 days, with heavier bleeding. A third user experienced severe cramps and lower back pain during their first period after insertion.  Another user experienced spotting for 3-4 days before a 9-day period and constant vaginal discharge.",
+                "answer_2": "Yes, ParaGard can affect menstrual cycles.  Some users reported heavier periods for the first few months, lasting a week instead of three days. Others experienced periods that were a little heavier but not longer. Some users reported no change in period length, but heavier bleeding.  Conversely, some experienced lighter periods, lasting only 4 days.  One user noted longer periods (9 days) and increased discharge between periods. Another reported periods that were initially 2 days and very light becoming 4 days long with heavier bleeding on days 2 and 3.  One user experienced a period two weeks after their last period, but this was an isolated occurrence.",
+                "answer_3": "Yes, ParaGard can affect menstrual cycles.  Some users reported heavier periods, longer periods, more severe cramps, and periods occurring more frequently (every 2-3 weeks). Others reported lighter periods, shorter periods, or no significant changes to their periods.  Some experienced spotting and cramping after insertion, which subsided after a few weeks or months.  One user noted a significant time gap (43 days) between their first and second periods after ParaGard insertion."
+            }
+        },
+        {
+            "question": "What are the withdrawal symptoms, if any, of Eszopiclone?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text mentions needing to take other medications (Valium) because of a developed tolerance to eszopiclone,  and experiencing  fatigue and adrenaline swings after stopping use.  One review mentions insomnia as a withdrawal symptom.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Trintellix improve cognitive function in patients with depression?",
+            "answers": {
+                "answer_1": "One review mentions markedly improved focus and concentration as a positive effect of Trintellix.  Another review reports feeling a \"clear head\" after switching to Trintellix.  However, other reviews describe feeling numb and experiencing a decreased sex drive as side effects.",
+                "answer_2": "The provided text mentions improved mood, energy levels, and the ability to enjoy activities,  but does not specifically address cognitive function.  One review mentions \"cognitive dulling\" as a side effect of other medications, implying that Trintellix may not cause this specific negative effect, but doesn't state that it improves cognitive function.",
+                "answer_3": "The provided text mentions improved cognitive function in some reviews.  One review describes \"clear headed thought process\" and feeling \"in control,\" while another notes that previous medications caused \"cognitive dulling,\" which was not experienced with Trintellix. However, other reviews do not mention cognitive effects."
+            }
+        },
+        {
+            "question": "Are there dietary restrictions while taking Lamotrigine?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text does not specify any dietary restrictions for Lamotrigine (Lamictal).",
+                "answer_3": "The provided text mentions one individual following a Paleo diet and lifestyle, but it does not state this is a requirement or recommendation while taking Lamotrigine.  Therefore, the context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How does Imiquimod compare to other treatments for HPV?",
+            "answers": {
+                "answer_1": "The provided text mentions burning/electrocution and freezing as alternative treatments for HPV warts, in addition to Imiquimod.  One review mentions the use of over-the-counter hemorrhoid medication, but this was ineffective.  Another review mentions \"acid\" to burn warts off, but this seemed to worsen the condition.",
+                "answer_2": "The provided text mentions Imiquimod and compares it implicitly to freezing or burning treatments, which are described as alternatives some people would rather avoid.  One review mentions over-the-counter hemorrhoid medication being used unsuccessfully before Imiquimod.",
+                "answer_3": "The provided text mentions several other treatments for HPV in addition to Imiquimod:  salicylic acid,  burning (electrocution), freezing, and  neosporin.  One review mentions over-the-counter hemorrhoid medication was used unsuccessfully before Imiquimod."
+            }
+        },
+        {
+            "question": "What is the typical duration of effectiveness for ParaGard?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "ParaGard is supposed to be effective for up to ten years, but one user became pregnant in their fifth year. Another user had it for 1 year and 10 days before becoming pregnant.  One user loved it and mentioned it's good for 19 years.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Does Eszopiclone interact with alcohol or other medications?",
+            "answers": {
+                "answer_1": "Yes.  One review mentions that taking a glass of wine after taking Eszopiclone reduced its effectiveness. Another review mentions taking Eszopiclone along with Remeron, an antidepressant, and Klonopin, but notes that neither helped with sleep.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What lifestyle changes can complement the use of Trintellix for depression?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text mentions therapy, diet changes, and exercise as lifestyle changes that may complement the use of Trintellix for depression.",
+                "answer_3": "The provided text mentions therapy, diet changes, and exercise as lifestyle changes that were undertaken in conjunction with other treatments for depression."
+            }
+        },
+        {
+            "question": "Can Lamotrigine be safely used during pregnancy?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What are the signs that Imiquimod is working on warts?",
+            "answers": {
+                "answer_1": "Warts getting smaller and smaller until they are gone, with no scarring.  Complete disappearance of small warts and significant reduction in size of larger warts.  Smooth skin where textured areas and raised warts previously existed.",
+                "answer_2": "Based on the provided reviews, the following are signs that Imiquimod may be working:\n\n* Warts disappearing completely.\n* Warts shrinking in size.\n* Warts flattening.\n* Textured areas becoming smooth.",
+                "answer_3": "Warts becoming smaller or disappearing completely are signs that Imiquimod is working.  Some users also reported that textured areas where warts seemed to be forming became smooth."
+            }
+        },
+        {
+            "question": "What are the most common reasons patients choose ParaGard for contraception?",
+            "answers": {
+                "answer_1": "Patients choose ParaGard because it is a non-hormonal birth control option and offers a 10-year plan.  Some patients also chose it because they had negative experiences with hormonal birth control.",
+                "answer_2": "Patients chose ParaGard because they experienced rough side effects from hormonal birth control,  wanted a non-permanent birth control option, and/or desired a hormone-free option.  Some also appreciated its ease of use and lack of daily reminders.",
+                "answer_3": "Patients chose ParaGard because of a desire for a hormone-free option and to avoid the side effects of hormonal birth control.  Some patients also chose it as a non-permanent alternative to other methods."
+            }
+        },
+        {
+            "question": "Can Eszopiclone be used occasionally for sleep disturbances?",
+            "answers": {
+                "answer_1": "The provided text mentions using Eszopiclone for short-term use to reduce the chance of side effects.  One review mentions using it for a month.  Another review suggests it is effective for providing a deep, restful sleep, implying occasional use may be possible.  However, other reviews describe long-term use (over 10 years in one case).",
+                "answer_2": "Yes, some reviews mention using eszopiclone as needed or occasionally.",
+                "answer_3": "Yes, some users report using eszopiclone occasionally for insomnia."
+            }
+        },
+        {
+            "question": "Does Trintellix have an impact on energy levels?",
+            "answers": {
+                "answer_1": "Trintellix has been reported to both increase and decrease energy levels.  Some users reported increased energy and feeling less tired, while others experienced increased tiredness and laziness.",
+                "answer_2": "Trintellix has been reported to both increase and decrease energy levels.  Some users reported feeling lazy and tired, while others experienced increased energy and an improved mood.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How does Lamotrigine help with depressive episodes in bipolar disorder?",
+            "answers": {
+                "answer_1": "Lamotrigine lessens the intensity of depression and takes the edge off, allowing for better rationalization of feelings and improved anger control.  It helps stabilize moods dramatically and prevents feelings of helplessness and hopelessness.  For some, it prevents major depressive episodes.  In some cases, it allows for a feeling of normalcy, where happiness and sadness are experienced appropriately in response to events, rather than being influenced by the illness.",
+                "answer_2": "Lamotrigine is reported to be highly effective for depressive episodes in bipolar disorder.  Some users report it helped control suicidality and anger, helped maintain employment, and allowed them to feel \"normal,\" experiencing happiness and sadness appropriately, rather than having their feelings influenced by their illness.  For some, it was a \"lifesaver\" significantly improving mood swings and anxiety.  Others found it better than other antidepressants they had tried previously.  It is also reported to be effective when used in combination with other medications, such as antipsychotics.",
+                "answer_3": "Lamotrigine lessened the intensity of depression and allowed mood swings to become more manageable.  It helped users feel able to rationalize feelings and control anger outbursts better.  In some cases, it prevented major depressive episodes. For one user, it helped keep them from getting \"super down\" like they used to.  Another user stated that  Lamotrigine, along with other medications, helped maintain stability and deal with a serious illness that had previously caused significant mood issues. One user reported that Lamotrigine saved their life, leading to a new job, improved marriage, and overall stability."
+            }
+        },
+        {
+            "question": "What precautions should I take while applying Imiquimod?",
+            "answers": {
+                "answer_1": "Based on the provided reviews,  precautions include applying a very small amount initially, ensuring complete absorption of the cream, and thorough washing in the morning.",
+                "answer_2": "Based on the provided reviews,  consider using a very small amount of Imiquimod, only applying it to the affected area and not the surrounding skin.  Start with infrequent applications and monitor for side effects.  If severe pain or other concerning symptoms occur, discontinue use and consult a doctor.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Are there age restrictions for using ParaGard as birth control?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The provided text mentions users aged 21, 22, 23, 24, 27, and 33.  There is also mention of a user in their 20s.  However, there is no information about age restrictions for using ParaGard.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "What is the success rate of Eszopiclone in treating severe insomnia?",
+            "answers": {
+                "answer_1": "The provided text offers mixed results. Some users reported it was highly effective for long-term insomnia relief, while others found it ineffective for severe insomnia, even at the maximum prescribed dose.  One user reported needing another medication to fall asleep after taking Eszopiclone. Another found that Eszopiclone helped but only provided a few hours of sleep.",
+                "answer_2": "The provided text offers individual experiences with Eszopiclone's effectiveness in treating insomnia, ranging from highly successful to completely ineffective.  Some users reported long-term success (months to years), while others found it unhelpful, even after several days of use.  There is no data provided to calculate a success rate.",
+                "answer_3": "The provided text includes several individual experiences with Eszopiclone for insomnia, some reporting success and others not.  There is no data on the overall success rate of Eszopiclone in treating severe insomnia."
+            }
+        },
+        {
+            "question": "Does Trintellix improve symptoms of treatment-resistant depression?",
+            "answers": {
+                "answer_1": "The provided text does not contain information on whether Trintellix improves treatment-resistant depression.",
+                "answer_2": "The provided text includes several reviews of Trintellix for depression, some reporting positive experiences and others reporting negative experiences or lack of improvement.  Some individuals reported that Trintellix was the best antidepressant they had tried, even after experiencing treatment resistance with other medications. However, other reviews describe Trintellix as ineffective for their depression.  Therefore, the provided text does not definitively answer whether Trintellix improves symptoms of treatment-resistant depression.",
+                "answer_3": "The provided text includes reviews of Trintellix for depression, some describing its effectiveness for long-standing depression. One review mentions the user had depression for over a decade and that nothing else helped.  Another review states that the user had been on and off different medications for 10 years before finding Trintellix helpful. However, there is no specific mention of whether Trintellix is effective for *treatment-resistant* depression."
+            }
+        },
+        {
+            "question": "How does Lamotrigine compare to other mood stabilizers?",
+            "answers": {
+                "answer_1": "One review states that Lamotrigine doesn't have the side effects experienced on other medications.  Another review mentions that Lamotrigine, unlike Prozac, Celexa, and Wellbutrin, does not cause the reviewer to experience sexual side effects, weight gain, restlessness, or irritability.  However, it did cause a narrowing of emotional bandwidth.",
+                "answer_2": "Several reviews state Lamotrigine was more effective than other medications the patients had previously tried.  These included various SSRIs (such as Paxil, citalopram, Vibryd, Zoloft, and Effexor),  antidepressants in general, and natural supplements. One review mentions that Lamotrigine, used in conjunction with Seroquel and Klonopin, was helpful in preventing full-blown episodes of bipolar disorder. Another review notes that Lamotrigine worked better than antidepressants, which worsened the patient's condition.",
+                "answer_3": "Based on the provided reviews, some users found Lamotrigine to be preferable to other mood stabilizers due to a lack of weight gain, a side effect experienced with other medications like quetiapine, depakote, and lithium.  Others noted that Lamotrigine was helpful in managing mood swings and preventing episodes, in comparison to other medications like Prozac and Topamax,  which caused negative side effects.  In some cases, Lamotrigine was used in combination with other medications like Seroquel and Klonopin for better mood stabilization. However, one review indicated that Lamotrigine was ineffective for that individual, and they preferred lithium or other bipolar medications."
+            }
+        },
+        {
+            "question": "What support options are available for patients using Imiquimod?",
+            "answers": {
+                "answer_1": "The provided text mentions that a doctor prescribed a steroidal ointment for pain relief in one case.  In another case, a doctor prescribed antibiotics and an antibiotic topical cream to treat an infection.",
+                "answer_2": "The provided text mentions steroidal ointment prescribed by a doctor to address pain caused by Imiquimod.  Additionally, one review mentions the use of aloe vera gel mixed with tea tree oil to help with itching.  Another review mentions antibiotics and an antibiotic topical cream for infection.",
+                "answer_3": "The provided text mentions that a doctor prescribed a steroidal ointment for pain relief in one case, and antibiotics and an antibiotic topical cream were used to treat infection in another.  In one case, a doctor advised the patient to stop using Imiquimod and return in three weeks."
+            }
+        },
+        {
+            "question": "Does ParaGard provide protection immediately after insertion?",
+            "answers": {
+                "answer_1": "The provided text does not specify whether ParaGard provides immediate protection after insertion.  One review mentions pregnancy after one year and ten days of use.",
+                "answer_2": "The provided text does not specify whether ParaGard provides immediate protection after insertion.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Can Eszopiclone improve sleep quality over time for patients with chronic insomnia?",
+            "answers": {
+                "answer_1": "Some reviews suggest Eszopiclone helped improve sleep quality over time. One review describes using it for almost a year with good results and few side effects, another mentions using it for over 10 years, although needing to cycle off and on due to tolerance.  A third review reports successful use for six years, but this was before insurance coverage ended.  Conversely, some users report that Eszopiclone did not improve sleep quality for them.",
+                "answer_2": "Some users reported improved sleep quality and duration using Eszopiclone for several years, even up to 8 years in one case.  Others found it effective for shorter periods (7 months). One user, however, found it ineffective.  Another user reported that Eszopiclone helped initially but they were later able to discontinue it after starting magnesium supplements.",
+                "answer_3": "Some users reported improved sleep quality with long-term use (several years), while others found it effective for a period of time (7 months), after which its effectiveness decreased or they needed to take breaks.  One user reported that Eszopiclone stopped working after 6-7 months. Another user, who had been taking other medications, found Eszopiclone worked best for them for the longest duration.  One user resolved their insomnia with magnesium and stopped taking Eszopiclone."
+            }
+        },
+        {
+            "question": "What should I do if Trintellix causes unexpected side effects like dizziness or headaches?",
+            "answers": {
+                "answer_1": "The provided text mentions several individuals stopped taking Trintellix due to side effects.  One review mentions returning to a previous medication (Cymbalta).",
+                "answer_2": "The provided text mentions several instances where users stopped taking Trintellix due to side effects.  Some users switched to other medications (Cymbalta, Loestrin). One user went to the ER.  Another user muscled through the side effects to continue taking the medication.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Does Lamotrigine help prevent manic episodes in bipolar disorder?",
+            "answers": {
+                "answer_1": "Some reviews suggest Lamotrigine helps lessen the intensity and manageability of mood swings, including manic episodes.  Others report it was effective in stabilizing moods and preventing manic episodes in combination with other medications.  However, one review notes that Lamotrigine is considered unsuitable for Bipolar Type 1 by some doctors.  Another review indicates that the medication helped manage a mixed episode of mania, but this was for Bipolar 2.",
+                "answer_2": "Yes, several reviews indicate Lamotrigine helps prevent or reduce the frequency and severity of manic episodes in individuals with bipolar disorder,  when used in conjunction with other medications in some cases.",
+                "answer_3": "Based on the provided reviews, Lamotrigine appears to help some individuals with bipolar disorder manage or lessen the intensity of manic episodes.  Some reviewers reported that it helped prevent manic episodes altogether, while others experienced a reduction in the intensity and frequency of manic episodes.  However, one review notes that Lamotrigine may be unsuitable for Bipolar Type 1."
+            }
+        },
+        {
+            "question": "Can Imiquimod be used to treat precancerous skin lesions effectively?",
+            "answers": {
+                "answer_1": "Yes.  Reviews indicate successful treatment of actinic keratosis and basal cell carcinoma with Imiquimod.  One review mentions almost complete removal of cancerous and/or keratoses after two months of treatment. Another review describes the treatment of several actinic keratosis spots with minimal side effects.",
+                "answer_2": "Based on the provided text, imiquimod has been used to treat basal cell carcinoma and keratosis.  One review mentions its use for actinic keratosis, which are precancerous lesions.  The effectiveness varied among individuals.",
+                "answer_3": "Based on the provided reviews, Imiquimod has shown effectiveness in treating basal cell carcinoma and keratosis.  Some users reported that their cancerous or keratotic lesions were almost gone after using Imiquimod.  However, other users experienced significant side effects."
+            }
+        },
+        {
+            "question": "How does ParaGard compare to hormonal IUDs in terms of effectiveness and side effects?",
+            "answers": {
+                "answer_1": "The provided text focuses on ParaGard, a non-hormonal IUD, and mentions Mirena as another IUD option.  ParaGard reviews describe side effects including heavier, longer, and crampier periods, pain during insertion,  anxiety, depression, irritability, mood swings, headaches, fatigue, decreased sex drive, and painful sex. Some users reported no side effects or only mild ones.  The reviews do not directly compare ParaGard's effectiveness to hormonal IUDs, but all reviewers used ParaGard as birth control and reported varying levels of satisfaction.",
+                "answer_2": "One review mentions choosing ParaGard over Mirena because it is hormone-free.  Another review states that after an unsuccessful experience with ParaGard, the user switched to a hormonal IUD, noting that the hormonal IUD is apparently \"more effective\".  Several reviews mention heavier periods and cramping as side effects of ParaGard.  One review lists additional side effects experienced after about a year and a half of using ParaGard: severe headaches, extreme fatigue, irritability, mood swings, depression, anxiety attacks, anger issues, lack of sex drive, and painful sex.",
+                "answer_3": "The provided text focuses on ParaGard, a non-hormonal IUD, and compares it to hormonal birth control methods such as pills, implants, and injections.  Several reviews mention choosing ParaGard specifically because of negative experiences with hormonal birth control, citing side effects like nausea, depression, mood swings, weight gain, and clotting issues.  In contrast, ParaGard reviews describe side effects such as heavier periods, more intense cramps,  spotting, and in some cases,  no noticeable side effects. One review mentions  severe headaches, fatigue, irritability, mood swings, depression, anxiety attacks, anger issues, and loss of sex drive after about a year and a half of using ParaGard.  The effectiveness of ParaGard is mentioned in several reviews with one user reporting an unexpected pregnancy.  However, there is no direct comparison to hormonal IUDs in terms of effectiveness in the provided text."
+            }
+        },
+        {
+            "question": "Are there any known long-term effects of using Eszopiclone regularly for sleep?",
+            "answers": {
+                "answer_1": "One review mentions concern about unknown long-term health issues from using Eszopiclone for many years.",
+                "answer_2": "One review mentions concern about unknown long-term health issues from using Eszopiclone for eight years.  Another review states that a doctor advised against long-term use.",
+                "answer_3": "One review mentions concern about long-term unknown health issues from using eszopiclone for eight years.  Another review states that a doctor said it's not safe to take for an extended period."
+            }
+        },
+        {
+            "question": "What dietary or lifestyle adjustments can enhance the effectiveness of Trintellix for depression?",
+            "answers": {
+                "answer_1": "The context does not contain enough information to answer this question.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "Is Lamotrigine effective for rapid cycling in bipolar disorder?",
+            "answers": {
+                "answer_1": "Some individuals with rapid cycling bipolar disorder found Lamotrigine helpful initially, but the effectiveness decreased over time, requiring increased dosage.  For others, it was effective in lessening the intensity and frequency of mood swings. One review stated it was a miracle drug, while another reported increased suicidal thoughts and visions.  Therefore, effectiveness varied.",
+                "answer_2": "The provided reviews offer mixed results. Some individuals found Lamotrigine initially helpful for rapid cycling, but the effectiveness diminished over time, requiring increased dosage.  Others reported that it significantly helped manage or lessen rapid mood cycles. One review stated that Lamotrigine was not suitable for Bipolar Type 1.",
+                "answer_3": "Some individuals found Lamotrigine effective initially for rapid cycling, but the effect was short-lived, requiring dose increases.  In these cases, the \"good\" periods shortened with each dose increase.  Others reported that Lamotrigine dramatically improved rapid cycling symptoms within a week.  One review indicated that while it helped lessen mood swings, it wasn't suitable for Bipolar Type 1.  Another review reported that Lamotrigine helped improve rapid cycling at first, but the cycling returned after a short time, even with dose increases."
+            }
+        },
+        {
+            "question": "What is the success rate of Imiquimod in clearing HPV-related conditions within six months?",
+            "answers": {
+                "answer_1": "The provided text includes several individual experiences with Imiquimod for HPV, with varying outcomes and treatment durations.  Some users reported complete clearance of warts within a week or two, while others saw no improvement after two months.  There is no information on the overall success rate within a six-month timeframe.",
+                "answer_2": "The context does not contain enough information to answer this question.",
+                "answer_3": "The context does not contain enough information to answer this question."
+            }
+        },
+        {
+            "question": "How does ParaGard impact fertility after removal?",
+            "answers": {
+                "answer_1": "One review mentions a miscarriage after ParaGard removal and pregnancy. Another review states that pregnancy occurred while using ParaGard.  The provided text does not offer information on ParaGard's impact on fertility beyond these instances.",
+                "answer_2": "One review mentions a miscarriage after ParaGard removal and subsequent pregnancy.  Another review states the user had a child at age 37 after having ParaGard for seven years.  The context does not offer a definitive answer on how ParaGard impacts fertility after removal beyond these two instances.",
+                "answer_3": "The provided text does not contain information about the impact of ParaGard on fertility after removal."
+            }
+        }
+    ]
+}
