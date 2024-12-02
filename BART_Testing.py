@@ -7,6 +7,19 @@ from transformers import BartTokenizer
 tokenizer = BartTokenizer.from_pretrained("facebook/bart-base")
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
+
+model = BartForConditionalGeneration.from_pretrained('facebook/bart-base')
+lora_config = LoraConfig(
+    task_type=TaskType.SEQ_2_SEQ_LM,  # Specify the task type
+    r=8,  # Low-rank dimension
+    lora_alpha=32,  # Scaling factor
+    target_modules=["q_proj", "v_proj"],  # Apply LoRA to specific layers (query/key/value projections)
+    lora_dropout=0.1,  # Dropout for LoRA layers
+    bias="none"  # Bias setup
+)
+model = get_peft_model(model, lora_config)
+model = model.to(device)
+
 # Move the model to the device
 model = model.to(device)
 def get_answer(question):
@@ -26,5 +39,5 @@ def get_answer(question):
 
 # Example interaction
 
-user_question = "What is the use of Guanfacine?"
+user_question = "Hello, how are you?"
 print(f"Answer: {get_answer(user_question)}")

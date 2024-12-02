@@ -8,7 +8,7 @@ import os
 os.environ["WANDB_DISABLED"] = "true"
 
 # Load tokenized data
-data = torch.load("train_encodings.pt")
+data = torch.load("./dataset/train_encodings.pt")
 inputs = data["inputs"]
 labels = data["labels"]
 
